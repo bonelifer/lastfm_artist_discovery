@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-10-19T23:50:16.193255-07:00",
+    "last_updated": "2026-10-21T23:47:53.376834-07:00",
     "username": "sugarsmax",
-    "total_discoveries": 624,
+    "total_discoveries": 628,
     "total_graduated": 45
   },
   "catalog": {
@@ -6137,6 +6137,46 @@
       "album": "The Original Recorder Sonatas",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Georg%20Philipp%20Telemann%2C%20Robert%20Ehrlich%2C%20Richard%20Egarr%2C%20Mark%20Levy",
       "track_url": "https://www.last.fm/music/Georg+Philipp+Telemann%2C+Robert+Ehrlich%2C+Richard+Egarr%2C+Mark+Levy/_/Sonatina+in+A+Minor%2C+TWV+41:+IV+Presto",
+      "graduated": false
+    },
+    "johnny hates jazz": {
+      "artist": "Johnny Hates Jazz",
+      "first_discovered": "21 Oct 2026, 15:19",
+      "last_listened": "21 Oct 2026, 15:19",
+      "track": "Shattered Dreams",
+      "album": "Synth Pop",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Johnny%20Hates%20Jazz",
+      "track_url": "https://www.last.fm/music/Johnny+Hates+Jazz/_/Shattered+Dreams",
+      "graduated": false
+    },
+    "narciso yepes": {
+      "artist": "Narciso Yepes",
+      "first_discovered": "21 Oct 2026, 15:08",
+      "last_listened": "21 Oct 2026, 15:08",
+      "track": "Tárrega: Recuerdos de la Alhambra",
+      "album": "Guitarra Espanola",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Narciso%20Yepes",
+      "track_url": "https://www.last.fm/music/Narciso+Yepes/_/T%C3%A1rrega:+Recuerdos+de+la+Alhambra",
+      "graduated": false
+    },
+    "yeah yeah yeahs": {
+      "artist": "Yeah Yeah Yeahs",
+      "first_discovered": "21 Oct 2026, 15:05",
+      "last_listened": "21 Oct 2026, 15:05",
+      "track": "Heads Will Roll",
+      "album": "It's Blitz! (Deluxe Edition)",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Yeah%20Yeah%20Yeahs",
+      "track_url": "https://www.last.fm/music/Yeah+Yeah+Yeahs/_/Heads+Will+Roll",
+      "graduated": false
+    },
+    "peter schilling": {
+      "artist": "Peter Schilling",
+      "first_discovered": "21 Oct 2026, 15:01",
+      "last_listened": "21 Oct 2026, 15:01",
+      "track": "Major Tom",
+      "album": "Major Tom",
+      "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Peter%20Schilling",
+      "track_url": "https://www.last.fm/music/Peter+Schilling/_/Major+Tom",
       "graduated": false
     }
   }
