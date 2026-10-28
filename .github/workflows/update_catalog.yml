@@ -6,16 +6,42 @@ on:
     - cron: '0 2 * * *'
   workflow_dispatch: # Allow manual trigger from the UI
 
+concurrency:
+  group: catalog-updates
+  cancel-in-progress: false
+
 permissions:
-  contents: write # Needed to commit the updated JSON files back
+  contents: write
+  pull-requests: write
 
 jobs:
   update-catalog:
+    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Prepare catalog update branch
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git ls-remote --exit-code --heads origin automation/catalog-updates; then
+            git fetch origin automation/catalog-updates
+            git switch -c automation/catalog-updates origin/automation/catalog-updates
+            git merge --no-edit origin/main
+          else
+            status=$?
+            if [ "$status" -ne 2 ]; then
+              exit "$status"
+            fi
+            git switch -c automation/catalog-updates
+          fi
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -42,15 +68,29 @@ jobs:
         run: |
           python scripts/update_familiar.py --username bonelifer --no-cache
 
-      - name: Commit and push if changed
+      - name: Validate updated catalogs and scripts
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          python -m py_compile scripts/update_catalog.py scripts/update_familiar.py
+          python -m json.tool data/discovery_catalog.json > /dev/null
+          python -m json.tool data/familiar_catalog.json > /dev/null
+
+      - name: Publish and merge catalog pull request
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          set -euo pipefail
           git add data/discovery_catalog.json data/familiar_catalog.json
-          # Check if there are changes to commit
-          if git diff --staged --quiet; then
-            echo "No catalog changes to commit."
-          else
+          if ! git diff --staged --quiet; then
             git commit -m "Automated update: Last.fm catalogs"
-            git push
           fi
+          if git diff --quiet origin/main HEAD -- data/discovery_catalog.json data/familiar_catalog.json; then
+            echo "No catalog changes to publish."
+            exit 0
+          fi
+          git push --set-upstream origin automation/catalog-updates
+          pr_url=$(gh pr list --base main --head automation/catalog-updates --state open --json url --jq '.[0].url // empty')
+          if [ -z "$pr_url" ]; then
+            pr_url=$(gh pr create --base main --head automation/catalog-updates --title "Automated update: Last.fm catalogs" --body-file .github/catalog-update-pr.md)
+          fi
+          gh pr merge "$pr_url" --squash --delete-branch --match-head-commit "$(git rev-parse HEAD)"
