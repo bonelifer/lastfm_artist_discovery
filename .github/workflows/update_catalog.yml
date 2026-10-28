@@ -33,14 +33,14 @@ jobs:
           LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
           LASTFM_API_SECRET: ${{ secrets.LASTFM_API_SECRET }}
         run: |
-          python scripts/update_catalog.py --username sugarsmax --days 7 --no-cache
+          python scripts/update_catalog.py --username bonelifer --days 7 --no-cache
 
       - name: Run familiar catalog script
         env:
           LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
           LASTFM_API_SECRET: ${{ secrets.LASTFM_API_SECRET }}
         run: |
-          python scripts/update_familiar.py --username sugarsmax --no-cache
+          python scripts/update_familiar.py --username bonelifer --no-cache
 
       - name: Commit and push if changed
         run: |

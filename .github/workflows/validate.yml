@@ -1,0 +1,22 @@
+name: Validate
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  syntax:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Check Python syntax and catalog JSON
+        run: |
+          python -m py_compile scripts/update_catalog.py scripts/update_familiar.py
+          python -m json.tool data/discovery_catalog.json > /dev/null
+          python -m json.tool data/familiar_catalog.json > /dev/null
