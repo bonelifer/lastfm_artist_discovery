@@ -1,5 +1,7 @@
 # lastfm_artist_discovery
 
+[Visit the live site](https://bonelifer.github.io/lastfm_artist_discovery/)
+
 Personal copy for the Last.fm user `bonelifer`.
 
 A GitHub Pages site that tracks artists discovered via Last.fm scrobbles. Updated nightly by GitHub Actions.
