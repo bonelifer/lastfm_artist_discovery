@@ -21,7 +21,7 @@ A GitHub Pages site that tracks artists discovered via Last.fm scrobbles. Update
 
 ## Setup
 
-Add `LASTFM_API_KEY` and `LASTFM_API_SECRET` in the repository's Actions secrets before running **Update Artist Catalog**. The workflow uses `bonelifer` for both catalogs. The checked-in catalogs initially contain upstream data until a successful update replaces or updates them.
+Add `LASTFM_API_KEY` and `LASTFM_API_SECRET` in the repository's Actions secrets before running **Update Artist Catalog**. The workflow uses `bonelifer` for both catalogs. It validates the generated JSON and Python syntax, opens or updates a catalog pull request, and squash-merges it automatically. Failed validation or merge conflicts stop the run. Enable **Allow GitHub Actions to create and approve pull requests** in Settings → Actions → General. The workflow uses the built-in token; no additional token secret is needed. The checked-in catalogs initially contain upstream data until a successful update replaces or updates them.
 
 To publish the static site, configure GitHub Pages to deploy from the default branch root.
 
