@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-10-31T01:14:43.326441-07:00",
+    "last_updated": "2026-11-01T01:58:24.433605-07:00",
     "username": "bonelifer",
-    "total_discoveries": 892,
+    "total_discoveries": 930,
     "total_graduated": 68
   },
   "catalog": {
@@ -1443,13 +1443,13 @@
     "paul simon": {
       "artist": "Paul Simon",
       "first_discovered": "03 Apr 2026, 22:18",
-      "last_listened": "29 Oct 2026, 06:18",
-      "track": "René and Georgette Magritte With Their Dog After the War",
+      "last_listened": "31 Oct 2026, 23:17",
+      "track": "You Can Call Me Al",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Paul%20Simon",
-      "track_url": "https://www.last.fm/music/Paul+Simon/_/Ren%C3%A9+and+Georgette+Magritte+With+Their+Dog+After+the+War",
+      "track_url": "https://www.last.fm/music/Paul+Simon/_/You+Can+Call+Me+Al",
       "graduated": true,
       "graduated_date": "2026-04-29T22:22:47.932897-07:00",
-      "album": "In the Blue Light"
+      "album": "Canciones del Verano de los 80"
     },
     "deadmau5, lights": {
       "artist": "deadmau5, Lights",
@@ -2592,11 +2592,11 @@
     "sarah mclachlan": {
       "artist": "Sarah McLachlan",
       "first_discovered": "25 May 2026, 15:54",
-      "last_listened": "23 Oct 2026, 19:41",
-      "track": "THE CHRISTMAS SONG",
-      "album": "Wonderland",
+      "last_listened": "31 Oct 2026, 22:23",
+      "track": "Adia",
+      "album": "Surfacing",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Sarah%20McLachlan",
-      "track_url": "https://www.last.fm/music/Sarah+McLachlan/_/THE+CHRISTMAS+SONG",
+      "track_url": "https://www.last.fm/music/Sarah+McLachlan/_/Adia",
       "graduated": true,
       "graduated_date": "2026-05-27T23:01:23.893328-07:00"
     },
@@ -6268,11 +6268,11 @@
     "vince gill": {
       "artist": "Vince Gill",
       "first_discovered": "27 Oct 2026, 02:47",
-      "last_listened": "27 Oct 2026, 02:47",
-      "track": "Brown's Diner Bar",
-      "album": "50 Years From Home: Brown's Diner Bar",
+      "last_listened": "31 Oct 2026, 09:26",
+      "track": "Nobody Held Her Like Me",
+      "album": "50 Years From Home: Nobody Held Her Like Me",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Vince%20Gill",
-      "track_url": "https://www.last.fm/music/Vince+Gill/_/Brown's+Diner+Bar",
+      "track_url": "https://www.last.fm/music/Vince+Gill/_/Nobody+Held+Her+Like+Me",
       "graduated": false
     },
     "big & rich": {
@@ -6678,21 +6678,21 @@
     "first to eleven": {
       "artist": "First to Eleven",
       "first_discovered": "25 Oct 2026, 04:44",
-      "last_listened": "30 Oct 2026, 22:59",
-      "track": "Poker Face",
-      "album": "Covers, Vol. 3",
+      "last_listened": "31 Oct 2026, 09:08",
+      "track": "Cherub Rock",
+      "album": "Cherub Rock",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/First%20to%20Eleven",
-      "track_url": "https://www.last.fm/music/First+to+Eleven/_/Poker+Face",
+      "track_url": "https://www.last.fm/music/First+to+Eleven/_/Cherub+Rock",
       "graduated": false
     },
     "the head and the heart": {
       "artist": "The Head and the Heart",
       "first_discovered": "25 Oct 2026, 04:35",
-      "last_listened": "25 Oct 2026, 04:35",
-      "track": "Hurts (But It Goes Away)",
+      "last_listened": "31 Oct 2026, 01:15",
+      "track": "Shut Up",
       "album": "Every Shade of Blue",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/The%20Head%20and%20the%20Heart",
-      "track_url": "https://www.last.fm/music/The+Head+and+the+Heart/_/Hurts+%28But+It+Goes+Away%29",
+      "track_url": "https://www.last.fm/music/The+Head+and+the+Heart/_/Shut+Up",
       "graduated": false
     },
     "the wailers": {
@@ -7258,11 +7258,11 @@
     "the goo goo dolls": {
       "artist": "The Goo Goo Dolls",
       "first_discovered": "23 Oct 2026, 20:22",
-      "last_listened": "23 Oct 2026, 20:22",
-      "track": "Lucky One",
+      "last_listened": "31 Oct 2026, 02:10",
+      "track": "Boxes",
       "album": "Boxes",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/The%20Goo%20Goo%20Dolls",
-      "track_url": "https://www.last.fm/music/The+Goo+Goo+Dolls/_/Lucky+One",
+      "track_url": "https://www.last.fm/music/The+Goo+Goo+Dolls/_/Boxes",
       "graduated": false
     },
     "todd snider": {
@@ -8108,11 +8108,11 @@
     "nickel creek": {
       "artist": "Nickel Creek",
       "first_discovered": "21 Oct 2026, 21:21",
-      "last_listened": "21 Oct 2026, 21:21",
-      "track": "Cuckoo's Nest",
+      "last_listened": "31 Oct 2026, 03:22",
+      "track": "When You Come Back Down",
       "album": "Live From The Fox Theater",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Nickel%20Creek",
-      "track_url": "https://www.last.fm/music/Nickel+Creek/_/Cuckoo's+Nest",
+      "track_url": "https://www.last.fm/music/Nickel+Creek/_/When+You+Come+Back+Down",
       "graduated": false
     },
     "moby/the void pacific choir": {
@@ -8198,11 +8198,11 @@
     "britney spears": {
       "artist": "Britney Spears",
       "first_discovered": "21 Oct 2026, 18:50",
-      "last_listened": "21 Oct 2026, 18:50",
-      "track": "...Baby One More Time",
-      "album": "...Baby One More Time",
+      "last_listened": "01 Nov 2026, 01:42",
+      "track": "Everytime",
+      "album": "Love Song",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Britney%20Spears",
-      "track_url": "https://www.last.fm/music/Britney+Spears/_/...Baby+One+More+Time",
+      "track_url": "https://www.last.fm/music/Britney+Spears/_/Everytime",
       "graduated": false
     },
     "st. vincent": {
@@ -8518,11 +8518,11 @@
     "seal": {
       "artist": "Seal",
       "first_discovered": "29 Oct 2026, 18:19",
-      "last_listened": "29 Oct 2026, 18:19",
-      "track": "Do You Ever",
-      "album": "7",
+      "last_listened": "31 Oct 2026, 04:02",
+      "track": "Anyone Who Knows What Love Is",
+      "album": "Standards",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Seal",
-      "track_url": "https://www.last.fm/music/Seal/_/Do+You+Ever",
+      "track_url": "https://www.last.fm/music/Seal/_/Anyone+Who+Knows+What+Love+Is",
       "graduated": false
     },
     "erica morini/rudolf firkušný/ludwig van beethoven": {
@@ -8598,11 +8598,11 @@
     "slaid cleaves": {
       "artist": "Slaid Cleaves",
       "first_discovered": "29 Oct 2026, 11:12",
-      "last_listened": "29 Oct 2026, 11:12",
-      "track": "Sparrow",
+      "last_listened": "31 Oct 2026, 02:03",
+      "track": "Second Hand",
       "album": "Together Through the Dark",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Slaid%20Cleaves",
-      "track_url": "https://www.last.fm/music/Slaid+Cleaves/_/Sparrow",
+      "track_url": "https://www.last.fm/music/Slaid+Cleaves/_/Second+Hand",
       "graduated": false
     },
     "bobby freeman": {
@@ -8638,11 +8638,11 @@
     "paul carrack": {
       "artist": "Paul Carrack",
       "first_discovered": "29 Oct 2026, 10:02",
-      "last_listened": "29 Oct 2026, 10:02",
-      "track": "Eyes of Blue (Remastered)",
-      "album": "Love Songs, Vol. 1",
+      "last_listened": "31 Oct 2026, 02:18",
+      "track": "With You in Mind [Remastered]",
+      "album": "Love Songs, Vol. 2",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Paul%20Carrack",
-      "track_url": "https://www.last.fm/music/Paul+Carrack/_/Eyes+of+Blue+%28Remastered%29",
+      "track_url": "https://www.last.fm/music/Paul+Carrack/_/With+You+in+Mind+%5BRemastered%5D",
       "graduated": false
     },
     "patti labelle": {
@@ -8658,11 +8658,11 @@
     "le youth": {
       "artist": "Le Youth",
       "first_discovered": "29 Oct 2026, 08:19",
-      "last_listened": "29 Oct 2026, 08:19",
-      "track": "Virgo",
-      "album": "Virgo (Single)",
+      "last_listened": "31 Oct 2026, 04:46",
+      "track": "See You Everywhere",
+      "album": "Reminders",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Le%20Youth",
-      "track_url": "https://www.last.fm/music/Le+Youth/_/Virgo",
+      "track_url": "https://www.last.fm/music/Le+Youth/_/See+You+Everywhere",
       "graduated": false
     },
     "mary martin": {
@@ -8843,6 +8843,386 @@
       "album": "Bleed American",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Jimmy%20Eat%20World",
       "track_url": "https://www.last.fm/music/Jimmy+Eat+World/_/The+Middle",
+      "graduated": false
+    },
+    "train": {
+      "artist": "Train",
+      "first_discovered": "01 Nov 2026, 01:54",
+      "last_listened": "01 Nov 2026, 01:54",
+      "track": "Shake up Christmas (Xmas Anthem)",
+      "album": "Christmas Hits",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Train",
+      "track_url": "https://www.last.fm/music/Train/_/Shake+up+Christmas+%28Xmas+Anthem%29",
+      "graduated": false
+    },
+    "starship": {
+      "artist": "Starship",
+      "first_discovered": "01 Nov 2026, 01:34",
+      "last_listened": "01 Nov 2026, 01:34",
+      "track": "Nothing's Gonna Stop Us Now",
+      "album": "80's STOP!",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Starship",
+      "track_url": "https://www.last.fm/music/Starship/_/Nothing's+Gonna+Stop+Us+Now",
+      "graduated": false
+    },
+    "cliff richard": {
+      "artist": "Cliff Richard",
+      "first_discovered": "01 Nov 2026, 01:22",
+      "last_listened": "01 Nov 2026, 01:22",
+      "track": "Mistletoe and Wine",
+      "album": "Christmas Dreams",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Cliff%20Richard",
+      "track_url": "https://www.last.fm/music/Cliff+Richard/_/Mistletoe+and+Wine",
+      "graduated": false
+    },
+    "eddie money": {
+      "artist": "Eddie Money",
+      "first_discovered": "01 Nov 2026, 01:01",
+      "last_listened": "01 Nov 2026, 01:01",
+      "track": "Two Tickets to Paradise",
+      "album": "Pop Music: The Modern Era 1976-1999",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Eddie%20Money",
+      "track_url": "https://www.last.fm/music/Eddie+Money/_/Two+Tickets+to+Paradise",
+      "graduated": false
+    },
+    "mr. mister": {
+      "artist": "Mr. Mister",
+      "first_discovered": "01 Nov 2026, 00:56",
+      "last_listened": "01 Nov 2026, 00:56",
+      "track": "Broken Wings",
+      "album": "Hits of the 80s",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Mr.%20Mister",
+      "track_url": "https://www.last.fm/music/Mr.+Mister/_/Broken+Wings",
+      "graduated": false
+    },
+    "faith hill": {
+      "artist": "Faith Hill",
+      "first_discovered": "01 Nov 2026, 00:50",
+      "last_listened": "01 Nov 2026, 00:50",
+      "track": "Joy to the World",
+      "album": "Weihnachtsmusik: 111 Weihnachtslieder",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Faith%20Hill",
+      "track_url": "https://www.last.fm/music/Faith+Hill/_/Joy+to+the+World",
+      "graduated": false
+    },
+    "bush": {
+      "artist": "Bush",
+      "first_discovered": "01 Nov 2026, 00:42",
+      "last_listened": "01 Nov 2026, 00:42",
+      "track": "Comedown",
+      "album": "Sixteen Stone",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Bush",
+      "track_url": "https://www.last.fm/music/Bush/_/Comedown",
+      "graduated": false
+    },
+    "bay city rollers": {
+      "artist": "Bay City Rollers",
+      "first_discovered": "01 Nov 2026, 00:40",
+      "last_listened": "01 Nov 2026, 00:40",
+      "track": "Bye Bye Baby",
+      "album": "Get The Party Started: Essential Pop and Dance Anthems",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Bay%20City%20Rollers",
+      "track_url": "https://www.last.fm/music/Bay+City+Rollers/_/Bye+Bye+Baby",
+      "graduated": false
+    },
+    "goo goo dolls": {
+      "artist": "Goo Goo Dolls",
+      "first_discovered": "01 Nov 2026, 00:25",
+      "last_listened": "01 Nov 2026, 00:25",
+      "track": "Slide",
+      "album": "Dizzy Up the Girl",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Goo%20Goo%20Dolls",
+      "track_url": "https://www.last.fm/music/Goo+Goo+Dolls/_/Slide",
+      "graduated": false
+    },
+    "the fray": {
+      "artist": "The Fray",
+      "first_discovered": "31 Oct 2026, 23:58",
+      "last_listened": "31 Oct 2026, 23:58",
+      "track": "How to Save a Life",
+      "album": "Love Song",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/The%20Fray",
+      "track_url": "https://www.last.fm/music/The+Fray/_/How+to+Save+a+Life",
+      "graduated": false
+    },
+    "jason aldean": {
+      "artist": "Jason Aldean",
+      "first_discovered": "31 Oct 2026, 23:48",
+      "last_listened": "31 Oct 2026, 23:48",
+      "track": "Fly Over States",
+      "album": "My Kinda Party",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Jason%20Aldean",
+      "track_url": "https://www.last.fm/music/Jason+Aldean/_/Fly+Over+States",
+      "graduated": false
+    },
+    "lifehouse": {
+      "artist": "Lifehouse",
+      "first_discovered": "31 Oct 2026, 23:45",
+      "last_listened": "31 Oct 2026, 23:45",
+      "track": "Hanging by a Moment",
+      "album": "No Name Face",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Lifehouse",
+      "track_url": "https://www.last.fm/music/Lifehouse/_/Hanging+by+a+Moment",
+      "graduated": false
+    },
+    "bobby bare": {
+      "artist": "Bobby Bare",
+      "first_discovered": "31 Oct 2026, 23:41",
+      "last_listened": "31 Oct 2026, 23:41",
+      "track": "Detroit City (from the Johnny Cash TV show)",
+      "album": "The Best Of The Johnny Cash TV Show",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Bobby%20Bare",
+      "track_url": "https://www.last.fm/music/Bobby+Bare/_/Detroit+City+%28from+the+Johnny+Cash+TV+show%29",
+      "graduated": false
+    },
+    "demi lovato": {
+      "artist": "Demi Lovato",
+      "first_discovered": "31 Oct 2026, 23:07",
+      "last_listened": "31 Oct 2026, 23:07",
+      "track": "Confident",
+      "album": "Break Up Anthems",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Demi%20Lovato",
+      "track_url": "https://www.last.fm/music/Demi+Lovato/_/Confident",
+      "graduated": false
+    },
+    "howlin’ wolf": {
+      "artist": "Howlin’ Wolf",
+      "first_discovered": "31 Oct 2026, 23:00",
+      "last_listened": "31 Oct 2026, 23:00",
+      "track": "Smokestack Lightnin’",
+      "album": "The Blues Collection 7: London Sessions",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Howlin%E2%80%99%20Wolf",
+      "track_url": "https://www.last.fm/music/Howlin%E2%80%99+Wolf/_/Smokestack+Lightnin%E2%80%99",
+      "graduated": false
+    },
+    "james taylor": {
+      "artist": "James Taylor",
+      "first_discovered": "31 Oct 2026, 22:53",
+      "last_listened": "31 Oct 2026, 22:53",
+      "track": "Your Smiling Face",
+      "album": "Pop Music: The Modern Era 1976-1999",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/James%20Taylor",
+      "track_url": "https://www.last.fm/music/James+Taylor/_/Your+Smiling+Face",
+      "graduated": false
+    },
+    "butthole surfers": {
+      "artist": "Butthole Surfers",
+      "first_discovered": "31 Oct 2026, 22:37",
+      "last_listened": "31 Oct 2026, 22:37",
+      "track": "Pepper",
+      "album": "Electriclarryland",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Butthole%20Surfers",
+      "track_url": "https://www.last.fm/music/Butthole+Surfers/_/Pepper",
+      "graduated": false
+    },
+    "counting crows": {
+      "artist": "Counting Crows",
+      "first_discovered": "31 Oct 2026, 22:28",
+      "last_listened": "31 Oct 2026, 22:28",
+      "track": "A Long December",
+      "album": "Recovering The Satellites",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Counting%20Crows",
+      "track_url": "https://www.last.fm/music/Counting+Crows/_/A+Long+December",
+      "graduated": false
+    },
+    "bruce springsteen & the e street band": {
+      "artist": "Bruce Springsteen & The E Street Band",
+      "first_discovered": "31 Oct 2026, 22:15",
+      "last_listened": "31 Oct 2026, 22:15",
+      "track": "Merry Christmas Baby",
+      "album": "A Very Special Christmas",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Bruce%20Springsteen%20%26%20The%20E%20Street%20Band",
+      "track_url": "https://www.last.fm/music/Bruce+Springsteen+%26+The+E+Street+Band/_/Merry+Christmas+Baby",
+      "graduated": false
+    },
+    "everclear": {
+      "artist": "Everclear",
+      "first_discovered": "31 Oct 2026, 22:10",
+      "last_listened": "31 Oct 2026, 22:10",
+      "track": "Santa Monica",
+      "album": "Sparkle And Fade",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Everclear",
+      "track_url": "https://www.last.fm/music/Everclear/_/Santa+Monica",
+      "graduated": false
+    },
+    "the verve pipe": {
+      "artist": "The Verve Pipe",
+      "first_discovered": "31 Oct 2026, 22:05",
+      "last_listened": "31 Oct 2026, 22:05",
+      "track": "The Freshmen",
+      "album": "Dinner With Friends",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/The%20Verve%20Pipe",
+      "track_url": "https://www.last.fm/music/The+Verve+Pipe/_/The+Freshmen",
+      "graduated": false
+    },
+    "charles wesley godwin": {
+      "artist": "Charles Wesley Godwin",
+      "first_discovered": "31 Oct 2026, 21:40",
+      "last_listened": "31 Oct 2026, 21:40",
+      "track": "Hallelujah High",
+      "album": "",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Charles%20Wesley%20Godwin",
+      "track_url": "https://www.last.fm/music/Charles+Wesley+Godwin/_/Hallelujah+High",
+      "graduated": false
+    },
+    "ella langley": {
+      "artist": "Ella Langley",
+      "first_discovered": "31 Oct 2026, 21:25",
+      "last_listened": "31 Oct 2026, 21:25",
+      "track": "Dandelion",
+      "album": "Dandelion",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Ella%20Langley",
+      "track_url": "https://www.last.fm/music/Ella+Langley/_/Dandelion",
+      "graduated": false
+    },
+    "candlebox": {
+      "artist": "Candlebox",
+      "first_discovered": "31 Oct 2026, 21:20",
+      "last_listened": "31 Oct 2026, 21:20",
+      "track": "Far Behind",
+      "album": "Candlebox",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Candlebox",
+      "track_url": "https://www.last.fm/music/Candlebox/_/Far+Behind",
+      "graduated": false
+    },
+    "treaty oak revival": {
+      "artist": "Treaty Oak Revival",
+      "first_discovered": "31 Oct 2026, 20:43",
+      "last_listened": "31 Oct 2026, 20:43",
+      "track": "Bad State of Mind",
+      "album": "West Texas Degenerate",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Treaty%20Oak%20Revival",
+      "track_url": "https://www.last.fm/music/Treaty+Oak+Revival/_/Bad+State+of+Mind",
+      "graduated": false
+    },
+    "sublime": {
+      "artist": "Sublime",
+      "first_discovered": "31 Oct 2026, 18:56",
+      "last_listened": "31 Oct 2026, 18:56",
+      "track": "Badfish",
+      "album": "40 Oz. to Freedom",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Sublime",
+      "track_url": "https://www.last.fm/music/Sublime/_/Badfish",
+      "graduated": false
+    },
+    "johnny cash/the tennessee two": {
+      "artist": "Johnny Cash/The Tennessee Two",
+      "first_discovered": "31 Oct 2026, 09:13",
+      "last_listened": "31 Oct 2026, 09:13",
+      "track": "My Treasure",
+      "album": "The Man, The World, His Music",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Johnny%20Cash%2FThe%20Tennessee%20Two",
+      "track_url": "https://www.last.fm/music/Johnny+Cash%2FThe+Tennessee+Two/_/My+Treasure",
+      "graduated": false
+    },
+    "shel silverstein": {
+      "artist": "Shel Silverstein",
+      "first_discovered": "31 Oct 2026, 09:04",
+      "last_listened": "31 Oct 2026, 09:04",
+      "track": "A Front Row Seat to Hear Ole Johnny Sing",
+      "album": "Singles Plus",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Shel%20Silverstein",
+      "track_url": "https://www.last.fm/music/Shel+Silverstein/_/A+Front+Row+Seat+to+Hear+Ole+Johnny+Sing",
+      "graduated": false
+    },
+    "lee brice, hailey whitters, nate smith": {
+      "artist": "Lee Brice, Hailey Whitters, Nate Smith",
+      "first_discovered": "31 Oct 2026, 08:43",
+      "last_listened": "31 Oct 2026, 08:43",
+      "track": "Drinkin' Buddies",
+      "album": "Sunriser (All-Nighter)",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Lee%20Brice%2C%20Hailey%20Whitters%2C%20Nate%20Smith",
+      "track_url": "https://www.last.fm/music/Lee+Brice%2C+Hailey+Whitters%2C+Nate+Smith/_/Drinkin'+Buddies",
+      "graduated": false
+    },
+    "michael martin murphey & randy rogers": {
+      "artist": "Michael Martin Murphey & Randy Rogers",
+      "first_discovered": "31 Oct 2026, 04:42",
+      "last_listened": "31 Oct 2026, 04:42",
+      "track": "Backslider’s Wine",
+      "album": "Austinology • Alleys Of Austin",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Michael%20Martin%20Murphey%20%26%20Randy%20Rogers",
+      "track_url": "https://www.last.fm/music/Michael+Martin+Murphey+%26+Randy+Rogers/_/Backslider%E2%80%99s+Wine",
+      "graduated": false
+    },
+    "connie francis": {
+      "artist": "Connie Francis",
+      "first_discovered": "31 Oct 2026, 04:29",
+      "last_listened": "31 Oct 2026, 04:29",
+      "track": "Don't Break The Heart That Loves You",
+      "album": "Time-Life - Am Gold - 1962",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Connie%20Francis",
+      "track_url": "https://www.last.fm/music/Connie+Francis/_/Don't+Break+The+Heart+That+Loves+You",
+      "graduated": false
+    },
+    "needtobreathe feat. carly pearce": {
+      "artist": "NEEDTOBREATHE feat. Carly Pearce",
+      "first_discovered": "31 Oct 2026, 03:54",
+      "last_listened": "31 Oct 2026, 03:54",
+      "track": "Fall On Me",
+      "album": "CAVES",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/NEEDTOBREATHE%20feat.%20Carly%20Pearce",
+      "track_url": "https://www.last.fm/music/NEEDTOBREATHE+feat.+Carly+Pearce/_/Fall+On+Me",
+      "graduated": false
+    },
+    "jon pardi feat. lauren alaina": {
+      "artist": "Jon Pardi feat. Lauren Alaina",
+      "first_discovered": "31 Oct 2026, 03:50",
+      "last_listened": "31 Oct 2026, 03:50",
+      "track": "Don’t Blame It on Whiskey",
+      "album": "Heartache Medication",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Jon%20Pardi%20feat.%20Lauren%20Alaina",
+      "track_url": "https://www.last.fm/music/Jon+Pardi+feat.+Lauren+Alaina/_/Don%E2%80%99t+Blame+It+on+Whiskey",
+      "graduated": false
+    },
+    "robin eubanks": {
+      "artist": "Robin Eubanks",
+      "first_discovered": "31 Oct 2026, 03:35",
+      "last_listened": "31 Oct 2026, 03:35",
+      "track": "02 Soliloquy",
+      "album": "Art of the Jazz Ballad",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Robin%20Eubanks",
+      "track_url": "https://www.last.fm/music/Robin+Eubanks/_/02+Soliloquy",
+      "graduated": false
+    },
+    "the chi-lites": {
+      "artist": "The Chi-Lites",
+      "first_discovered": "31 Oct 2026, 03:00",
+      "last_listened": "31 Oct 2026, 03:00",
+      "track": "Oh Girl",
+      "album": "Crooklyn, Volume 1",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/The%20Chi-Lites",
+      "track_url": "https://www.last.fm/music/The+Chi-Lites/_/Oh+Girl",
+      "graduated": false
+    },
+    "rob zombie": {
+      "artist": "Rob Zombie",
+      "first_discovered": "31 Oct 2026, 02:38",
+      "last_listened": "31 Oct 2026, 02:38",
+      "track": "Pussy Liquor",
+      "album": "Past, Present & Future",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Rob%20Zombie",
+      "track_url": "https://www.last.fm/music/Rob+Zombie/_/Pussy+Liquor",
+      "graduated": false
+    },
+    "dee clark": {
+      "artist": "Dee Clark",
+      "first_discovered": "31 Oct 2026, 01:43",
+      "last_listened": "31 Oct 2026, 01:43",
+      "track": "Raindrops",
+      "album": "200 Original Jukebox Hits",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Dee%20Clark",
+      "track_url": "https://www.last.fm/music/Dee+Clark/_/Raindrops",
+      "graduated": false
+    },
+    "guns n’ roses, steven tyler & joe perry": {
+      "artist": "Guns N’ Roses, Steven Tyler & Joe Perry",
+      "first_discovered": "31 Oct 2026, 01:11",
+      "last_listened": "31 Oct 2026, 01:11",
+      "track": "Mama Kin (live in Paris)",
+      "album": "Use your Illusion II",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Guns%20N%E2%80%99%20Roses%2C%20Steven%20Tyler%20%26%20Joe%20Perry",
+      "track_url": "https://www.last.fm/music/Guns+N%E2%80%99+Roses%2C+Steven+Tyler+%26+Joe+Perry/_/Mama+Kin+%28live+in+Paris%29",
       "graduated": false
     }
   }
