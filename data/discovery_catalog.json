@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-03T01:17:30.552774-08:00",
+    "last_updated": "2026-11-04T00:52:20.580466-08:00",
     "username": "bonelifer",
-    "total_discoveries": 1040,
+    "total_discoveries": 1070,
     "total_graduated": 69
   },
   "catalog": {
@@ -491,7 +491,7 @@
     "duran duran": {
       "artist": "Duran Duran",
       "first_discovered": "21 Feb 2026, 18:12",
-      "last_listened": "02 Nov 2026, 15:29",
+      "last_listened": "03 Nov 2026, 17:42",
       "track": "Girls on Film",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Duran%20Duran",
       "track_url": "https://www.last.fm/music/Duran+Duran/_/Girls+on+Film",
@@ -502,12 +502,13 @@
     "the smiths": {
       "artist": "The Smiths",
       "first_discovered": "21 Feb 2026, 18:05",
-      "last_listened": "21 Feb 2026, 18:05",
-      "track": "How Soon Is Now? (2011 Remaster)",
+      "last_listened": "03 Nov 2026, 17:24",
+      "track": "William, It Was Really Nothing",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Smiths",
-      "track_url": "https://www.last.fm/music/The+Smiths/_/How+Soon+Is+Now%3F+%282011+Remaster%29",
+      "track_url": "https://www.last.fm/music/The+Smiths/_/William%2C+It+Was+Really+Nothing",
       "graduated": true,
-      "graduated_date": "2026-02-26T20:03:59.474052-08:00"
+      "graduated_date": "2026-02-26T20:03:59.474052-08:00",
+      "album": "Complete"
     },
     "kajagoogoo": {
       "artist": "Kajagoogoo",
@@ -1008,7 +1009,7 @@
     "cutting crew": {
       "artist": "Cutting Crew",
       "first_discovered": "06 Mar 2026, 15:49",
-      "last_listened": "02 Nov 2026, 21:45",
+      "last_listened": "03 Nov 2026, 04:33",
       "track": "(I Just) Died in Your Arms",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Cutting%20Crew",
       "track_url": "https://www.last.fm/music/Cutting+Crew/_/%28I+Just%29+Died+in+Your+Arms",
@@ -2595,11 +2596,11 @@
     "sarah mclachlan": {
       "artist": "Sarah McLachlan",
       "first_discovered": "25 May 2026, 15:54",
-      "last_listened": "02 Nov 2026, 05:11",
-      "track": "The Rainbow Connection (from the Sony Wonder album \"Return to Pooh Corner\" LT/LK 57674)",
-      "album": "Rarities, B-Sides and Other Stuff, Volume 2",
+      "last_listened": "03 Nov 2026, 03:54",
+      "track": "Witness (Live)",
+      "album": "The Essential Sarah McLachlan",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Sarah%20McLachlan",
-      "track_url": "https://www.last.fm/music/Sarah+McLachlan/_/The+Rainbow+Connection+%28from+the+Sony+Wonder+album+%22Return+to+Pooh+Corner%22+LT%2FLK+57674%29",
+      "track_url": "https://www.last.fm/music/Sarah+McLachlan/_/Witness+%28Live%29",
       "graduated": true,
       "graduated_date": "2026-05-27T23:01:23.893328-07:00"
     },
@@ -2754,9 +2755,9 @@
     "the romantics": {
       "artist": "The Romantics",
       "first_discovered": "21 May 2026, 19:51",
-      "last_listened": "21 May 2026, 19:51",
+      "last_listened": "03 Nov 2026, 16:21",
       "track": "Talking in Your Sleep",
-      "album": "Stranger Things (Soundtrack from the Netflix Original Series)",
+      "album": "Stranger Things: Music from the Netflix Original Series",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Romantics",
       "track_url": "https://www.last.fm/music/The+Romantics/_/Talking+in+Your+Sleep",
       "graduated": true,
@@ -6912,11 +6913,11 @@
     "toni braxton": {
       "artist": "Toni Braxton",
       "first_discovered": "24 Oct 2026, 06:29",
-      "last_listened": "02 Nov 2026, 20:46",
-      "track": "He Wasn't Man Enough",
-      "album": "Single and Loving It",
+      "last_listened": "03 Nov 2026, 05:59",
+      "track": "Spanish Guitar",
+      "album": "Dinner With Friends",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Toni%20Braxton",
-      "track_url": "https://www.last.fm/music/Toni+Braxton/_/He+Wasn't+Man+Enough",
+      "track_url": "https://www.last.fm/music/Toni+Braxton/_/Spanish+Guitar",
       "graduated": false
     },
     "guy lombardo": {
@@ -7382,11 +7383,11 @@
     "eminem": {
       "artist": "Eminem",
       "first_discovered": "23 Oct 2026, 17:47",
-      "last_listened": "23 Oct 2026, 17:47",
-      "track": "Fall",
-      "album": "Kamikaze",
+      "last_listened": "03 Nov 2026, 23:43",
+      "track": "Who Knew?",
+      "album": "The Marshall Mathers LP",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Eminem",
-      "track_url": "https://www.last.fm/music/Eminem/_/Fall",
+      "track_url": "https://www.last.fm/music/Eminem/_/Who+Knew%3F",
       "graduated": false
     },
     "beach boys": {
@@ -8342,11 +8343,11 @@
     "rufus wainwright": {
       "artist": "Rufus Wainwright",
       "first_discovered": "29 Oct 2026, 00:14",
-      "last_listened": "29 Oct 2026, 00:14",
-      "track": "You Ain’t Big",
-      "album": "Unfollow the Rules",
+      "last_listened": "04 Nov 2026, 00:08",
+      "track": "A foggy day",
+      "album": "Rufus Does Judy At Capitol Studios",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Rufus%20Wainwright",
-      "track_url": "https://www.last.fm/music/Rufus+Wainwright/_/You+Ain%E2%80%99t+Big",
+      "track_url": "https://www.last.fm/music/Rufus+Wainwright/_/A+foggy+day",
       "graduated": false
     },
     "the rolling stones feat. lady gaga": {
@@ -8442,11 +8443,11 @@
     "nine inch nails": {
       "artist": "Nine Inch Nails",
       "first_discovered": "28 Oct 2026, 20:51",
-      "last_listened": "28 Oct 2026, 20:51",
-      "track": "Still Right Here",
-      "album": "Ghosts V: Together",
+      "last_listened": "03 Nov 2026, 02:47",
+      "track": "Play the Goddamned Part",
+      "album": "Bad Witch",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Nine%20Inch%20Nails",
-      "track_url": "https://www.last.fm/music/Nine+Inch+Nails/_/Still+Right+Here",
+      "track_url": "https://www.last.fm/music/Nine+Inch+Nails/_/Play+the+Goddamned+Part",
       "graduated": false
     },
     "tracy chapman": {
@@ -8592,11 +8593,11 @@
     "neal schon feat. marco mendoza, gregg rolie, deen castronovo & john varn": {
       "artist": "Neal Schon feat. Marco Mendoza, Gregg Rolie, Deen Castronovo & John Varn",
       "first_discovered": "29 Oct 2026, 11:31",
-      "last_listened": "29 Oct 2026, 11:31",
-      "track": "Mother Father - Live",
+      "last_listened": "04 Nov 2026, 00:13",
+      "track": "Lovin' Touchin Squeezin - Live",
       "album": "Journey Through Time (Live)",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Neal%20Schon%20feat.%20Marco%20Mendoza%2C%20Gregg%20Rolie%2C%20Deen%20Castronovo%20%26%20John%20Varn",
-      "track_url": "https://www.last.fm/music/Neal+Schon+feat.+Marco+Mendoza%2C+Gregg+Rolie%2C+Deen+Castronovo+%26+John+Varn/_/Mother+Father+-+Live",
+      "track_url": "https://www.last.fm/music/Neal+Schon+feat.+Marco+Mendoza%2C+Gregg+Rolie%2C+Deen+Castronovo+%26+John+Varn/_/Lovin'+Touchin+Squeezin+-+Live",
       "graduated": false
     },
     "slaid cleaves": {
@@ -8872,7 +8873,7 @@
     "cliff richard": {
       "artist": "Cliff Richard",
       "first_discovered": "01 Nov 2026, 01:22",
-      "last_listened": "02 Nov 2026, 21:12",
+      "last_listened": "03 Nov 2026, 05:47",
       "track": "Mistletoe and Wine",
       "album": "Christmas Dreams",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Cliff%20Richard",
@@ -8892,9 +8893,9 @@
     "mr. mister": {
       "artist": "Mr. Mister",
       "first_discovered": "01 Nov 2026, 00:56",
-      "last_listened": "02 Nov 2026, 17:56",
+      "last_listened": "03 Nov 2026, 05:31",
       "track": "Broken Wings",
-      "album": "Hits of the 80s",
+      "album": "80s 100 Hits",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Mr.%20Mister",
       "track_url": "https://www.last.fm/music/Mr.+Mister/_/Broken+Wings",
       "graduated": false
@@ -8932,7 +8933,7 @@
     "goo goo dolls": {
       "artist": "Goo Goo Dolls",
       "first_discovered": "01 Nov 2026, 00:25",
-      "last_listened": "02 Nov 2026, 16:51",
+      "last_listened": "03 Nov 2026, 04:03",
       "track": "Slide",
       "album": "Dizzy Up the Girl",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Goo%20Goo%20Dolls",
@@ -9242,17 +9243,17 @@
     "bros": {
       "artist": "Bros",
       "first_discovered": "02 Nov 2026, 00:26",
-      "last_listened": "02 Nov 2026, 00:26",
-      "track": "When Will I Be Famous?",
-      "album": "80s 100 Hits",
+      "last_listened": "03 Nov 2026, 03:51",
+      "track": "I Owe You Nothing",
+      "album": "On Your 80's Radio",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Bros",
-      "track_url": "https://www.last.fm/music/Bros/_/When+Will+I+Be+Famous%3F",
+      "track_url": "https://www.last.fm/music/Bros/_/I+Owe+You+Nothing",
       "graduated": false
     },
     "five star": {
       "artist": "Five Star",
       "first_discovered": "02 Nov 2026, 00:19",
-      "last_listened": "02 Nov 2026, 00:19",
+      "last_listened": "03 Nov 2026, 05:04",
       "track": "Rain or Shine",
       "album": "80s 100 Hits",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Five%20Star",
@@ -9282,11 +9283,11 @@
     "jessica simpson": {
       "artist": "Jessica Simpson",
       "first_discovered": "02 Nov 2026, 00:00",
-      "last_listened": "02 Nov 2026, 20:59",
-      "track": "With You",
-      "album": "Voices",
+      "last_listened": "03 Nov 2026, 04:53",
+      "track": "I Saw Mommy Kissing Santa Claus",
+      "album": "Holiday for Kids",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Jessica%20Simpson",
-      "track_url": "https://www.last.fm/music/Jessica+Simpson/_/With+You",
+      "track_url": "https://www.last.fm/music/Jessica+Simpson/_/I+Saw+Mommy+Kissing+Santa+Claus",
       "graduated": false
     },
     "gavin adcock": {
@@ -9312,21 +9313,21 @@
     "miley cyrus": {
       "artist": "Miley Cyrus",
       "first_discovered": "01 Nov 2026, 23:11",
-      "last_listened": "02 Nov 2026, 07:21",
-      "track": "We Can't Stop",
-      "album": "Single and Loving It",
+      "last_listened": "03 Nov 2026, 02:56",
+      "track": "The Bitch Is Back",
+      "album": "Voces De Divas",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Miley%20Cyrus",
-      "track_url": "https://www.last.fm/music/Miley+Cyrus/_/We+Can't+Stop",
+      "track_url": "https://www.last.fm/music/Miley+Cyrus/_/The+Bitch+Is+Back",
       "graduated": false
     },
     "gloria estefan": {
       "artist": "Gloria Estefan",
       "first_discovered": "01 Nov 2026, 23:06",
-      "last_listened": "02 Nov 2026, 04:59",
-      "track": "Rhythm Is Gonna Get You (Album Version)",
-      "album": "80's STOP!",
+      "last_listened": "03 Nov 2026, 03:03",
+      "track": "Christmas Through Your Eyes",
+      "album": "Superstar Christmas",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Gloria%20Estefan",
-      "track_url": "https://www.last.fm/music/Gloria+Estefan/_/Rhythm+Is+Gonna+Get+You+%28Album+Version%29",
+      "track_url": "https://www.last.fm/music/Gloria+Estefan/_/Christmas+Through+Your+Eyes",
       "graduated": false
     },
     "hailee steinfeld": {
@@ -9352,9 +9353,9 @@
     "kenny loggins": {
       "artist": "Kenny Loggins",
       "first_discovered": "01 Nov 2026, 22:42",
-      "last_listened": "02 Nov 2026, 21:16",
+      "last_listened": "03 Nov 2026, 06:36",
       "track": "Footloose",
-      "album": "Girls Night In",
+      "album": "On Your 80's Radio",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Kenny%20Loggins",
       "track_url": "https://www.last.fm/music/Kenny+Loggins/_/Footloose",
       "graduated": false
@@ -9502,7 +9503,7 @@
     "cock robin": {
       "artist": "Cock Robin",
       "first_discovered": "01 Nov 2026, 08:10",
-      "last_listened": "01 Nov 2026, 08:10",
+      "last_listened": "03 Nov 2026, 04:41",
       "track": "The Promise You Made",
       "album": "80s 100 Hits",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Cock%20Robin",
@@ -9542,17 +9543,17 @@
     "paul young": {
       "artist": "Paul Young",
       "first_discovered": "01 Nov 2026, 07:32",
-      "last_listened": "02 Nov 2026, 05:49",
-      "track": "Come Back and Stay",
-      "album": "On Your 80's Radio",
+      "last_listened": "03 Nov 2026, 06:31",
+      "track": "Love of the Common People (Extended Version)",
+      "album": "Hits of the 80s",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Paul%20Young",
-      "track_url": "https://www.last.fm/music/Paul+Young/_/Come+Back+and+Stay",
+      "track_url": "https://www.last.fm/music/Paul+Young/_/Love+of+the+Common+People+%28Extended+Version%29",
       "graduated": false
     },
     "martika": {
       "artist": "Martika",
       "first_discovered": "01 Nov 2026, 07:23",
-      "last_listened": "01 Nov 2026, 07:23",
+      "last_listened": "03 Nov 2026, 03:39",
       "track": "Toy Soldiers (single version)",
       "album": "80s 100 Hits",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Martika",
@@ -9652,7 +9653,7 @@
     "tove lo": {
       "artist": "Tove Lo",
       "first_discovered": "01 Nov 2026, 02:49",
-      "last_listened": "01 Nov 2026, 02:49",
+      "last_listened": "03 Nov 2026, 03:35",
       "track": "Talking Body",
       "album": "Break Up Anthems",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Tove%20Lo",
@@ -9662,11 +9663,11 @@
     "sara bareilles": {
       "artist": "Sara Bareilles",
       "first_discovered": "01 Nov 2026, 02:45",
-      "last_listened": "02 Nov 2026, 21:50",
-      "track": "Floorplan",
-      "album": "Tegan And Sara Present The Con X: Covers",
+      "last_listened": "03 Nov 2026, 13:45",
+      "track": "Winter Song",
+      "album": "Christmas Pop",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Sara%20Bareilles",
-      "track_url": "https://www.last.fm/music/Sara+Bareilles/_/Floorplan",
+      "track_url": "https://www.last.fm/music/Sara+Bareilles/_/Winter+Song",
       "graduated": false
     },
     "percy sledge": {
@@ -9702,11 +9703,11 @@
     "the bangles": {
       "artist": "The Bangles",
       "first_discovered": "01 Nov 2026, 02:01",
-      "last_listened": "02 Nov 2026, 06:48",
-      "track": "Eternal Flame",
-      "album": "Pop Music: The Modern Era 1976-1999",
+      "last_listened": "03 Nov 2026, 05:17",
+      "track": "Walk Like an Egyptian",
+      "album": "80s 100 Hits",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/The%20Bangles",
-      "track_url": "https://www.last.fm/music/The+Bangles/_/Eternal+Flame",
+      "track_url": "https://www.last.fm/music/The+Bangles/_/Walk+Like+an+Egyptian",
       "graduated": false
     },
     "livin' joy": {
@@ -9732,17 +9733,17 @@
     "the hooters": {
       "artist": "The Hooters",
       "first_discovered": "01 Nov 2026, 01:41",
-      "last_listened": "02 Nov 2026, 10:19",
-      "track": "She Comes In Colors (Album Version)",
-      "album": "Hooterization: A Retrospective",
+      "last_listened": "03 Nov 2026, 23:26",
+      "track": "Guava Jive",
+      "album": "Rocking & Swing",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/The%20Hooters",
-      "track_url": "https://www.last.fm/music/The+Hooters/_/She+Comes+In+Colors+%28Album+Version%29",
+      "track_url": "https://www.last.fm/music/The+Hooters/_/Guava+Jive",
       "graduated": false
     },
     "bailey zimmerman": {
       "artist": "Bailey Zimmerman",
       "first_discovered": "01 Nov 2026, 01:30",
-      "last_listened": "02 Nov 2026, 12:05",
+      "last_listened": "03 Nov 2026, 05:55",
       "track": "Rock and a Hard Place",
       "album": "Religiously. The Album.",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Bailey%20Zimmerman",
@@ -9782,7 +9783,7 @@
     "rodney atkins": {
       "artist": "Rodney Atkins",
       "first_discovered": "01 Nov 2026, 01:08",
-      "last_listened": "02 Nov 2026, 19:13",
+      "last_listened": "03 Nov 2026, 04:38",
       "track": "Take a Back Road",
       "album": "Take a Back Road",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Rodney%20Atkins",
@@ -9872,11 +9873,11 @@
     "christina aguilera": {
       "artist": "Christina Aguilera",
       "first_discovered": "02 Nov 2026, 21:08",
-      "last_listened": "02 Nov 2026, 21:08",
-      "track": "Have Yourself a Merry Little Christmas",
-      "album": "Holiday for Kids",
+      "last_listened": "03 Nov 2026, 05:00",
+      "track": "This Christmas",
+      "album": "Christmas Pop",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Christina%20Aguilera",
-      "track_url": "https://www.last.fm/music/Christina+Aguilera/_/Have+Yourself+a+Merry+Little+Christmas",
+      "track_url": "https://www.last.fm/music/Christina+Aguilera/_/This+Christmas",
       "graduated": false
     },
     "sonny & cher": {
@@ -9902,7 +9903,7 @@
     "fifth harmony": {
       "artist": "Fifth Harmony",
       "first_discovered": "02 Nov 2026, 20:50",
-      "last_listened": "02 Nov 2026, 20:50",
+      "last_listened": "03 Nov 2026, 06:15",
       "track": "Noche de Paz",
       "album": "Christmas Pop",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Fifth%20Harmony",
@@ -9962,7 +9963,7 @@
     "the psychedelic furs": {
       "artist": "The Psychedelic Furs",
       "first_discovered": "02 Nov 2026, 19:16",
-      "last_listened": "02 Nov 2026, 19:16",
+      "last_listened": "03 Nov 2026, 15:55",
       "track": "The Ghost In You",
       "album": "Stranger Things: Music from the Netflix Original Series",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/The%20Psychedelic%20Furs",
@@ -9982,11 +9983,11 @@
     "jennifer lopez": {
       "artist": "Jennifer Lopez",
       "first_discovered": "02 Nov 2026, 17:39",
-      "last_listened": "02 Nov 2026, 17:39",
-      "track": "Love Don't Cost a Thing",
-      "album": "Single and Loving It",
+      "last_listened": "03 Nov 2026, 04:28",
+      "track": "Love Don't Cost A Thing (Full Intention Mix)",
+      "album": "Get the Party Started",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Jennifer%20Lopez",
-      "track_url": "https://www.last.fm/music/Jennifer+Lopez/_/Love+Don't+Cost+a+Thing",
+      "track_url": "https://www.last.fm/music/Jennifer+Lopez/_/Love+Don't+Cost+A+Thing+%28Full+Intention+Mix%29",
       "graduated": false
     },
     "carla thomas": {
@@ -10022,11 +10023,11 @@
     "olivia newton-john": {
       "artist": "Olivia Newton-John",
       "first_discovered": "02 Nov 2026, 16:15",
-      "last_listened": "02 Nov 2026, 16:15",
-      "track": "Twist Of Fate",
-      "album": "Stranger Things: Music from the Netflix Original Series",
+      "last_listened": "03 Nov 2026, 03:08",
+      "track": "Have You Never Been Mellow",
+      "album": "Classic Hits: 70's Chart Toppers",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Olivia%20Newton-John",
-      "track_url": "https://www.last.fm/music/Olivia+Newton-John/_/Twist+Of+Fate",
+      "track_url": "https://www.last.fm/music/Olivia+Newton-John/_/Have+You+Never+Been+Mellow",
       "graduated": false
     },
     "wilson phillips": {
@@ -10072,7 +10073,7 @@
     "echo & the bunnymen": {
       "artist": "Echo & the Bunnymen",
       "first_discovered": "02 Nov 2026, 15:05",
-      "last_listened": "02 Nov 2026, 15:05",
+      "last_listened": "03 Nov 2026, 17:45",
       "track": "Nocturnal Me",
       "album": "Stranger Things: Music from the Netflix Original Series",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Echo%20%26%20the%20Bunnymen",
@@ -10092,7 +10093,7 @@
     "thompson twins": {
       "artist": "Thompson Twins",
       "first_discovered": "02 Nov 2026, 14:25",
-      "last_listened": "02 Nov 2026, 14:25",
+      "last_listened": "03 Nov 2026, 16:35",
       "track": "Hold Me Now",
       "album": "80's STOP!",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Thompson%20Twins",
@@ -10192,7 +10193,7 @@
     "taylor dayne": {
       "artist": "Taylor Dayne",
       "first_discovered": "02 Nov 2026, 06:10",
-      "last_listened": "02 Nov 2026, 06:10",
+      "last_listened": "03 Nov 2026, 03:22",
       "track": "Tell It to My Heart (Single Mix)",
       "album": "80s 100 Hits",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Taylor%20Dayne",
@@ -10327,6 +10328,306 @@
       "album": "Weihnachtsmusik: 111 Weihnachtslieder",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Mud",
       "track_url": "https://www.last.fm/music/Mud/_/Lonely+This+Christmas",
+      "graduated": false
+    },
+    "megan moroney": {
+      "artist": "Megan Moroney",
+      "first_discovered": "04 Nov 2026, 00:23",
+      "last_listened": "04 Nov 2026, 00:23",
+      "track": "Keep the Flowers",
+      "album": "Pistol Made of Roses",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Megan%20Moroney",
+      "track_url": "https://www.last.fm/music/Megan+Moroney/_/Keep+the+Flowers",
+      "graduated": false
+    },
+    "the band": {
+      "artist": "The Band",
+      "first_discovered": "03 Nov 2026, 23:54",
+      "last_listened": "03 Nov 2026, 23:54",
+      "track": "The Weight",
+      "album": "The Classic Sixties Collection - 1969-70",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/The%20Band",
+      "track_url": "https://www.last.fm/music/The+Band/_/The+Weight",
+      "graduated": false
+    },
+    "j winner": {
+      "artist": "J WINNER",
+      "first_discovered": "03 Nov 2026, 23:50",
+      "last_listened": "03 Nov 2026, 23:50",
+      "track": "Little Brown Jug",
+      "album": "Big Band Swing",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/J%20WINNER",
+      "track_url": "https://www.last.fm/music/J+WINNER/_/Little+Brown+Jug",
+      "graduated": false
+    },
+    "willie nelson with lukas nelson": {
+      "artist": "Willie Nelson with Lukas Nelson",
+      "first_discovered": "03 Nov 2026, 23:03",
+      "last_listened": "03 Nov 2026, 23:03",
+      "track": "No Place To Fly",
+      "album": "Heroes",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Willie%20Nelson%20with%20Lukas%20Nelson",
+      "track_url": "https://www.last.fm/music/Willie+Nelson+with+Lukas+Nelson/_/No+Place+To+Fly",
+      "graduated": false
+    },
+    "the replacements": {
+      "artist": "The Replacements",
+      "first_discovered": "03 Nov 2026, 17:54",
+      "last_listened": "03 Nov 2026, 17:54",
+      "track": "Androgynous",
+      "album": "Let It Be",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/The%20Replacements",
+      "track_url": "https://www.last.fm/music/The+Replacements/_/Androgynous",
+      "graduated": false
+    },
+    "the stranglers": {
+      "artist": "The Stranglers",
+      "first_discovered": "03 Nov 2026, 17:50",
+      "last_listened": "03 Nov 2026, 17:50",
+      "track": "European Female",
+      "album": "On Your 80's Radio",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/The%20Stranglers",
+      "track_url": "https://www.last.fm/music/The+Stranglers/_/European+Female",
+      "graduated": false
+    },
+    "hüsker dü": {
+      "artist": "Hüsker Dü",
+      "first_discovered": "03 Nov 2026, 17:37",
+      "last_listened": "03 Nov 2026, 17:37",
+      "track": "Eight Miles High",
+      "album": "1985: The Miracle Year",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/H%C3%BCsker%20D%C3%BC",
+      "track_url": "https://www.last.fm/music/H%C3%BCsker+D%C3%BC/_/Eight+Miles+High",
+      "graduated": false
+    },
+    "adam and the ants": {
+      "artist": "Adam and the Ants",
+      "first_discovered": "03 Nov 2026, 17:26",
+      "last_listened": "03 Nov 2026, 17:26",
+      "track": "Antmusic",
+      "album": "On Your 80's Radio",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Adam%20and%20the%20Ants",
+      "track_url": "https://www.last.fm/music/Adam+and+the+Ants/_/Antmusic",
+      "graduated": false
+    },
+    "altered images": {
+      "artist": "Altered Images",
+      "first_discovered": "03 Nov 2026, 17:20",
+      "last_listened": "03 Nov 2026, 17:20",
+      "track": "Don't Talk To Me About Love",
+      "album": "On Your 80's Radio",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Altered%20Images",
+      "track_url": "https://www.last.fm/music/Altered+Images/_/Don't+Talk+To+Me+About+Love",
+      "graduated": false
+    },
+    "fad gadget": {
+      "artist": "Fad Gadget",
+      "first_discovered": "03 Nov 2026, 17:08",
+      "last_listened": "03 Nov 2026, 17:08",
+      "track": "Back to Nature",
+      "album": "Stranger Things: Music from the Netflix Original Series",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Fad%20Gadget",
+      "track_url": "https://www.last.fm/music/Fad+Gadget/_/Back+to+Nature",
+      "graduated": false
+    },
+    "joboxers": {
+      "artist": "JoBoxers",
+      "first_discovered": "03 Nov 2026, 17:01",
+      "last_listened": "03 Nov 2026, 17:01",
+      "track": "Boxerbeat",
+      "album": "80s 100 Hits",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/JoBoxers",
+      "track_url": "https://www.last.fm/music/JoBoxers/_/Boxerbeat",
+      "graduated": false
+    },
+    "lou reed": {
+      "artist": "Lou Reed",
+      "first_discovered": "03 Nov 2026, 16:53",
+      "last_listened": "03 Nov 2026, 16:53",
+      "track": "Perfect Day",
+      "album": "Love Songs",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Lou%20Reed",
+      "track_url": "https://www.last.fm/music/Lou+Reed/_/Perfect+Day",
+      "graduated": false
+    },
+    "haircut 100": {
+      "artist": "Haircut 100",
+      "first_discovered": "03 Nov 2026, 16:46",
+      "last_listened": "03 Nov 2026, 16:46",
+      "track": "Love Plus One",
+      "album": "Hits of the 80s",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Haircut%20100",
+      "track_url": "https://www.last.fm/music/Haircut+100/_/Love+Plus+One",
+      "graduated": false
+    },
+    "nena": {
+      "artist": "Nena",
+      "first_discovered": "03 Nov 2026, 16:38",
+      "last_listened": "03 Nov 2026, 16:38",
+      "track": "99 Red Balloons",
+      "album": "80s 100 Hits",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Nena",
+      "track_url": "https://www.last.fm/music/Nena/_/99+Red+Balloons",
+      "graduated": false
+    },
+    "devo": {
+      "artist": "Devo",
+      "first_discovered": "03 Nov 2026, 16:29",
+      "last_listened": "03 Nov 2026, 16:29",
+      "track": "Whip It",
+      "album": "Stranger Things: Music from the Netflix Original Series",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Devo",
+      "track_url": "https://www.last.fm/music/Devo/_/Whip+It",
+      "graduated": false
+    },
+    "japan": {
+      "artist": "Japan",
+      "first_discovered": "03 Nov 2026, 15:59",
+      "last_listened": "03 Nov 2026, 15:59",
+      "track": "Quiet Life (7\" Version)",
+      "album": "80s 100 Hits",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Japan",
+      "track_url": "https://www.last.fm/music/Japan/_/Quiet+Life+%287%22+Version%29",
+      "graduated": false
+    },
+    "r. kelly": {
+      "artist": "R. Kelly",
+      "first_discovered": "03 Nov 2026, 06:26",
+      "last_listened": "03 Nov 2026, 06:26",
+      "track": "World Christmas",
+      "album": "Christmas Hits",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/R.%20Kelly",
+      "track_url": "https://www.last.fm/music/R.+Kelly/_/World+Christmas",
+      "graduated": false
+    },
+    "riley green": {
+      "artist": "Riley Green",
+      "first_discovered": "03 Nov 2026, 06:19",
+      "last_listened": "03 Nov 2026, 06:19",
+      "track": "Don’t Mind If I Do (Feat. Ella Langley)",
+      "album": "Don’t Mind If I Do",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Riley%20Green",
+      "track_url": "https://www.last.fm/music/Riley+Green/_/Don%E2%80%99t+Mind+If+I+Do+%28Feat.+Ella+Langley%29",
+      "graduated": false
+    },
+    "belinda carlisle": {
+      "artist": "Belinda Carlisle",
+      "first_discovered": "03 Nov 2026, 06:11",
+      "last_listened": "03 Nov 2026, 06:11",
+      "track": "Gotta Get To You",
+      "album": "Voces De Divas",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Belinda%20Carlisle",
+      "track_url": "https://www.last.fm/music/Belinda+Carlisle/_/Gotta+Get+To+You",
+      "graduated": false
+    },
+    "ray lamontagne": {
+      "artist": "Ray LaMontagne",
+      "first_discovered": "03 Nov 2026, 05:41",
+      "last_listened": "03 Nov 2026, 05:41",
+      "track": "Winter Birds",
+      "album": "Christmas Cafe",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Ray%20LaMontagne",
+      "track_url": "https://www.last.fm/music/Ray+LaMontagne/_/Winter+Birds",
+      "graduated": false
+    },
+    "adam ant": {
+      "artist": "Adam Ant",
+      "first_discovered": "03 Nov 2026, 05:24",
+      "last_listened": "03 Nov 2026, 05:24",
+      "track": "Goody Two Shoes",
+      "album": "Club Epic: A Collection of Classic Dance Mixes, Volume 5",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Adam%20Ant",
+      "track_url": "https://www.last.fm/music/Adam+Ant/_/Goody+Two+Shoes",
+      "graduated": false
+    },
+    "collective soul": {
+      "artist": "Collective Soul",
+      "first_discovered": "03 Nov 2026, 05:12",
+      "last_listened": "03 Nov 2026, 05:12",
+      "track": "December",
+      "album": "Collective Soul",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Collective%20Soul",
+      "track_url": "https://www.last.fm/music/Collective+Soul/_/December",
+      "graduated": false
+    },
+    "samantha fox": {
+      "artist": "Samantha Fox",
+      "first_discovered": "03 Nov 2026, 04:25",
+      "last_listened": "03 Nov 2026, 04:25",
+      "track": "Touch Me (I Want Your Body)",
+      "album": "80s 100 Hits",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Samantha%20Fox",
+      "track_url": "https://www.last.fm/music/Samantha+Fox/_/Touch+Me+%28I+Want+Your+Body%29",
+      "graduated": false
+    },
+    "dangerous toys": {
+      "artist": "Dangerous Toys",
+      "first_discovered": "03 Nov 2026, 04:19",
+      "last_listened": "03 Nov 2026, 04:19",
+      "track": "Teas'n Pleas'n",
+      "album": "This Is '80s Hair Metal",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Dangerous%20Toys",
+      "track_url": "https://www.last.fm/music/Dangerous+Toys/_/Teas'n+Pleas'n",
+      "graduated": false
+    },
+    "carl perkins": {
+      "artist": "Carl Perkins",
+      "first_discovered": "03 Nov 2026, 04:15",
+      "last_listened": "03 Nov 2026, 04:15",
+      "track": "Blue Suede Shoes (Live at San Quentin State Prison, San Quentin, CA - February 1969)",
+      "album": "At San Quentin (Legacy Edition)",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Carl%20Perkins",
+      "track_url": "https://www.last.fm/music/Carl+Perkins/_/Blue+Suede+Shoes+%28Live+at+San+Quentin+State+Prison%2C+San+Quentin%2C+CA+-+February+1969%29",
+      "graduated": false
+    },
+    "boz scaggs": {
+      "artist": "Boz Scaggs",
+      "first_discovered": "03 Nov 2026, 04:12",
+      "last_listened": "03 Nov 2026, 04:12",
+      "track": "Lowdown (Single Version)",
+      "album": "Pop Music: The Modern Era 1976-1999",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Boz%20Scaggs",
+      "track_url": "https://www.last.fm/music/Boz+Scaggs/_/Lowdown+%28Single+Version%29",
+      "graduated": false
+    },
+    "art garfunkel": {
+      "artist": "Art Garfunkel",
+      "first_discovered": "03 Nov 2026, 04:09",
+      "last_listened": "03 Nov 2026, 04:09",
+      "track": "O Come All Ye Faithful",
+      "album": "Christmas Hits",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Art%20Garfunkel",
+      "track_url": "https://www.last.fm/music/Art+Garfunkel/_/O+Come+All+Ye+Faithful",
+      "graduated": false
+    },
+    "kelly rowland": {
+      "artist": "Kelly Rowland",
+      "first_discovered": "03 Nov 2026, 03:19",
+      "last_listened": "03 Nov 2026, 03:19",
+      "track": "Work (Freemasons Radio Edit)",
+      "album": "Single and Loving It",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Kelly%20Rowland",
+      "track_url": "https://www.last.fm/music/Kelly+Rowland/_/Work+%28Freemasons+Radio+Edit%29",
+      "graduated": false
+    },
+    "lionel richie": {
+      "artist": "Lionel Richie",
+      "first_discovered": "03 Nov 2026, 03:15",
+      "last_listened": "03 Nov 2026, 03:15",
+      "track": "Truly",
+      "album": "Pure 80's Love: The #1 Hits",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Lionel%20Richie",
+      "track_url": "https://www.last.fm/music/Lionel+Richie/_/Truly",
+      "graduated": false
+    },
+    "rubenstein, chicago symphony, moffo, american symphony orchestra": {
+      "artist": "Rubenstein, Chicago Symphony, Moffo, American Symphony Orchestra",
+      "first_discovered": "03 Nov 2026, 02:51",
+      "last_listened": "03 Nov 2026, 02:51",
+      "track": "Variation XXIII: L'istesso tempo",
+      "album": "Rachmaninoff Piano Concerto No. 2",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Rubenstein%2C%20Chicago%20Symphony%2C%20Moffo%2C%20American%20Symphony%20Orchestra",
+      "track_url": "https://www.last.fm/music/Rubenstein%2C+Chicago+Symphony%2C+Moffo%2C+American+Symphony+Orchestra/_/Variation+XXIII:+L'istesso+tempo",
       "graduated": false
     }
   }
