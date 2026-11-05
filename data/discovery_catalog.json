@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-04T00:52:20.580466-08:00",
+    "last_updated": "2026-11-05T01:16:02.175729-08:00",
     "username": "bonelifer",
-    "total_discoveries": 1070,
+    "total_discoveries": 1100,
     "total_graduated": 69
   },
   "catalog": {
@@ -2014,11 +2014,11 @@
     "montrose": {
       "artist": "Montrose",
       "first_discovered": "28 Apr 2026, 18:55",
-      "last_listened": "28 Apr 2026, 18:55",
-      "track": "Rock Candy",
-      "album": "Montrose",
+      "last_listened": "04 Nov 2026, 20:52",
+      "track": "Bad Motor Scooter",
+      "album": "The Essential Red Collection",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Montrose",
-      "track_url": "https://www.last.fm/music/Montrose/_/Rock+Candy",
+      "track_url": "https://www.last.fm/music/Montrose/_/Bad+Motor+Scooter",
       "graduated": false
     },
     "white lion": {
@@ -2700,11 +2700,11 @@
     "steely dan": {
       "artist": "Steely Dan",
       "first_discovered": "25 May 2026, 15:10",
-      "last_listened": "25 May 2026, 15:10",
-      "track": "Josie",
-      "album": "Aja",
+      "last_listened": "05 Nov 2026, 00:50",
+      "track": "West of Hollywood",
+      "album": "Two Against Nature",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Steely%20Dan",
-      "track_url": "https://www.last.fm/music/Steely+Dan/_/Josie",
+      "track_url": "https://www.last.fm/music/Steely+Dan/_/West+of+Hollywood",
       "graduated": true,
       "graduated_date": "2026-05-27T23:01:23.893344-07:00"
     },
@@ -4129,11 +4129,11 @@
     "parliament": {
       "artist": "Parliament",
       "first_discovered": "04 Aug 2026, 18:14",
-      "last_listened": "04 Aug 2026, 18:14",
-      "track": "Give Up The Funk (Tear The Roof Off The Sucker)",
-      "album": "The Best Of Parliament: Give Up The Funk",
+      "last_listened": "04 Nov 2026, 21:29",
+      "track": "Do That Stuff",
+      "album": "Parliament's Greatest Hits (The Bomb)",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Parliament",
-      "track_url": "https://www.last.fm/music/Parliament/_/Give+Up+The+Funk+%28Tear+The+Roof+Off+The+Sucker%29",
+      "track_url": "https://www.last.fm/music/Parliament/_/Do+That+Stuff",
       "graduated": false
     },
     "diana ross": {
@@ -6482,11 +6482,11 @@
     "they might be giants": {
       "artist": "They Might Be Giants",
       "first_discovered": "25 Oct 2026, 21:22",
-      "last_listened": "28 Oct 2026, 16:32",
-      "track": "Music Jail, Pt. 1 & 2",
-      "album": "Glean",
+      "last_listened": "04 Nov 2026, 20:25",
+      "track": "I Love You for Psychological Reasons",
+      "album": "Phone Power",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/They%20Might%20Be%20Giants",
-      "track_url": "https://www.last.fm/music/They+Might+Be+Giants/_/Music+Jail%2C+Pt.+1+%26+2",
+      "track_url": "https://www.last.fm/music/They+Might+Be+Giants/_/I+Love+You+for+Psychological+Reasons",
       "graduated": false
     },
     "steep canyon rangers": {
@@ -6632,11 +6632,11 @@
     "janet": {
       "artist": "Janet",
       "first_discovered": "25 Oct 2026, 06:59",
-      "last_listened": "25 Oct 2026, 06:59",
-      "track": "rain",
+      "last_listened": "04 Nov 2026, 19:46",
+      "track": "What’ll I Do",
       "album": "Janet. (Deluxe)",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Janet",
-      "track_url": "https://www.last.fm/music/Janet/_/rain",
+      "track_url": "https://www.last.fm/music/Janet/_/What%E2%80%99ll+I+Do",
       "graduated": false
     },
     "prince and the revolution": {
@@ -6662,11 +6662,11 @@
     "merle haggard and willie nelson": {
       "artist": "Merle Haggard And Willie Nelson",
       "first_discovered": "25 Oct 2026, 05:30",
-      "last_listened": "28 Oct 2026, 19:44",
-      "track": "It’s My Lazy Day",
-      "album": "Pancho & Lefty",
+      "last_listened": "05 Nov 2026, 00:28",
+      "track": "Pancho & Lefty",
+      "album": "[standalone recordings]",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Merle%20Haggard%20And%20Willie%20Nelson",
-      "track_url": "https://www.last.fm/music/Merle+Haggard+And+Willie+Nelson/_/It%E2%80%99s+My+Lazy+Day",
+      "track_url": "https://www.last.fm/music/Merle+Haggard+And+Willie+Nelson/_/Pancho+%26+Lefty",
       "graduated": false
     },
     "sex pistols": {
@@ -6783,11 +6783,11 @@
     "daniel barenboim/robert schumann": {
       "artist": "Daniel Barenboim/Robert Schumann",
       "first_discovered": "24 Oct 2026, 11:50",
-      "last_listened": "24 Oct 2026, 11:50",
-      "track": "Carnaval, Op. 9 : Schumann: Carnaval, Op. 9 - 3. Arlequin",
+      "last_listened": "04 Nov 2026, 08:20",
+      "track": "Kinderszenen, Op. 15 : Schumann: Kinderszenen, Op. 15 - 8. Am Kamin",
       "album": "Daniel Barenboim plays Beethoven, Mozart & Schumann",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Daniel%20Barenboim%2FRobert%20Schumann",
-      "track_url": "https://www.last.fm/music/Daniel+Barenboim%2FRobert+Schumann/_/Carnaval%2C+Op.+9+:+Schumann:+Carnaval%2C+Op.+9+-+3.+Arlequin",
+      "track_url": "https://www.last.fm/music/Daniel+Barenboim%2FRobert+Schumann/_/Kinderszenen%2C+Op.+15+:+Schumann:+Kinderszenen%2C+Op.+15+-+8.+Am+Kamin",
       "graduated": false
     },
     "the white buffalo": {
@@ -6823,11 +6823,11 @@
     "10,000 maniacs": {
       "artist": "10,000 Maniacs",
       "first_discovered": "24 Oct 2026, 10:33",
-      "last_listened": "24 Oct 2026, 10:33",
-      "track": "Candy Everybody Wants",
+      "last_listened": "04 Nov 2026, 10:07",
+      "track": "Just Like Heaven",
       "album": "Live at the Belly Up",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/10%2C000%20Maniacs",
-      "track_url": "https://www.last.fm/music/10%2C000+Maniacs/_/Candy+Everybody+Wants",
+      "track_url": "https://www.last.fm/music/10%2C000+Maniacs/_/Just+Like+Heaven",
       "graduated": false
     },
     "prince": {
@@ -6843,11 +6843,11 @@
     "the glenn miller orchestra": {
       "artist": "The Glenn Miller Orchestra",
       "first_discovered": "24 Oct 2026, 09:55",
-      "last_listened": "24 Oct 2026, 09:55",
-      "track": "Boulder Buff",
+      "last_listened": "04 Nov 2026, 23:47",
+      "track": "Sun Valley Jump",
       "album": "The Spirit Is Willing",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/The%20Glenn%20Miller%20Orchestra",
-      "track_url": "https://www.last.fm/music/The+Glenn+Miller+Orchestra/_/Boulder+Buff",
+      "track_url": "https://www.last.fm/music/The+Glenn+Miller+Orchestra/_/Sun+Valley+Jump",
       "graduated": false
     },
     "david crosby": {
@@ -6893,11 +6893,11 @@
     "mary j. blige": {
       "artist": "Mary J. Blige",
       "first_discovered": "24 Oct 2026, 07:35",
-      "last_listened": "02 Nov 2026, 21:54",
-      "track": "Family Affair",
-      "album": "Voces De Divas",
+      "last_listened": "05 Nov 2026, 00:13",
+      "track": "The Living Proof",
+      "album": "My Life II...The Journey Continues (Act 1)",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Mary%20J.%20Blige",
-      "track_url": "https://www.last.fm/music/Mary+J.+Blige/_/Family+Affair",
+      "track_url": "https://www.last.fm/music/Mary+J.+Blige/_/The+Living+Proof",
       "graduated": false
     },
     "lane 8": {
@@ -7093,11 +7093,11 @@
     "nathaniel rateliff & the night sweats": {
       "artist": "Nathaniel Rateliff & the Night Sweats",
       "first_discovered": "24 Oct 2026, 01:05",
-      "last_listened": "24 Oct 2026, 01:05",
-      "track": "Mellow Out",
-      "album": "Live At Red Rocks",
+      "last_listened": "04 Nov 2026, 11:23",
+      "track": "Shoe Boot",
+      "album": "Tearing at the Seams",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Nathaniel%20Rateliff%20%26%20the%20Night%20Sweats",
-      "track_url": "https://www.last.fm/music/Nathaniel+Rateliff+%26+the+Night+Sweats/_/Mellow+Out",
+      "track_url": "https://www.last.fm/music/Nathaniel+Rateliff+%26+the+Night+Sweats/_/Shoe+Boot",
       "graduated": false
     },
     "little richard": {
@@ -7423,11 +7423,11 @@
     "reckless kelly": {
       "artist": "Reckless Kelly",
       "first_discovered": "23 Oct 2026, 07:11",
-      "last_listened": "29 Oct 2026, 18:24",
-      "track": "1952 Vincent Black Lightning",
-      "album": "Reckless Kelly Was Here",
+      "last_listened": "04 Nov 2026, 09:23",
+      "track": "Broken Heart",
+      "album": "The 9/11 Demos",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Reckless%20Kelly",
-      "track_url": "https://www.last.fm/music/Reckless+Kelly/_/1952+Vincent+Black+Lightning",
+      "track_url": "https://www.last.fm/music/Reckless+Kelly/_/Broken+Heart",
       "graduated": false
     },
     "needtobreathe": {
@@ -7573,11 +7573,11 @@
     "john cougar mellencamp": {
       "artist": "John Cougar Mellencamp",
       "first_discovered": "22 Oct 2026, 23:31",
-      "last_listened": "22 Oct 2026, 23:31",
-      "track": "Play Guitar",
+      "last_listened": "04 Nov 2026, 21:07",
+      "track": "Crumblin’ Down",
       "album": "Uh‐Huh",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/John%20Cougar%20Mellencamp",
-      "track_url": "https://www.last.fm/music/John+Cougar+Mellencamp/_/Play+Guitar",
+      "track_url": "https://www.last.fm/music/John+Cougar+Mellencamp/_/Crumblin%E2%80%99+Down",
       "graduated": false
     },
     "paul anka": {
@@ -7693,11 +7693,11 @@
     "the andrews sisters": {
       "artist": "The Andrews Sisters",
       "first_discovered": "22 Oct 2026, 21:13",
-      "last_listened": "22 Oct 2026, 21:13",
-      "track": "Rhumboogie",
-      "album": "The Ultimate Jazz Archive",
+      "last_listened": "04 Nov 2026, 23:22",
+      "track": "Don't Sit Under the Apple Tree",
+      "album": "Songs of World War Two",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/The%20Andrews%20Sisters",
-      "track_url": "https://www.last.fm/music/The+Andrews+Sisters/_/Rhumboogie",
+      "track_url": "https://www.last.fm/music/The+Andrews+Sisters/_/Don't+Sit+Under+the+Apple+Tree",
       "graduated": false
     },
     "audra mae and the almighty sound": {
@@ -7823,11 +7823,11 @@
     "willie/merle/ray": {
       "artist": "Willie/Merle/Ray",
       "first_discovered": "22 Oct 2026, 08:30",
-      "last_listened": "22 Oct 2026, 08:30",
-      "track": "My Life’s Been a Pleasure",
+      "last_listened": "04 Nov 2026, 19:26",
+      "track": "Some Other World",
       "album": "Last Of The Breed",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Willie%2FMerle%2FRay",
-      "track_url": "https://www.last.fm/music/Willie%2FMerle%2FRay/_/My+Life%E2%80%99s+Been+a+Pleasure",
+      "track_url": "https://www.last.fm/music/Willie%2FMerle%2FRay/_/Some+Other+World",
       "graduated": false
     },
     "the friends of distinction": {
@@ -7903,11 +7903,11 @@
     "holly dunn": {
       "artist": "Holly Dunn",
       "first_discovered": "22 Oct 2026, 06:43",
-      "last_listened": "22 Oct 2026, 06:43",
-      "track": "You're Still Keeping Me Up At Night",
-      "album": "The Blue Rose of Texas",
+      "last_listened": "04 Nov 2026, 19:36",
+      "track": "Daddy's Hands",
+      "album": "Choice Country Cuts",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Holly%20Dunn",
-      "track_url": "https://www.last.fm/music/Holly+Dunn/_/You're+Still+Keeping+Me+Up+At+Night",
+      "track_url": "https://www.last.fm/music/Holly+Dunn/_/Daddy's+Hands",
       "graduated": false
     },
     "jerry reed & the hully girlies": {
@@ -8103,11 +8103,11 @@
     "bowie": {
       "artist": "Bowie",
       "first_discovered": "21 Oct 2026, 21:25",
-      "last_listened": "21 Oct 2026, 21:25",
-      "track": "Moonage Daydream",
+      "last_listened": "04 Nov 2026, 11:19",
+      "track": "Big Brother",
       "album": "Cracked Actor (Live Los Angeles ’74)",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Bowie",
-      "track_url": "https://www.last.fm/music/Bowie/_/Moonage+Daydream",
+      "track_url": "https://www.last.fm/music/Bowie/_/Big+Brother",
       "graduated": false
     },
     "nickel creek": {
@@ -8173,11 +8173,11 @@
     "mr. big": {
       "artist": "Mr. Big",
       "first_discovered": "21 Oct 2026, 19:37",
-      "last_listened": "21 Oct 2026, 19:37",
-      "track": "Forever and Back",
+      "last_listened": "04 Nov 2026, 21:50",
+      "track": "Nothin' Bad ('Bout Feelin' Good)",
       "album": "Defying Gravity",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Mr.%20Big",
-      "track_url": "https://www.last.fm/music/Mr.+Big/_/Forever+and+Back",
+      "track_url": "https://www.last.fm/music/Mr.+Big/_/Nothin'+Bad+%28'Bout+Feelin'+Good%29",
       "graduated": false
     },
     "barbara mandrell": {
@@ -8253,11 +8253,11 @@
     "nelly": {
       "artist": "Nelly",
       "first_discovered": "21 Oct 2026, 17:04",
-      "last_listened": "21 Oct 2026, 17:04",
-      "track": "Air Force Ones",
+      "last_listened": "04 Nov 2026, 20:49",
+      "track": "Hey Porsche",
       "album": "Still Hot In Herre",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Nelly",
-      "track_url": "https://www.last.fm/music/Nelly/_/Air+Force+Ones",
+      "track_url": "https://www.last.fm/music/Nelly/_/Hey+Porsche",
       "graduated": false
     },
     "the civil wars": {
@@ -8273,11 +8273,11 @@
     "macy gray": {
       "artist": "Macy Gray",
       "first_discovered": "21 Oct 2026, 15:35",
-      "last_listened": "29 Oct 2026, 08:55",
-      "track": "Jealousy",
+      "last_listened": "04 Nov 2026, 10:12",
+      "track": "Sugar Daddy",
       "album": "Ruby",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Macy%20Gray",
-      "track_url": "https://www.last.fm/music/Macy+Gray/_/Jealousy",
+      "track_url": "https://www.last.fm/music/Macy+Gray/_/Sugar+Daddy",
       "graduated": false
     },
     "frank marino & mahogany rush": {
@@ -9483,11 +9483,11 @@
     "katie melua": {
       "artist": "Katie Melua",
       "first_discovered": "01 Nov 2026, 20:14",
-      "last_listened": "01 Nov 2026, 20:14",
-      "track": "The Closest Thing to Crazy",
-      "album": "Beautiful Lovesongs",
+      "last_listened": "04 Nov 2026, 04:13",
+      "track": "My Aphrodisiac Is You",
+      "album": "Call Off the Search",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Katie%20Melua",
-      "track_url": "https://www.last.fm/music/Katie+Melua/_/The+Closest+Thing+to+Crazy",
+      "track_url": "https://www.last.fm/music/Katie+Melua/_/My+Aphrodisiac+Is+You",
       "graduated": false
     },
     "bonnie tyler": {
@@ -10628,6 +10628,306 @@
       "album": "Rachmaninoff Piano Concerto No. 2",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Rubenstein%2C%20Chicago%20Symphony%2C%20Moffo%2C%20American%20Symphony%20Orchestra",
       "track_url": "https://www.last.fm/music/Rubenstein%2C+Chicago+Symphony%2C+Moffo%2C+American+Symphony+Orchestra/_/Variation+XXIII:+L'istesso+tempo",
+      "graduated": false
+    },
+    "frankie carle & his orchestra, vocal by marjorie hughes": {
+      "artist": "Frankie Carle & His Orchestra, vocal by Marjorie Hughes",
+      "first_discovered": "05 Nov 2026, 00:17",
+      "last_listened": "05 Nov 2026, 00:17",
+      "track": "Rumors Are Flying",
+      "album": "#1 Hits of the 1940s",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Frankie%20Carle%20%26%20His%20Orchestra%2C%20vocal%20by%20Marjorie%20Hughes",
+      "track_url": "https://www.last.fm/music/Frankie+Carle+%26+His+Orchestra%2C+vocal+by+Marjorie+Hughes/_/Rumors+Are+Flying",
+      "graduated": false
+    },
+    "cannons": {
+      "artist": "Cannons",
+      "first_discovered": "04 Nov 2026, 23:18",
+      "last_listened": "04 Nov 2026, 23:18",
+      "track": "Goodbye",
+      "album": "Fever Dream",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Cannons",
+      "track_url": "https://www.last.fm/music/Cannons/_/Goodbye",
+      "graduated": false
+    },
+    "john barry": {
+      "artist": "John Barry",
+      "first_discovered": "04 Nov 2026, 23:14",
+      "last_listened": "04 Nov 2026, 23:14",
+      "track": "Chaplin",
+      "album": "Moviola",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/John%20Barry",
+      "track_url": "https://www.last.fm/music/John+Barry/_/Chaplin",
+      "graduated": false
+    },
+    "waylon jennings/willie nelson": {
+      "artist": "Waylon Jennings/Willie Nelson",
+      "first_discovered": "04 Nov 2026, 23:07",
+      "last_listened": "04 Nov 2026, 23:07",
+      "track": "(Sittin' On) The Dock of the Bay",
+      "album": "Nashville Rebel",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Waylon%20Jennings%2FWillie%20Nelson",
+      "track_url": "https://www.last.fm/music/Waylon+Jennings%2FWillie+Nelson/_/%28Sittin'+On%29+The+Dock+of+the+Bay",
+      "graduated": false
+    },
+    "struggle jennings & jelly roll feat. tommy vext & yelawolf": {
+      "artist": "Struggle Jennings & Jelly Roll feat. Tommy Vext & YelaWolf",
+      "first_discovered": "04 Nov 2026, 23:03",
+      "last_listened": "04 Nov 2026, 23:03",
+      "track": "Winds of Change",
+      "album": "Waylon & Willie IV",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Struggle%20Jennings%20%26%20Jelly%20Roll%20feat.%20Tommy%20Vext%20%26%20YelaWolf",
+      "track_url": "https://www.last.fm/music/Struggle+Jennings+%26+Jelly+Roll+feat.+Tommy+Vext+%26+YelaWolf/_/Winds+of+Change",
+      "graduated": false
+    },
+    "kris kristofferson & brenda lee": {
+      "artist": "Kris Kristofferson & Brenda Lee",
+      "first_discovered": "04 Nov 2026, 22:56",
+      "last_listened": "04 Nov 2026, 22:56",
+      "track": "Help Me Make It Through The Night",
+      "album": "The Winning Hand",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Kris%20Kristofferson%20%26%20Brenda%20Lee",
+      "track_url": "https://www.last.fm/music/Kris+Kristofferson+%26+Brenda+Lee/_/Help+Me+Make+It+Through+The+Night",
+      "graduated": false
+    },
+    "florida georgia line feat. brother jervel": {
+      "artist": "Florida Georgia Line feat. Brother Jervel",
+      "first_discovered": "04 Nov 2026, 22:45",
+      "last_listened": "04 Nov 2026, 22:45",
+      "track": "Catfish Nuggets (Skit)",
+      "album": "Can’t Say I Ain’t Country",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Florida%20Georgia%20Line%20feat.%20Brother%20Jervel",
+      "track_url": "https://www.last.fm/music/Florida+Georgia+Line+feat.+Brother+Jervel/_/Catfish+Nuggets+%28Skit%29",
+      "graduated": false
+    },
+    "antonio vivaldi": {
+      "artist": "Antonio Vivaldi",
+      "first_discovered": "04 Nov 2026, 21:33",
+      "last_listened": "04 Nov 2026, 21:33",
+      "track": "Jaro ze Čtvera ročních dob",
+      "album": "150 nejslavnějších klasických melodií",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Antonio%20Vivaldi",
+      "track_url": "https://www.last.fm/music/Antonio+Vivaldi/_/Jaro+ze+%C4%8Ctvera+ro%C4%8Dn%C3%ADch+dob",
+      "graduated": false
+    },
+    "john 5 and the creatures": {
+      "artist": "John 5 and the Creatures",
+      "first_discovered": "04 Nov 2026, 21:00",
+      "last_listened": "04 Nov 2026, 21:00",
+      "track": "DR EVIL'S SPOOKSHOW",
+      "album": "Season of the Witch",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/John%205%20and%20the%20Creatures",
+      "track_url": "https://www.last.fm/music/John+5+and+the+Creatures/_/DR+EVIL'S+SPOOKSHOW",
+      "graduated": false
+    },
+    "shawn mullins": {
+      "artist": "Shawn Mullins",
+      "first_discovered": "04 Nov 2026, 20:33",
+      "last_listened": "04 Nov 2026, 20:33",
+      "track": "Anchored in You (Acoustic)",
+      "album": "Soul’s Core Revival",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Shawn%20Mullins",
+      "track_url": "https://www.last.fm/music/Shawn+Mullins/_/Anchored+in+You+%28Acoustic%29",
+      "graduated": false
+    },
+    "satin jackets": {
+      "artist": "Satin Jackets",
+      "first_discovered": "04 Nov 2026, 20:18",
+      "last_listened": "04 Nov 2026, 20:18",
+      "track": "Mirage",
+      "album": "Solar nights",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Satin%20Jackets",
+      "track_url": "https://www.last.fm/music/Satin+Jackets/_/Mirage",
+      "graduated": false
+    },
+    "télépopmusik": {
+      "artist": "Télépopmusik",
+      "first_discovered": "04 Nov 2026, 20:01",
+      "last_listened": "04 Nov 2026, 20:01",
+      "track": "Breathe",
+      "album": "Genetic World",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/T%C3%A9l%C3%A9popmusik",
+      "track_url": "https://www.last.fm/music/T%C3%A9l%C3%A9popmusik/_/Breathe",
+      "graduated": false
+    },
+    "the brothers comatose": {
+      "artist": "The Brothers Comatose",
+      "first_discovered": "04 Nov 2026, 19:56",
+      "last_listened": "04 Nov 2026, 19:56",
+      "track": "Love By Degrees",
+      "album": "Ink, Dust & Luck",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/The%20Brothers%20Comatose",
+      "track_url": "https://www.last.fm/music/The+Brothers+Comatose/_/Love+By+Degrees",
+      "graduated": false
+    },
+    "diana ross & the supremes with the temptations": {
+      "artist": "Diana Ross & The Supremes With The Temptations",
+      "first_discovered": "04 Nov 2026, 19:53",
+      "last_listened": "04 Nov 2026, 19:53",
+      "track": "My Guy, My Girl",
+      "album": "Together",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Diana%20Ross%20%26%20The%20Supremes%20With%20The%20Temptations",
+      "track_url": "https://www.last.fm/music/Diana+Ross+%26+The+Supremes+With+The+Temptations/_/My+Guy%2C+My+Girl",
+      "graduated": false
+    },
+    "sam feldt ft. joshua radin": {
+      "artist": "Sam Feldt ft. Joshua Radin",
+      "first_discovered": "04 Nov 2026, 19:39",
+      "last_listened": "04 Nov 2026, 19:39",
+      "track": "High And Low",
+      "album": "Sunrise",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Sam%20Feldt%20ft.%20Joshua%20Radin",
+      "track_url": "https://www.last.fm/music/Sam+Feldt+ft.+Joshua+Radin/_/High+And+Low",
+      "graduated": false
+    },
+    "dolly parton & brenda lee": {
+      "artist": "Dolly Parton & Brenda Lee",
+      "first_discovered": "04 Nov 2026, 19:11",
+      "last_listened": "04 Nov 2026, 19:11",
+      "track": "What Do You Think About Lovin’",
+      "album": "The Winning Hand",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Dolly%20Parton%20%26%20Brenda%20Lee",
+      "track_url": "https://www.last.fm/music/Dolly+Parton+%26+Brenda+Lee/_/What+Do+You+Think+About+Lovin%E2%80%99",
+      "graduated": false
+    },
+    "struggle jennings & jelly roll": {
+      "artist": "Struggle Jennings & Jelly Roll",
+      "first_discovered": "04 Nov 2026, 12:26",
+      "last_listened": "04 Nov 2026, 12:26",
+      "track": "Long Haul",
+      "album": "Waylon & Willie IV",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Struggle%20Jennings%20%26%20Jelly%20Roll",
+      "track_url": "https://www.last.fm/music/Struggle+Jennings+%26+Jelly+Roll/_/Long+Haul",
+      "graduated": false
+    },
+    "alabama & jamey johnson": {
+      "artist": "Alabama & Jamey Johnson",
+      "first_discovered": "04 Nov 2026, 12:22",
+      "last_listened": "04 Nov 2026, 12:22",
+      "track": "My Home's in Alabama - Alabama & Jamey Johnson",
+      "album": "Alabama & Friends At The Ryman",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Alabama%20%26%20Jamey%20Johnson",
+      "track_url": "https://www.last.fm/music/Alabama+%26+Jamey+Johnson/_/My+Home's+in+Alabama+-+Alabama+%26+Jamey+Johnson",
+      "graduated": false
+    },
+    "stoney": {
+      "artist": "Stoney",
+      "first_discovered": "04 Nov 2026, 12:07",
+      "last_listened": "04 Nov 2026, 12:07",
+      "track": "Mojo Hannah",
+      "album": "What You See Is What You Get: The Motown Recordings",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Stoney",
+      "track_url": "https://www.last.fm/music/Stoney/_/Mojo+Hannah",
+      "graduated": false
+    },
+    "joan baez with judy collins": {
+      "artist": "Joan Baez with Judy Collins",
+      "first_discovered": "04 Nov 2026, 12:03",
+      "last_listened": "04 Nov 2026, 12:03",
+      "track": "Diamonds & Rust",
+      "album": "75th Birthday Celebration",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Joan%20Baez%20with%20Judy%20Collins",
+      "track_url": "https://www.last.fm/music/Joan+Baez+with+Judy+Collins/_/Diamonds+%26+Rust",
+      "graduated": false
+    },
+    "antje weithaas/dénes várjon": {
+      "artist": "Antje Weithaas/Dénes Várjon",
+      "first_discovered": "04 Nov 2026, 11:33",
+      "last_listened": "04 Nov 2026, 11:33",
+      "track": "Violin Sonata No. 6 in A Major, Op. 30 No. 1 : Beethoven: Violin Sonata No. 6 in A Major, Op. 30 No. 1 - III. Allegretto con variazioni",
+      "album": "Beethoven: Violin Sonatas Nos. 1, 5, 6 & 10",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Antje%20Weithaas%2FD%C3%A9nes%20V%C3%A1rjon",
+      "track_url": "https://www.last.fm/music/Antje+Weithaas%2FD%C3%A9nes+V%C3%A1rjon/_/Violin+Sonata+No.+6+in+A+Major%2C+Op.+30+No.+1+:+Beethoven:+Violin+Sonata+No.+6+in+A+Major%2C+Op.+30+No.+1+-+III.+Allegretto+con+variazioni",
+      "graduated": false
+    },
+    "dinah washington": {
+      "artist": "Dinah Washington",
+      "first_discovered": "04 Nov 2026, 10:50",
+      "last_listened": "04 Nov 2026, 10:50",
+      "track": "Mad About the Boy",
+      "album": "Soul Sisters",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Dinah%20Washington",
+      "track_url": "https://www.last.fm/music/Dinah+Washington/_/Mad+About+the+Boy",
+      "graduated": false
+    },
+    "lacy j. dalton": {
+      "artist": "Lacy J. Dalton",
+      "first_discovered": "04 Nov 2026, 09:13",
+      "last_listened": "04 Nov 2026, 09:13",
+      "track": "16th Avenue",
+      "album": "This Is Country",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Lacy%20J.%20Dalton",
+      "track_url": "https://www.last.fm/music/Lacy+J.+Dalton/_/16th+Avenue",
+      "graduated": false
+    },
+    "rascal flatts": {
+      "artist": "Rascal Flatts",
+      "first_discovered": "04 Nov 2026, 09:00",
+      "last_listened": "04 Nov 2026, 09:00",
+      "track": "Bless the Broken Road",
+      "album": "Feels Like Today",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Rascal%20Flatts",
+      "track_url": "https://www.last.fm/music/Rascal+Flatts/_/Bless+the+Broken+Road",
+      "graduated": false
+    },
+    "billy joe shaver & kinky friedman": {
+      "artist": "Billy Joe Shaver & Kinky Friedman",
+      "first_discovered": "04 Nov 2026, 08:43",
+      "last_listened": "04 Nov 2026, 08:43",
+      "track": "Sold American",
+      "album": "Live From Down Under",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Billy%20Joe%20Shaver%20%26%20Kinky%20Friedman",
+      "track_url": "https://www.last.fm/music/Billy+Joe+Shaver+%26+Kinky+Friedman/_/Sold+American",
+      "graduated": false
+    },
+    "jit benjamin/struggle jennings/david ray": {
+      "artist": "Jit Benjamin/Struggle Jennings/David Ray",
+      "first_discovered": "04 Nov 2026, 08:37",
+      "last_listened": "04 Nov 2026, 08:37",
+      "track": "Living a Lie",
+      "album": "Living a Lie",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Jit%20Benjamin%2FStruggle%20Jennings%2FDavid%20Ray",
+      "track_url": "https://www.last.fm/music/Jit+Benjamin%2FStruggle+Jennings%2FDavid+Ray/_/Living+a+Lie",
+      "graduated": false
+    },
+    "benjamin britten": {
+      "artist": "Benjamin Britten",
+      "first_discovered": "04 Nov 2026, 08:08",
+      "last_listened": "04 Nov 2026, 08:08",
+      "track": "The Young Person’s Guide to the Orchestra: Variation II: Oboes (Lento)",
+      "album": "Peter and the Wolf",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Benjamin%20Britten",
+      "track_url": "https://www.last.fm/music/Benjamin+Britten/_/The+Young+Person%E2%80%99s+Guide+to+the+Orchestra:+Variation+II:+Oboes+%28Lento%29",
+      "graduated": false
+    },
+    "paul simon with ladysmith black mambazo": {
+      "artist": "Paul Simon with Ladysmith Black Mambazo",
+      "first_discovered": "04 Nov 2026, 07:54",
+      "last_listened": "04 Nov 2026, 07:54",
+      "track": "Diamonds On The Soles Of Her Shoes",
+      "album": "The Concert in Hyde Park",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Paul%20Simon%20with%20Ladysmith%20Black%20Mambazo",
+      "track_url": "https://www.last.fm/music/Paul+Simon+with+Ladysmith+Black+Mambazo/_/Diamonds+On+The+Soles+Of+Her+Shoes",
+      "graduated": false
+    },
+    "take-off on rat pack": {
+      "artist": "Take-off on Rat Pack",
+      "first_discovered": "04 Nov 2026, 03:59",
+      "last_listened": "04 Nov 2026, 03:59",
+      "track": "(There's No Place Like) Home for the Holidays",
+      "album": "A Christmas In Vegas",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Take-off%20on%20Rat%20Pack",
+      "track_url": "https://www.last.fm/music/Take-off+on+Rat+Pack/_/%28There's+No+Place+Like%29+Home+for+the+Holidays",
+      "graduated": false
+    },
+    "waylon jennings, willie nelson, johnny cash & kris kristofferson": {
+      "artist": "Waylon Jennings, Willie Nelson, Johnny Cash & Kris Kristofferson",
+      "first_discovered": "04 Nov 2026, 03:56",
+      "last_listened": "04 Nov 2026, 03:56",
+      "track": "Against The Wind",
+      "album": "Highwayman",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Waylon%20Jennings%2C%20Willie%20Nelson%2C%20Johnny%20Cash%20%26%20Kris%20Kristofferson",
+      "track_url": "https://www.last.fm/music/Waylon+Jennings%2C+Willie+Nelson%2C+Johnny+Cash+%26+Kris+Kristofferson/_/Against+The+Wind",
       "graduated": false
     }
   }
