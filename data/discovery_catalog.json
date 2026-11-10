@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-11-09T01:31:51.054008-08:00",
+    "last_updated": "2026-11-10T01:31:42.213967-08:00",
     "username": "bonelifer",
-    "total_discoveries": 1212,
-    "total_graduated": 69
+    "total_discoveries": 1239,
+    "total_graduated": 70
   },
   "catalog": {
     "rjd2, supastition": {
@@ -2194,11 +2194,11 @@
     "don mclean": {
       "artist": "Don McLean",
       "first_discovered": "29 Apr 2026, 14:44",
-      "last_listened": "21 Oct 2026, 18:39",
-      "track": "American Pie",
-      "album": "Leaving on a Jet Plane",
+      "last_listened": "09 Nov 2026, 21:08",
+      "track": "Vincent",
+      "album": "AM Gold: The Early ’70s",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Don%20McLean",
-      "track_url": "https://www.last.fm/music/Don+McLean/_/American+Pie",
+      "track_url": "https://www.last.fm/music/Don+McLean/_/Vincent",
       "graduated": false
     },
     "vincent nguini": {
@@ -2744,7 +2744,7 @@
     "a flock of seagulls": {
       "artist": "A Flock of Seagulls",
       "first_discovered": "21 May 2026, 19:56",
-      "last_listened": "01 Nov 2026, 02:09",
+      "last_listened": "09 Nov 2026, 22:52",
       "track": "I Ran (So Far Away)",
       "album": "80s 100 Hits",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/A%20Flock%20of%20Seagulls",
@@ -6322,11 +6322,11 @@
     "jackie venson": {
       "artist": "Jackie Venson",
       "first_discovered": "26 Oct 2026, 00:30",
-      "last_listened": "06 Nov 2026, 00:55",
-      "track": "Intro to Fear",
-      "album": "Live in Texas",
+      "last_listened": "09 Nov 2026, 13:32",
+      "track": "Surrender",
+      "album": "Live at Austin City Limits",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Jackie%20Venson",
-      "track_url": "https://www.last.fm/music/Jackie+Venson/_/Intro+to+Fear",
+      "track_url": "https://www.last.fm/music/Jackie+Venson/_/Surrender",
       "graduated": false
     },
     "fats waller and his rhythm": {
@@ -6402,11 +6402,11 @@
     "roger williams": {
       "artist": "Roger Williams",
       "first_discovered": "25 Oct 2026, 22:43",
-      "last_listened": "29 Oct 2026, 16:19",
-      "track": "Lady",
-      "album": "The Piano Men - Disc 2 - The Roger Williams Way",
+      "last_listened": "09 Nov 2026, 09:02",
+      "track": "Autumn Leaves",
+      "album": "100 Favorites of the Fifties",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Roger%20Williams",
-      "track_url": "https://www.last.fm/music/Roger+Williams/_/Lady",
+      "track_url": "https://www.last.fm/music/Roger+Williams/_/Autumn+Leaves",
       "graduated": false
     },
     "andrew lloyd webber": {
@@ -6682,11 +6682,11 @@
     "first to eleven": {
       "artist": "First to Eleven",
       "first_discovered": "25 Oct 2026, 04:44",
-      "last_listened": "08 Nov 2026, 22:34",
-      "track": "Somebody That I Used to Know",
-      "album": "Somebody That I Used to Know",
+      "last_listened": "09 Nov 2026, 10:43",
+      "track": "Without Me",
+      "album": "Covers, Vol. 2",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/First%20to%20Eleven",
-      "track_url": "https://www.last.fm/music/First+to+Eleven/_/Somebody+That+I+Used+to+Know",
+      "track_url": "https://www.last.fm/music/First+to+Eleven/_/Without+Me",
       "graduated": false
     },
     "the head and the heart": {
@@ -6833,11 +6833,11 @@
     "prince": {
       "artist": "Prince",
       "first_discovered": "24 Oct 2026, 10:19",
-      "last_listened": "28 Oct 2026, 22:44",
-      "track": "Get Loose",
+      "last_listened": "09 Nov 2026, 02:37",
+      "track": "18 & Over",
       "album": "Crystal Ball",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Prince",
-      "track_url": "https://www.last.fm/music/Prince/_/Get+Loose",
+      "track_url": "https://www.last.fm/music/Prince/_/18+%26+Over",
       "graduated": false
     },
     "the glenn miller orchestra": {
@@ -7093,11 +7093,11 @@
     "nathaniel rateliff & the night sweats": {
       "artist": "Nathaniel Rateliff & the Night Sweats",
       "first_discovered": "24 Oct 2026, 01:05",
-      "last_listened": "04 Nov 2026, 11:23",
-      "track": "Shoe Boot",
-      "album": "Tearing at the Seams",
+      "last_listened": "09 Nov 2026, 13:03",
+      "track": "Out On The Weekend",
+      "album": "Live At Red Rocks",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Nathaniel%20Rateliff%20%26%20the%20Night%20Sweats",
-      "track_url": "https://www.last.fm/music/Nathaniel+Rateliff+%26+the+Night+Sweats/_/Shoe+Boot",
+      "track_url": "https://www.last.fm/music/Nathaniel+Rateliff+%26+the+Night+Sweats/_/Out+On+The+Weekend",
       "graduated": false
     },
     "little richard": {
@@ -7858,7 +7858,8 @@
       "album": "Feels Like Home",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Norah%20Jones",
       "track_url": "https://www.last.fm/music/Norah+Jones/_/Toes",
-      "graduated": false
+      "graduated": true,
+      "graduated_date": "2026-11-10T01:31:42.211856-08:00"
     },
     "dolly parton & sia": {
       "artist": "Dolly Parton & Sia",
@@ -8453,11 +8454,11 @@
     "tracy chapman": {
       "artist": "Tracy Chapman",
       "first_discovered": "28 Oct 2026, 19:07",
-      "last_listened": "28 Oct 2026, 19:07",
-      "track": "First Try",
-      "album": "Telling Stories",
+      "last_listened": "09 Nov 2026, 23:27",
+      "track": "Open Arms",
+      "album": "Greatest Hits",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Tracy%20Chapman",
-      "track_url": "https://www.last.fm/music/Tracy+Chapman/_/First+Try",
+      "track_url": "https://www.last.fm/music/Tracy+Chapman/_/Open+Arms",
       "graduated": false
     },
     "michael martin murphey & steve earle": {
@@ -8603,11 +8604,11 @@
     "slaid cleaves": {
       "artist": "Slaid Cleaves",
       "first_discovered": "29 Oct 2026, 11:12",
-      "last_listened": "31 Oct 2026, 02:03",
-      "track": "Second Hand",
-      "album": "Together Through the Dark",
+      "last_listened": "10 Nov 2026, 00:37",
+      "track": "Little Guys",
+      "album": "Ghost on the Car Radio",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Slaid%20Cleaves",
-      "track_url": "https://www.last.fm/music/Slaid+Cleaves/_/Second+Hand",
+      "track_url": "https://www.last.fm/music/Slaid+Cleaves/_/Little+Guys",
       "graduated": false
     },
     "bobby freeman": {
@@ -9963,11 +9964,11 @@
     "the psychedelic furs": {
       "artist": "The Psychedelic Furs",
       "first_discovered": "02 Nov 2026, 19:16",
-      "last_listened": "03 Nov 2026, 15:55",
-      "track": "The Ghost In You",
-      "album": "Stranger Things: Music from the Netflix Original Series",
+      "last_listened": "09 Nov 2026, 08:16",
+      "track": "Heartbreak Beat",
+      "album": "Midnight To Midnight",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/The%20Psychedelic%20Furs",
-      "track_url": "https://www.last.fm/music/The+Psychedelic+Furs/_/The+Ghost+In+You",
+      "track_url": "https://www.last.fm/music/The+Psychedelic+Furs/_/Heartbreak+Beat",
       "graduated": false
     },
     "atomic kitten": {
@@ -10963,7 +10964,7 @@
     "henry mancini": {
       "artist": "Henry Mancini",
       "first_discovered": "05 Nov 2026, 23:45",
-      "last_listened": "05 Nov 2026, 23:45",
+      "last_listened": "10 Nov 2026, 00:48",
       "track": "Rhapsody in Blue",
       "album": "The Piano Men - Disc 1 - The Magic Of Mancini",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Henry%20Mancini",
@@ -11623,11 +11624,11 @@
     "alabama shakes": {
       "artist": "Alabama Shakes",
       "first_discovered": "08 Nov 2026, 23:11",
-      "last_listened": "08 Nov 2026, 23:11",
-      "track": "Heavy Chevy",
-      "album": "Heavy Chevy",
+      "last_listened": "09 Nov 2026, 02:11",
+      "track": "Miss You",
+      "album": "Sound & Color",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Alabama%20Shakes",
-      "track_url": "https://www.last.fm/music/Alabama+Shakes/_/Heavy+Chevy",
+      "track_url": "https://www.last.fm/music/Alabama+Shakes/_/Miss+You",
       "graduated": false
     },
     "pretenders": {
@@ -11683,11 +11684,11 @@
     "red hot chili peppers": {
       "artist": "Red Hot Chili Peppers",
       "first_discovered": "08 Nov 2026, 20:57",
-      "last_listened": "08 Nov 2026, 20:57",
-      "track": "The Heavy Wing",
+      "last_listened": "09 Nov 2026, 22:34",
+      "track": "Bastards of Light",
       "album": "Unlimited Love",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Red%20Hot%20Chili%20Peppers",
-      "track_url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/_/The+Heavy+Wing",
+      "track_url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Bastards+of+Light",
       "graduated": false
     },
     "dottie west": {
@@ -11933,11 +11934,11 @@
     "neil young with crazy horse": {
       "artist": "Neil Young with Crazy Horse",
       "first_discovered": "08 Nov 2026, 05:53",
-      "last_listened": "08 Nov 2026, 05:53",
-      "track": "Over And Over",
-      "album": "Way Down in the Rust Bucket",
+      "last_listened": "09 Nov 2026, 23:10",
+      "track": "How Ya Doin’?",
+      "album": "TOAST",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Neil%20Young%20with%20Crazy%20Horse",
-      "track_url": "https://www.last.fm/music/Neil+Young+with+Crazy+Horse/_/Over+And+Over",
+      "track_url": "https://www.last.fm/music/Neil+Young+with+Crazy+Horse/_/How+Ya+Doin%E2%80%99%3F",
       "graduated": false
     },
     "brantley gilbert, jamey johnson & alison krauss": {
@@ -12048,6 +12049,276 @@
       "album": "Soul Sisters",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Mary%20Wells",
       "track_url": "https://www.last.fm/music/Mary+Wells/_/My+Guy",
+      "graduated": false
+    },
+    "odesza feat. sasha alex sloan": {
+      "artist": "ODESZA feat. Sasha Alex Sloan",
+      "first_discovered": "10 Nov 2026, 01:05",
+      "last_listened": "10 Nov 2026, 01:05",
+      "track": "Falls",
+      "album": "A Moment Apart",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/ODESZA%20feat.%20Sasha%20Alex%20Sloan",
+      "track_url": "https://www.last.fm/music/ODESZA+feat.+Sasha+Alex+Sloan/_/Falls",
+      "graduated": false
+    },
+    "the kingsmen": {
+      "artist": "The Kingsmen",
+      "first_discovered": "10 Nov 2026, 00:26",
+      "last_listened": "10 Nov 2026, 00:26",
+      "track": "Louie Louie",
+      "album": "Louie Louie: The Very Best Of The Kingsmen",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/The%20Kingsmen",
+      "track_url": "https://www.last.fm/music/The+Kingsmen/_/Louie+Louie",
+      "graduated": false
+    },
+    "neil young/promise of the real": {
+      "artist": "Neil Young/Promise of the Real",
+      "first_discovered": "09 Nov 2026, 23:47",
+      "last_listened": "09 Nov 2026, 23:47",
+      "track": "Love and Only Love",
+      "album": "Earth",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Neil%20Young%2FPromise%20of%20the%20Real",
+      "track_url": "https://www.last.fm/music/Neil+Young%2FPromise+of+the+Real/_/Love+and+Only+Love",
+      "graduated": false
+    },
+    "todd rundgren feat. rick nielsen": {
+      "artist": "Todd Rundgren feat. Rick Nielsen",
+      "first_discovered": "09 Nov 2026, 23:00",
+      "last_listened": "09 Nov 2026, 23:00",
+      "track": "Stfu",
+      "album": "Space Force",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Todd%20Rundgren%20feat.%20Rick%20Nielsen",
+      "track_url": "https://www.last.fm/music/Todd+Rundgren+feat.+Rick+Nielsen/_/Stfu",
+      "graduated": false
+    },
+    "bob marley & the wailers & chineke! orchestra": {
+      "artist": "Bob Marley & The Wailers & Chineke! Orchestra",
+      "first_discovered": "09 Nov 2026, 22:56",
+      "last_listened": "09 Nov 2026, 22:56",
+      "track": "Stir It Up",
+      "album": "Bob Marley & The Chineke! Orchestra",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Bob%20Marley%20%26%20The%20Wailers%20%26%20Chineke%21%20Orchestra",
+      "track_url": "https://www.last.fm/music/Bob+Marley+%26+The+Wailers+%26+Chineke%21+Orchestra/_/Stir+It+Up",
+      "graduated": false
+    },
+    "the wailin’ jennys": {
+      "artist": "The Wailin’ Jennys",
+      "first_discovered": "09 Nov 2026, 22:48",
+      "last_listened": "09 Nov 2026, 22:48",
+      "track": "Beautiful Dawn",
+      "album": "40 Days",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/The%20Wailin%E2%80%99%20Jennys",
+      "track_url": "https://www.last.fm/music/The+Wailin%E2%80%99+Jennys/_/Beautiful+Dawn",
+      "graduated": false
+    },
+    "santana feat. concha buika": {
+      "artist": "Santana feat. Concha Buika",
+      "first_discovered": "09 Nov 2026, 22:39",
+      "last_listened": "09 Nov 2026, 22:39",
+      "track": "Paraísos quemados",
+      "album": "Africa Speaks",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Santana%20feat.%20Concha%20Buika",
+      "track_url": "https://www.last.fm/music/Santana+feat.+Concha+Buika/_/Para%C3%ADsos+quemados",
+      "graduated": false
+    },
+    "sean hayes": {
+      "artist": "Sean Hayes",
+      "first_discovered": "09 Nov 2026, 22:30",
+      "last_listened": "09 Nov 2026, 22:30",
+      "track": "Magic Slim",
+      "album": "Low Light",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Sean%20Hayes",
+      "track_url": "https://www.last.fm/music/Sean+Hayes/_/Magic+Slim",
+      "graduated": false
+    },
+    "evanescence": {
+      "artist": "Evanescence",
+      "first_discovered": "09 Nov 2026, 22:14",
+      "last_listened": "09 Nov 2026, 22:14",
+      "track": "Bring Me to Life",
+      "album": "Fallen",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Evanescence",
+      "track_url": "https://www.last.fm/music/Evanescence/_/Bring+Me+to+Life",
+      "graduated": false
+    },
+    "ashley mcbryde": {
+      "artist": "Ashley McBryde",
+      "first_discovered": "09 Nov 2026, 21:32",
+      "last_listened": "09 Nov 2026, 21:32",
+      "track": "Made for This",
+      "album": "The Devil I Know",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Ashley%20McBryde",
+      "track_url": "https://www.last.fm/music/Ashley+McBryde/_/Made+for+This",
+      "graduated": false
+    },
+    "cowboy copas": {
+      "artist": "Cowboy Copas",
+      "first_discovered": "09 Nov 2026, 21:14",
+      "last_listened": "09 Nov 2026, 21:14",
+      "track": "Alabam",
+      "album": "Classic Country: Hard to Find Hits",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Cowboy%20Copas",
+      "track_url": "https://www.last.fm/music/Cowboy+Copas/_/Alabam",
+      "graduated": false
+    },
+    "jimmy buffett with fanny lú": {
+      "artist": "Jimmy Buffett with Fanny Lú",
+      "first_discovered": "09 Nov 2026, 13:07",
+      "last_listened": "09 Nov 2026, 13:07",
+      "track": "I Want to Go Back to Cartagena (Spanish version)",
+      "album": "Songs from St. Somewhere",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Jimmy%20Buffett%20with%20Fanny%20L%C3%BA",
+      "track_url": "https://www.last.fm/music/Jimmy+Buffett+with+Fanny+L%C3%BA/_/I+Want+to+Go+Back+to+Cartagena+%28Spanish+version%29",
+      "graduated": false
+    },
+    "télépopmusik feat. sylvia black": {
+      "artist": "Télépopmusik feat. Sylvia Black",
+      "first_discovered": "09 Nov 2026, 12:53",
+      "last_listened": "09 Nov 2026, 12:53",
+      "track": "Wait for Me",
+      "album": "Everybody Breaks the Line",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/T%C3%A9l%C3%A9popmusik%20feat.%20Sylvia%20Black",
+      "track_url": "https://www.last.fm/music/T%C3%A9l%C3%A9popmusik+feat.+Sylvia+Black/_/Wait+for+Me",
+      "graduated": false
+    },
+    "ofenbach & lagique": {
+      "artist": "Ofenbach & Lagique",
+      "first_discovered": "09 Nov 2026, 12:49",
+      "last_listened": "09 Nov 2026, 12:49",
+      "track": "Wasted Love",
+      "album": "I",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Ofenbach%20%26%20Lagique",
+      "track_url": "https://www.last.fm/music/Ofenbach+%26+Lagique/_/Wasted+Love",
+      "graduated": false
+    },
+    "james talley": {
+      "artist": "James Talley",
+      "first_discovered": "09 Nov 2026, 12:40",
+      "last_listened": "09 Nov 2026, 12:40",
+      "track": "give him another bottle",
+      "album": "Got No Bread, No Milk, No Money But We Sure Got A Lot Of Love",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/James%20Talley",
+      "track_url": "https://www.last.fm/music/James+Talley/_/give+him+another+bottle",
+      "graduated": false
+    },
+    "jay & the americans": {
+      "artist": "Jay & The Americans",
+      "first_discovered": "09 Nov 2026, 10:03",
+      "last_listened": "09 Nov 2026, 10:03",
+      "track": "Come A Little Bit Closer",
+      "album": "The Classic 60's Collection - 1964",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Jay%20%26%20The%20Americans",
+      "track_url": "https://www.last.fm/music/Jay+%26+The+Americans/_/Come+A+Little+Bit+Closer",
+      "graduated": false
+    },
+    "madonna feat. lil wayne": {
+      "artist": "Madonna Feat. Lil Wayne",
+      "first_discovered": "09 Nov 2026, 08:59",
+      "last_listened": "09 Nov 2026, 08:59",
+      "track": "Revolver",
+      "album": "Celebration",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Madonna%20Feat.%20Lil%20Wayne",
+      "track_url": "https://www.last.fm/music/Madonna+Feat.+Lil+Wayne/_/Revolver",
+      "graduated": false
+    },
+    "shaggy feat. conkarah & richie stephens": {
+      "artist": "Shaggy feat. Conkarah & Richie Stephens",
+      "first_discovered": "09 Nov 2026, 08:43",
+      "last_listened": "09 Nov 2026, 08:43",
+      "track": "Take You to the Cool",
+      "album": "Christmas in the Islands",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Shaggy%20feat.%20Conkarah%20%26%20Richie%20Stephens",
+      "track_url": "https://www.last.fm/music/Shaggy+feat.+Conkarah+%26+Richie+Stephens/_/Take+You+to+the+Cool",
+      "graduated": false
+    },
+    "the four aces": {
+      "artist": "The Four Aces",
+      "first_discovered": "09 Nov 2026, 08:31",
+      "last_listened": "09 Nov 2026, 08:31",
+      "track": "Three Coins In The Fountain",
+      "album": "100 Favorites of the Fifties",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/The%20Four%20Aces",
+      "track_url": "https://www.last.fm/music/The+Four+Aces/_/Three+Coins+In+The+Fountain",
+      "graduated": false
+    },
+    "taylor swift feat. kendrick lamar": {
+      "artist": "Taylor Swift feat. Kendrick Lamar",
+      "first_discovered": "09 Nov 2026, 04:55",
+      "last_listened": "09 Nov 2026, 04:55",
+      "track": "Bad Blood (Taylor’s version)",
+      "album": "1989 (Taylor’s Version) (Deluxe)",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Taylor%20Swift%20feat.%20Kendrick%20Lamar",
+      "track_url": "https://www.last.fm/music/Taylor+Swift+feat.+Kendrick+Lamar/_/Bad+Blood+%28Taylor%E2%80%99s+version%29",
+      "graduated": false
+    },
+    "first aid kit": {
+      "artist": "First Aid Kit",
+      "first_discovered": "09 Nov 2026, 04:34",
+      "last_listened": "09 Nov 2026, 04:34",
+      "track": "Wolf",
+      "album": "Wolf",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/First%20Aid%20Kit",
+      "track_url": "https://www.last.fm/music/First+Aid+Kit/_/Wolf",
+      "graduated": false
+    },
+    "sg lewis feat. lastlings": {
+      "artist": "SG Lewis feat. Lastlings",
+      "first_discovered": "09 Nov 2026, 04:17",
+      "last_listened": "09 Nov 2026, 04:17",
+      "track": "All We Have",
+      "album": "times",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/SG%20Lewis%20feat.%20Lastlings",
+      "track_url": "https://www.last.fm/music/SG+Lewis+feat.+Lastlings/_/All+We+Have",
+      "graduated": false
+    },
+    "adam calhoun": {
+      "artist": "Adam Calhoun",
+      "first_discovered": "09 Nov 2026, 03:21",
+      "last_listened": "09 Nov 2026, 03:21",
+      "track": "Watch the Rain",
+      "album": "Outlaw Shxt",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Adam%20Calhoun",
+      "track_url": "https://www.last.fm/music/Adam+Calhoun/_/Watch+the+Rain",
+      "graduated": false
+    },
+    "the outfield": {
+      "artist": "The Outfield",
+      "first_discovered": "09 Nov 2026, 02:52",
+      "last_listened": "09 Nov 2026, 02:52",
+      "track": "Everytime You Cry",
+      "album": "Play Deep",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/The%20Outfield",
+      "track_url": "https://www.last.fm/music/The+Outfield/_/Everytime+You+Cry",
+      "graduated": false
+    },
+    "patterson hood": {
+      "artist": "Patterson Hood",
+      "first_discovered": "09 Nov 2026, 02:45",
+      "last_listened": "09 Nov 2026, 02:45",
+      "track": "My Sweet Annette",
+      "album": "Live at the Shoals Theatre",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Patterson%20Hood",
+      "track_url": "https://www.last.fm/music/Patterson+Hood/_/My+Sweet+Annette",
+      "graduated": false
+    },
+    "friend & lover": {
+      "artist": "Friend & Lover",
+      "first_discovered": "09 Nov 2026, 02:15",
+      "last_listened": "09 Nov 2026, 02:15",
+      "track": "Reach Out Of The Darkness",
+      "album": "AM Gold - The Late '60s",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Friend%20%26%20Lover",
+      "track_url": "https://www.last.fm/music/Friend+%26+Lover/_/Reach+Out+Of+The+Darkness",
+      "graduated": false
+    },
+    "robert plant & alison krauss": {
+      "artist": "Robert Plant & Alison Krauss",
+      "first_discovered": "09 Nov 2026, 01:52",
+      "last_listened": "09 Nov 2026, 01:52",
+      "track": "It Don’t Bother Me",
+      "album": "Raise The Roof",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Robert%20Plant%20%26%20Alison%20Krauss",
+      "track_url": "https://www.last.fm/music/Robert+Plant+%26+Alison+Krauss/_/It+Don%E2%80%99t+Bother+Me",
       "graduated": false
     }
   }
