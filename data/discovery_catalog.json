@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-11T01:07:57.466629-08:00",
+    "last_updated": "2026-11-12T01:34:48.038403-08:00",
     "username": "bonelifer",
-    "total_discoveries": 1254,
+    "total_discoveries": 1262,
     "total_graduated": 70
   },
   "catalog": {
@@ -7523,11 +7523,11 @@
     "matthew wilder": {
       "artist": "Matthew Wilder",
       "first_discovered": "23 Oct 2026, 04:10",
-      "last_listened": "23 Oct 2026, 04:10",
-      "track": "I Don’t Speak the Language",
-      "album": "I Don’t Speak the Language",
+      "last_listened": "11 Nov 2026, 23:40",
+      "track": "Rock Pendulum",
+      "album": "Especially On Birthdays",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Matthew%20Wilder",
-      "track_url": "https://www.last.fm/music/Matthew+Wilder/_/I+Don%E2%80%99t+Speak+the+Language",
+      "track_url": "https://www.last.fm/music/Matthew+Wilder/_/Rock+Pendulum",
       "graduated": false
     },
     "the b‐52s": {
@@ -7643,11 +7643,11 @@
     "john 5": {
       "artist": "John 5",
       "first_discovered": "22 Oct 2026, 21:54",
-      "last_listened": "05 Nov 2026, 03:23",
-      "track": "Death Valley (with Albert Lee)",
-      "album": "Songs For Sanity",
+      "last_listened": "12 Nov 2026, 01:22",
+      "track": "Beat It",
+      "album": "Beat It",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/John%205",
-      "track_url": "https://www.last.fm/music/John+5/_/Death+Valley+%28with+Albert+Lee%29",
+      "track_url": "https://www.last.fm/music/John+5/_/Beat+It",
       "graduated": false
     },
     "lee greenwood": {
@@ -7673,11 +7673,11 @@
     "haystak & jelly roll": {
       "artist": "Haystak & Jelly Roll",
       "first_discovered": "22 Oct 2026, 21:43",
-      "last_listened": "29 Oct 2026, 10:06",
-      "track": "Don't Add Nothing",
-      "album": "Strictly Business",
+      "last_listened": "12 Nov 2026, 00:51",
+      "track": "Squad Up",
+      "album": "Business as Usual",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Haystak%20%26%20Jelly%20Roll",
-      "track_url": "https://www.last.fm/music/Haystak+%26+Jelly+Roll/_/Don't+Add+Nothing",
+      "track_url": "https://www.last.fm/music/Haystak+%26+Jelly+Roll/_/Squad+Up",
       "graduated": false
     },
     "ryan hurd": {
@@ -7843,11 +7843,11 @@
     "johnny cash & waylon jennings": {
       "artist": "Johnny Cash & Waylon Jennings",
       "first_discovered": "22 Oct 2026, 07:43",
-      "last_listened": "22 Oct 2026, 07:43",
-      "track": "Heroes",
+      "last_listened": "12 Nov 2026, 00:37",
+      "track": "The Ballad of Forty Dollars",
       "album": "Heroes",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Johnny%20Cash%20%26%20Waylon%20Jennings",
-      "track_url": "https://www.last.fm/music/Johnny+Cash+%26+Waylon+Jennings/_/Heroes",
+      "track_url": "https://www.last.fm/music/Johnny+Cash+%26+Waylon+Jennings/_/The+Ballad+of+Forty+Dollars",
       "graduated": false
     },
     "norah jones": {
@@ -12469,6 +12469,86 @@
       "album": "Flying Home",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Lionel%20Hampton",
       "track_url": "https://www.last.fm/music/Lionel+Hampton/_/The+Jumpin'+Jive",
+      "graduated": false
+    },
+    "chicago transit authority": {
+      "artist": "Chicago Transit Authority",
+      "first_discovered": "12 Nov 2026, 00:59",
+      "last_listened": "12 Nov 2026, 00:59",
+      "track": "South California Purples",
+      "album": "Chicago Transit Authority",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Chicago%20Transit%20Authority",
+      "track_url": "https://www.last.fm/music/Chicago+Transit+Authority/_/South+California+Purples",
+      "graduated": false
+    },
+    "t-pain": {
+      "artist": "T-Pain",
+      "first_discovered": "12 Nov 2026, 00:49",
+      "last_listened": "12 Nov 2026, 00:49",
+      "track": "She's Sympathy (Live)",
+      "album": "On Top of The Covers (Live from The Sun Rose)",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/T-Pain",
+      "track_url": "https://www.last.fm/music/T-Pain/_/She's+Sympathy+%28Live%29",
+      "graduated": false
+    },
+    "bebe rexha & florida georgia line": {
+      "artist": "Bebe Rexha & Florida Georgia Line",
+      "first_discovered": "12 Nov 2026, 00:34",
+      "last_listened": "12 Nov 2026, 00:34",
+      "track": "Meant to Be (live from CMA Fest 2018)",
+      "album": "Cruise (Live from Joe's Bar, Chicago  2012)",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Bebe%20Rexha%20%26%20Florida%20Georgia%20Line",
+      "track_url": "https://www.last.fm/music/Bebe+Rexha+%26+Florida+Georgia+Line/_/Meant+to+Be+%28live+from+CMA+Fest+2018%29",
+      "graduated": false
+    },
+    "jimmy ruffin": {
+      "artist": "Jimmy Ruffin",
+      "first_discovered": "11 Nov 2026, 23:58",
+      "last_listened": "11 Nov 2026, 23:58",
+      "track": "What Becomes Of The Brokenhearted",
+      "album": "Slow Jams - The 60's Volume 3",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Jimmy%20Ruffin",
+      "track_url": "https://www.last.fm/music/Jimmy+Ruffin/_/What+Becomes+Of+The+Brokenhearted",
+      "graduated": false
+    },
+    "tony bennett with count basie": {
+      "artist": "Tony Bennett with Count Basie",
+      "first_discovered": "11 Nov 2026, 23:42",
+      "last_listened": "11 Nov 2026, 23:42",
+      "track": "Chicago That Toddling Town",
+      "album": "Sir Duke and Friends",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Tony%20Bennett%20with%20Count%20Basie",
+      "track_url": "https://www.last.fm/music/Tony+Bennett+with+Count+Basie/_/Chicago+That+Toddling+Town",
+      "graduated": false
+    },
+    "bachman and turner": {
+      "artist": "Bachman And Turner",
+      "first_discovered": "11 Nov 2026, 22:43",
+      "last_listened": "11 Nov 2026, 22:43",
+      "track": "That's What It Is",
+      "album": "Live at the Roseland Ballroom",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Bachman%20And%20Turner",
+      "track_url": "https://www.last.fm/music/Bachman+And+Turner/_/That's+What+It+Is",
+      "graduated": false
+    },
+    "dolly parton, tammy wynette & loretta lynn": {
+      "artist": "Dolly Parton, Tammy Wynette & Loretta Lynn",
+      "first_discovered": "11 Nov 2026, 22:24",
+      "last_listened": "11 Nov 2026, 22:24",
+      "track": "Sittin’ on the Front Porch Swing",
+      "album": "Honky Tonk Angels",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Dolly%20Parton%2C%20Tammy%20Wynette%20%26%20Loretta%20Lynn",
+      "track_url": "https://www.last.fm/music/Dolly+Parton%2C+Tammy+Wynette+%26+Loretta+Lynn/_/Sittin%E2%80%99+on+the+Front+Porch+Swing",
+      "graduated": false
+    },
+    "ace of base": {
+      "artist": "Ace of Base",
+      "first_discovered": "11 Nov 2026, 17:39",
+      "last_listened": "11 Nov 2026, 17:39",
+      "track": "The Sign",
+      "album": "Greatest Hits",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Ace%20of%20Base",
+      "track_url": "https://www.last.fm/music/Ace+of+Base/_/The+Sign",
       "graduated": false
     }
   }
