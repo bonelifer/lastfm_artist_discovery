@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-16T01:19:29.771080-08:00",
+    "last_updated": "2026-11-17T02:27:51.696404-08:00",
     "username": "bonelifer",
-    "total_discoveries": 1386,
+    "total_discoveries": 1443,
     "total_graduated": 70
   },
   "catalog": {
@@ -502,10 +502,10 @@
     "the smiths": {
       "artist": "The Smiths",
       "first_discovered": "21 Feb 2026, 18:05",
-      "last_listened": "03 Nov 2026, 17:24",
-      "track": "William, It Was Really Nothing",
+      "last_listened": "16 Nov 2026, 08:15",
+      "track": "Some Girls Are Bigger Than Others",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Smiths",
-      "track_url": "https://www.last.fm/music/The+Smiths/_/William%2C+It+Was+Really+Nothing",
+      "track_url": "https://www.last.fm/music/The+Smiths/_/Some+Girls+Are+Bigger+Than+Others",
       "graduated": true,
       "graduated_date": "2026-02-26T20:03:59.474052-08:00",
       "album": "Complete"
@@ -1009,7 +1009,7 @@
     "cutting crew": {
       "artist": "Cutting Crew",
       "first_discovered": "06 Mar 2026, 15:49",
-      "last_listened": "03 Nov 2026, 04:33",
+      "last_listened": "16 Nov 2026, 08:53",
       "track": "(I Just) Died in Your Arms",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Cutting%20Crew",
       "track_url": "https://www.last.fm/music/Cutting+Crew/_/%28I+Just%29+Died+in+Your+Arms",
@@ -2596,11 +2596,11 @@
     "sarah mclachlan": {
       "artist": "Sarah McLachlan",
       "first_discovered": "25 May 2026, 15:54",
-      "last_listened": "14 Nov 2026, 21:46",
-      "track": "Silver Bells",
-      "album": "Wonderland",
+      "last_listened": "16 Nov 2026, 08:06",
+      "track": "Blackbird",
+      "album": "Rarities, B-Sides and Other Stuff, Volume 2",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Sarah%20McLachlan",
-      "track_url": "https://www.last.fm/music/Sarah+McLachlan/_/Silver+Bells",
+      "track_url": "https://www.last.fm/music/Sarah+McLachlan/_/Blackbird",
       "graduated": true,
       "graduated_date": "2026-05-27T23:01:23.893328-07:00"
     },
@@ -8854,11 +8854,11 @@
     "train": {
       "artist": "Train",
       "first_discovered": "01 Nov 2026, 01:54",
-      "last_listened": "02 Nov 2026, 17:15",
-      "track": "Shake up Christmas (Xmas Anthem)",
-      "album": "Christmas Hits",
+      "last_listened": "16 Nov 2026, 06:34",
+      "track": "What Child Is This? (Single Version)",
+      "album": "Christmas Cafe",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Train",
-      "track_url": "https://www.last.fm/music/Train/_/Shake+up+Christmas+%28Xmas+Anthem%29",
+      "track_url": "https://www.last.fm/music/Train/_/What+Child+Is+This%3F+%28Single+Version%29",
       "graduated": false
     },
     "starship": {
@@ -9094,11 +9094,11 @@
     "treaty oak revival": {
       "artist": "Treaty Oak Revival",
       "first_discovered": "31 Oct 2026, 20:43",
-      "last_listened": "31 Oct 2026, 20:43",
-      "track": "Bad State of Mind",
-      "album": "West Texas Degenerate",
+      "last_listened": "16 Nov 2026, 06:10",
+      "track": "Fishnets (Talco Tapes Version)",
+      "album": "The Talco Tapes",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Treaty%20Oak%20Revival",
-      "track_url": "https://www.last.fm/music/Treaty+Oak+Revival/_/Bad+State+of+Mind",
+      "track_url": "https://www.last.fm/music/Treaty+Oak+Revival/_/Fishnets+%28Talco+Tapes+Version%29",
       "graduated": false
     },
     "sublime": {
@@ -9404,9 +9404,9 @@
     "shirley bassey": {
       "artist": "Shirley Bassey",
       "first_discovered": "01 Nov 2026, 21:16",
-      "last_listened": "02 Nov 2026, 18:57",
+      "last_listened": "16 Nov 2026, 03:00",
       "track": "Ave Maria",
-      "album": "Christmas Dreams",
+      "album": "Weihnachtsmusik: 111 Weihnachtslieder",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Shirley%20Bassey",
       "track_url": "https://www.last.fm/music/Shirley+Bassey/_/Ave+Maria",
       "graduated": false
@@ -9444,11 +9444,11 @@
     "dido": {
       "artist": "Dido",
       "first_discovered": "01 Nov 2026, 20:53",
-      "last_listened": "02 Nov 2026, 19:40",
-      "track": "Christmas Day",
-      "album": "Relaxing Christmas Music",
+      "last_listened": "16 Nov 2026, 07:51",
+      "track": "White Flag",
+      "album": "Beautiful Lovesongs",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Dido",
-      "track_url": "https://www.last.fm/music/Dido/_/Christmas+Day",
+      "track_url": "https://www.last.fm/music/Dido/_/White+Flag",
       "graduated": false
     },
     "shakin' stevens": {
@@ -9664,11 +9664,11 @@
     "sara bareilles": {
       "artist": "Sara Bareilles",
       "first_discovered": "01 Nov 2026, 02:45",
-      "last_listened": "03 Nov 2026, 13:45",
-      "track": "Winter Song",
-      "album": "Christmas Pop",
+      "last_listened": "16 Nov 2026, 06:05",
+      "track": "Love Song",
+      "album": "Love Song",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Sara%20Bareilles",
-      "track_url": "https://www.last.fm/music/Sara+Bareilles/_/Winter+Song",
+      "track_url": "https://www.last.fm/music/Sara+Bareilles/_/Love+Song",
       "graduated": false
     },
     "percy sledge": {
@@ -10204,7 +10204,7 @@
     "selena gomez & the scene": {
       "artist": "Selena Gomez & the Scene",
       "first_discovered": "02 Nov 2026, 05:25",
-      "last_listened": "02 Nov 2026, 05:25",
+      "last_listened": "16 Nov 2026, 03:59",
       "track": "A Year Without Rain",
       "album": "Voces De Divas",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Selena%20Gomez%20%26%20the%20Scene",
@@ -10214,9 +10214,9 @@
     "luther vandross": {
       "artist": "Luther Vandross",
       "first_discovered": "02 Nov 2026, 05:20",
-      "last_listened": "15 Nov 2026, 17:02",
+      "last_listened": "16 Nov 2026, 06:13",
       "track": "Here And Now",
-      "album": "21 Love Songs",
+      "album": "Love Songs",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Luther%20Vandross",
       "track_url": "https://www.last.fm/music/Luther+Vandross/_/Here+And+Now",
       "graduated": false
@@ -10224,11 +10224,11 @@
     "pretty ricky": {
       "artist": "Pretty Ricky",
       "first_discovered": "02 Nov 2026, 04:55",
-      "last_listened": "02 Nov 2026, 04:55",
-      "track": "Your Body",
+      "last_listened": "16 Nov 2026, 09:21",
+      "track": "On The Hotline",
       "album": "100 Greatest R&B Throwbacks",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Pretty%20Ricky",
-      "track_url": "https://www.last.fm/music/Pretty+Ricky/_/Your+Body",
+      "track_url": "https://www.last.fm/music/Pretty+Ricky/_/On+The+Hotline",
       "graduated": false
     },
     "the pointer sisters": {
@@ -10604,7 +10604,7 @@
     "kelly rowland": {
       "artist": "Kelly Rowland",
       "first_discovered": "03 Nov 2026, 03:19",
-      "last_listened": "03 Nov 2026, 03:19",
+      "last_listened": "16 Nov 2026, 05:02",
       "track": "Work (Freemasons Radio Edit)",
       "album": "Single and Loving It",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Kelly%20Rowland",
@@ -13234,11 +13234,11 @@
     "waylon jennings & shooter jennings": {
       "artist": "Waylon Jennings & Shooter Jennings",
       "first_discovered": "14 Nov 2026, 03:46",
-      "last_listened": "14 Nov 2026, 03:46",
-      "track": "Knockin’ on Heaven’s Door",
+      "last_listened": "16 Nov 2026, 03:09",
+      "track": "Dream",
       "album": "Fenixon",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Waylon%20Jennings%20%26%20Shooter%20Jennings",
-      "track_url": "https://www.last.fm/music/Waylon+Jennings+%26+Shooter+Jennings/_/Knockin%E2%80%99+on+Heaven%E2%80%99s+Door",
+      "track_url": "https://www.last.fm/music/Waylon+Jennings+%26+Shooter+Jennings/_/Dream",
       "graduated": false
     },
     "flo rida feat. david guetta": {
@@ -13594,17 +13594,17 @@
     "danny elfman": {
       "artist": "Danny Elfman",
       "first_discovered": "15 Nov 2026, 16:36",
-      "last_listened": "15 Nov 2026, 16:36",
-      "track": "What's This?",
+      "last_listened": "16 Nov 2026, 03:28",
+      "track": "Jack and Sally Montage",
       "album": "The Nightmare Before Christmas (Original Motion Picture Soundtrack)",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Danny%20Elfman",
-      "track_url": "https://www.last.fm/music/Danny+Elfman/_/What's+This%3F",
+      "track_url": "https://www.last.fm/music/Danny+Elfman/_/Jack+and+Sally+Montage",
       "graduated": false
     },
     "i'm with her": {
       "artist": "I'm With Her",
       "first_discovered": "15 Nov 2026, 16:32",
-      "last_listened": "15 Nov 2026, 16:32",
+      "last_listened": "16 Nov 2026, 06:24",
       "track": "Chinky Pin Hill",
       "album": "Johnny Cash: Forever Words Expanded",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/I%27m%20With%20Her",
@@ -13789,6 +13789,576 @@
       "album": "Jan Douwe Kroeske presents: The Best of 2 Meter Sessions 1987-2009",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/16%20Horsepower",
       "track_url": "https://www.last.fm/music/16+Horsepower/_/American+Wheeze",
+      "graduated": false
+    },
+    "objetivo birmania": {
+      "artist": "Objetivo Birmania",
+      "first_discovered": "16 Nov 2026, 09:16",
+      "last_listened": "16 Nov 2026, 09:16",
+      "track": "Los amigos de mis amigas son mis amigos",
+      "album": "Canciones del Verano de los 80",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Objetivo%20Birmania",
+      "track_url": "https://www.last.fm/music/Objetivo+Birmania/_/Los+amigos+de+mis+amigas+son+mis+amigos",
+      "graduated": false
+    },
+    "billy joe royal": {
+      "artist": "Billy Joe Royal",
+      "first_discovered": "16 Nov 2026, 09:14",
+      "last_listened": "16 Nov 2026, 09:14",
+      "track": "Down In The Boondocks",
+      "album": "Riding In Cars With Boys",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Billy%20Joe%20Royal",
+      "track_url": "https://www.last.fm/music/Billy+Joe+Royal/_/Down+In+The+Boondocks",
+      "graduated": false
+    },
+    "jerry lee lewis": {
+      "artist": "Jerry Lee Lewis",
+      "first_discovered": "16 Nov 2026, 08:58",
+      "last_listened": "16 Nov 2026, 08:58",
+      "track": "Lovesick Blues",
+      "album": "Sing Hank Williams",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Jerry%20Lee%20Lewis",
+      "track_url": "https://www.last.fm/music/Jerry+Lee+Lewis/_/Lovesick+Blues",
+      "graduated": false
+    },
+    "sex and the city men's choir": {
+      "artist": "Sex and the City Men's Choir",
+      "first_discovered": "16 Nov 2026, 08:51",
+      "last_listened": "16 Nov 2026, 08:51",
+      "track": "Till There Was You",
+      "album": "Sex and the City 2: Original Motion Picture Soundtrack",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Sex%20and%20the%20City%20Men%27s%20Choir",
+      "track_url": "https://www.last.fm/music/Sex+and+the+City+Men's+Choir/_/Till+There+Was+You",
+      "graduated": false
+    },
+    "the impressions": {
+      "artist": "The Impressions",
+      "first_discovered": "16 Nov 2026, 08:46",
+      "last_listened": "16 Nov 2026, 08:46",
+      "track": "I Saw Mommy Kissing Santa Claus",
+      "album": "Weihnachtsmusik: 111 Weihnachtslieder",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/The%20Impressions",
+      "track_url": "https://www.last.fm/music/The+Impressions/_/I+Saw+Mommy+Kissing+Santa+Claus",
+      "graduated": false
+    },
+    "alicia keys": {
+      "artist": "Alicia Keys",
+      "first_discovered": "16 Nov 2026, 08:41",
+      "last_listened": "16 Nov 2026, 08:41",
+      "track": "Rapture",
+      "album": "Sex and the City 2: Original Motion Picture Soundtrack",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Alicia%20Keys",
+      "track_url": "https://www.last.fm/music/Alicia+Keys/_/Rapture",
+      "graduated": false
+    },
+    "waylon jennings/the waylors": {
+      "artist": "Waylon Jennings/The Waylors",
+      "first_discovered": "16 Nov 2026, 08:39",
+      "last_listened": "16 Nov 2026, 08:39",
+      "track": "Just Across The Way",
+      "album": "Waylon",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Waylon%20Jennings%2FThe%20Waylors",
+      "track_url": "https://www.last.fm/music/Waylon+Jennings%2FThe+Waylors/_/Just+Across+The+Way",
+      "graduated": false
+    },
+    "dolly parton & willie nelson": {
+      "artist": "Dolly Parton & Willie Nelson",
+      "first_discovered": "16 Nov 2026, 08:36",
+      "last_listened": "16 Nov 2026, 08:36",
+      "track": "Happy, Happy Birthday Baby",
+      "album": "The Winning Hand",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Dolly%20Parton%20%26%20Willie%20Nelson",
+      "track_url": "https://www.last.fm/music/Dolly+Parton+%26+Willie+Nelson/_/Happy%2C+Happy+Birthday+Baby",
+      "graduated": false
+    },
+    "roger waters & the bleeding heart band & the rundfunk orchestra & choir & the military orchestra of the soviet army": {
+      "artist": "Roger Waters & The Bleeding Heart Band & The Rundfunk Orchestra & Choir & The Military Orchestra of the Soviet Army",
+      "first_discovered": "16 Nov 2026, 08:32",
+      "last_listened": "16 Nov 2026, 08:32",
+      "track": "Run Like Hell",
+      "album": "The Wall: Live in Berlin",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Roger%20Waters%20%26%20The%20Bleeding%20Heart%20Band%20%26%20The%20Rundfunk%20Orchestra%20%26%20Choir%20%26%20The%20Military%20Orchestra%20of%20the%20Soviet%20Army",
+      "track_url": "https://www.last.fm/music/Roger+Waters+%26+The+Bleeding+Heart+Band+%26+The+Rundfunk+Orchestra+%26+Choir+%26+The+Military+Orchestra+of+the+Soviet+Army/_/Run+Like+Hell",
+      "graduated": false
+    },
+    "los toreros muertos": {
+      "artist": "Los Toreros Muertos",
+      "first_discovered": "16 Nov 2026, 08:26",
+      "last_listened": "16 Nov 2026, 08:26",
+      "track": "Mi Agüita Amarilla",
+      "album": "Canciones del Verano de los 80",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Los%20Toreros%20Muertos",
+      "track_url": "https://www.last.fm/music/Los+Toreros+Muertos/_/Mi+Ag%C3%BCita+Amarilla",
+      "graduated": false
+    },
+    "melee": {
+      "artist": "Melee",
+      "first_discovered": "16 Nov 2026, 08:23",
+      "last_listened": "16 Nov 2026, 08:23",
+      "track": "Christmas This Year",
+      "album": "Weihnachtsmusik: 111 Weihnachtslieder",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Melee",
+      "track_url": "https://www.last.fm/music/Melee/_/Christmas+This+Year",
+      "graduated": false
+    },
+    "echosmith": {
+      "artist": "Echosmith",
+      "first_discovered": "16 Nov 2026, 08:20",
+      "last_listened": "16 Nov 2026, 08:20",
+      "track": "I Heard The Bells On Christmas Day",
+      "album": "Weihnachtsmusik: 111 Weihnachtslieder",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Echosmith",
+      "track_url": "https://www.last.fm/music/Echosmith/_/I+Heard+The+Bells+On+Christmas+Day",
+      "graduated": false
+    },
+    "bob's burgers, h. jon benjamin, kevin kline, jordan peele, eugene mirman, kristen schaal, john roberts & dan mintz": {
+      "artist": "Bob's Burgers, H. Jon Benjamin, Kevin Kline, Jordan Peele, Eugene Mirman, Kristen Schaal, John Roberts & Dan Mintz",
+      "first_discovered": "16 Nov 2026, 08:01",
+      "last_listened": "16 Nov 2026, 08:01",
+      "track": "Nice Things Are Nice",
+      "album": "The Bob's Burgers Music Album",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Bob%27s%20Burgers%2C%20H.%20Jon%20Benjamin%2C%20Kevin%20Kline%2C%20Jordan%20Peele%2C%20Eugene%20Mirman%2C%20Kristen%20Schaal%2C%20John%20Roberts%20%26%20Dan%20Mintz",
+      "track_url": "https://www.last.fm/music/Bob's+Burgers%2C+H.+Jon+Benjamin%2C+Kevin+Kline%2C+Jordan+Peele%2C+Eugene+Mirman%2C+Kristen+Schaal%2C+John+Roberts+%26+Dan+Mintz/_/Nice+Things+Are+Nice",
+      "graduated": false
+    },
+    "jacques offenbach": {
+      "artist": "Jacques Offenbach",
+      "first_discovered": "16 Nov 2026, 07:48",
+      "last_listened": "16 Nov 2026, 07:48",
+      "track": "The Tales of Hoffmann: Barcarolle",
+      "album": "The 100 Most Essential Pieces of Classical Music",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Jacques%20Offenbach",
+      "track_url": "https://www.last.fm/music/Jacques+Offenbach/_/The+Tales+of+Hoffmann:+Barcarolle",
+      "graduated": false
+    },
+    "waylon jennings feat. jessi colter": {
+      "artist": "Waylon Jennings feat. Jessi Colter",
+      "first_discovered": "16 Nov 2026, 07:45",
+      "last_listened": "16 Nov 2026, 07:45",
+      "track": "Honky Tonk Angels",
+      "album": "Live From Austin TX",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Waylon%20Jennings%20feat.%20Jessi%20Colter",
+      "track_url": "https://www.last.fm/music/Waylon+Jennings+feat.+Jessi+Colter/_/Honky+Tonk+Angels",
+      "graduated": false
+    },
+    "jason derülo": {
+      "artist": "Jason Derülo",
+      "first_discovered": "16 Nov 2026, 07:42",
+      "last_listened": "16 Nov 2026, 07:42",
+      "track": "Closer To Christmas",
+      "album": "Vacanze Di Natale 2023",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Jason%20Der%C3%BClo",
+      "track_url": "https://www.last.fm/music/Jason+Der%C3%BClo/_/Closer+To+Christmas",
+      "graduated": false
+    },
+    "run-d.m.c. feat. aerosmith": {
+      "artist": "Run-D.M.C. feat. Aerosmith",
+      "first_discovered": "16 Nov 2026, 07:39",
+      "last_listened": "16 Nov 2026, 07:39",
+      "track": "Walk This Way",
+      "album": "80s 100 Hits",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Run-D.M.C.%20feat.%20Aerosmith",
+      "track_url": "https://www.last.fm/music/Run-D.M.C.+feat.+Aerosmith/_/Walk+This+Way",
+      "graduated": false
+    },
+    "the cure/danny briottet/rico conning": {
+      "artist": "The Cure/Danny Briottet/Rico Conning",
+      "first_discovered": "16 Nov 2026, 07:31",
+      "last_listened": "16 Nov 2026, 07:31",
+      "track": "And Nothing Is Forever (Danny Briottet & Rico Conning Remix)",
+      "album": "Mixes Of A Lost World",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/The%20Cure%2FDanny%20Briottet%2FRico%20Conning",
+      "track_url": "https://www.last.fm/music/The+Cure%2FDanny+Briottet%2FRico+Conning/_/And+Nothing+Is+Forever+%28Danny+Briottet+%26+Rico+Conning+Remix%29",
+      "graduated": false
+    },
+    "johnny cash/june carter": {
+      "artist": "Johnny Cash/June Carter",
+      "first_discovered": "16 Nov 2026, 07:26",
+      "last_listened": "16 Nov 2026, 07:26",
+      "track": "long-legged guitar pickin' man",
+      "album": "Man In Black: The Best Of Johnny Cash",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Johnny%20Cash%2FJune%20Carter",
+      "track_url": "https://www.last.fm/music/Johnny+Cash%2FJune+Carter/_/long-legged+guitar+pickin'+man",
+      "graduated": false
+    },
+    "al jarreau": {
+      "artist": "Al Jarreau",
+      "first_discovered": "16 Nov 2026, 07:20",
+      "last_listened": "16 Nov 2026, 07:20",
+      "track": "White Christmas",
+      "album": "Weihnachtsmusik: 111 Weihnachtslieder",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Al%20Jarreau",
+      "track_url": "https://www.last.fm/music/Al+Jarreau/_/White+Christmas",
+      "graduated": false
+    },
+    "waylon jennings & the waylors": {
+      "artist": "Waylon Jennings & The Waylors",
+      "first_discovered": "16 Nov 2026, 07:18",
+      "last_listened": "16 Nov 2026, 07:18",
+      "track": "If The Shoe Fits",
+      "album": "Love Of The Common People",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Waylon%20Jennings%20%26%20The%20Waylors",
+      "track_url": "https://www.last.fm/music/Waylon+Jennings+%26+The+Waylors/_/If+The+Shoe+Fits",
+      "graduated": false
+    },
+    "the cure/brian \"chuck\" new": {
+      "artist": "The Cure/Brian \"Chuck\" New",
+      "first_discovered": "16 Nov 2026, 07:02",
+      "last_listened": "16 Nov 2026, 07:02",
+      "track": "The Caterpillar (Flicker Mix)",
+      "album": "Mixed Up",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/The%20Cure%2FBrian%20%22Chuck%22%20New",
+      "track_url": "https://www.last.fm/music/The+Cure%2FBrian+%22Chuck%22+New/_/The+Caterpillar+%28Flicker+Mix%29",
+      "graduated": false
+    },
+    "johnny cash/glen campbell/joey miskulin/mark howard/david ferguson": {
+      "artist": "Johnny Cash/Glen Campbell/Joey Miskulin/Mark Howard/David Ferguson",
+      "first_discovered": "16 Nov 2026, 06:51",
+      "last_listened": "16 Nov 2026, 06:51",
+      "track": "A Croft In Clachan (The Ballad Of Rob MacDunn)",
+      "album": "Water From The Wells Of Home",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Johnny%20Cash%2FGlen%20Campbell%2FJoey%20Miskulin%2FMark%20Howard%2FDavid%20Ferguson",
+      "track_url": "https://www.last.fm/music/Johnny+Cash%2FGlen+Campbell%2FJoey+Miskulin%2FMark+Howard%2FDavid+Ferguson/_/A+Croft+In+Clachan+%28The+Ballad+Of+Rob+MacDunn%29",
+      "graduated": false
+    },
+    "rob thomas/ingrid michaelson": {
+      "artist": "Rob Thomas/Ingrid Michaelson",
+      "first_discovered": "16 Nov 2026, 06:41",
+      "last_listened": "16 Nov 2026, 06:41",
+      "track": "Christmas Time",
+      "album": "Weihnachtsmusik: 111 Weihnachtslieder",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Rob%20Thomas%2FIngrid%20Michaelson",
+      "track_url": "https://www.last.fm/music/Rob+Thomas%2FIngrid+Michaelson/_/Christmas+Time",
+      "graduated": false
+    },
+    "jessie murph/maren morris": {
+      "artist": "Jessie Murph/Maren Morris",
+      "first_discovered": "16 Nov 2026, 06:37",
+      "last_listened": "16 Nov 2026, 06:37",
+      "track": "Texas",
+      "album": "Texas",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Jessie%20Murph%2FMaren%20Morris",
+      "track_url": "https://www.last.fm/music/Jessie+Murph%2FMaren+Morris/_/Texas",
+      "graduated": false
+    },
+    "michael penn": {
+      "artist": "Michael Penn",
+      "first_discovered": "16 Nov 2026, 06:21",
+      "last_listened": "16 Nov 2026, 06:21",
+      "track": "No Myth",
+      "album": "Dinner With Friends",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Michael%20Penn",
+      "track_url": "https://www.last.fm/music/Michael+Penn/_/No+Myth",
+      "graduated": false
+    },
+    "bob's burgers, dan mintz, kristen schaal, eugene mirman, ron lynch, sam seder, john dylan keith & loren bouchard": {
+      "artist": "Bob's Burgers, Dan Mintz, Kristen Schaal, Eugene Mirman, Ron Lynch, Sam Seder, John Dylan Keith & Loren Bouchard",
+      "first_discovered": "16 Nov 2026, 06:19",
+      "last_listened": "16 Nov 2026, 06:19",
+      "track": "It's Called Fate (And It's Great)",
+      "album": "The Bob's Burgers Music Album",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Bob%27s%20Burgers%2C%20Dan%20Mintz%2C%20Kristen%20Schaal%2C%20Eugene%20Mirman%2C%20Ron%20Lynch%2C%20Sam%20Seder%2C%20John%20Dylan%20Keith%20%26%20Loren%20Bouchard",
+      "track_url": "https://www.last.fm/music/Bob's+Burgers%2C+Dan+Mintz%2C+Kristen+Schaal%2C+Eugene+Mirman%2C+Ron+Lynch%2C+Sam+Seder%2C+John+Dylan+Keith+%26+Loren+Bouchard/_/It's+Called+Fate+%28And+It's+Great%29",
+      "graduated": false
+    },
+    "t bone burnett": {
+      "artist": "T Bone Burnett",
+      "first_discovered": "16 Nov 2026, 06:02",
+      "last_listened": "16 Nov 2026, 06:02",
+      "track": "Jellico Coal Man",
+      "album": "Johnny Cash: Forever Words Expanded",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/T%20Bone%20Burnett",
+      "track_url": "https://www.last.fm/music/T+Bone+Burnett/_/Jellico+Coal+Man",
+      "graduated": false
+    },
+    "u2/johnny cash": {
+      "artist": "U2/Johnny Cash",
+      "first_discovered": "16 Nov 2026, 05:53",
+      "last_listened": "16 Nov 2026, 05:53",
+      "track": "The Wanderer (From “Faraway, So Close!” Soundtrack)",
+      "album": "Complete Mercury Albums 1986-1991",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/U2%2FJohnny%20Cash",
+      "track_url": "https://www.last.fm/music/U2%2FJohnny+Cash/_/The+Wanderer+%28From+%E2%80%9CFaraway%2C+So+Close%21%E2%80%9D+Soundtrack%29",
+      "graduated": false
+    },
+    "the cure/francois kevorkian/ron st. germain": {
+      "artist": "The Cure/Francois Kevorkian/Ron St. Germain",
+      "first_discovered": "16 Nov 2026, 05:31",
+      "last_listened": "16 Nov 2026, 05:31",
+      "track": "Hot Hot Hot!!! (Extended Mix; 2018 Remaster)",
+      "album": "Mixed Up (Deluxe Edition)",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/The%20Cure%2FFrancois%20Kevorkian%2FRon%20St.%20Germain",
+      "track_url": "https://www.last.fm/music/The+Cure%2FFrancois+Kevorkian%2FRon+St.+Germain/_/Hot+Hot+Hot%21%21%21+%28Extended+Mix%3B+2018+Remaster%29",
+      "graduated": false
+    },
+    "modern talking": {
+      "artist": "Modern Talking",
+      "first_discovered": "16 Nov 2026, 05:27",
+      "last_listened": "16 Nov 2026, 05:27",
+      "track": "You're my heart, you're my soul (Mix '84)",
+      "album": "80s 100 Hits",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Modern%20Talking",
+      "track_url": "https://www.last.fm/music/Modern+Talking/_/You're+my+heart%2C+you're+my+soul+%28Mix+'84%29",
+      "graduated": false
+    },
+    "johann pachelbel": {
+      "artist": "Johann Pachelbel",
+      "first_discovered": "16 Nov 2026, 05:24",
+      "last_listened": "16 Nov 2026, 05:24",
+      "track": "Canon in D Major",
+      "album": "The 100 Most Essential Pieces of Classical Music",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Johann%20Pachelbel",
+      "track_url": "https://www.last.fm/music/Johann+Pachelbel/_/Canon+in+D+Major",
+      "graduated": false
+    },
+    "dionne warwick with lisa tucker": {
+      "artist": "Dionne Warwick with Lisa Tucker",
+      "first_discovered": "16 Nov 2026, 05:20",
+      "last_listened": "16 Nov 2026, 05:20",
+      "track": "Then Came You",
+      "album": "My Friends & Me",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Dionne%20Warwick%20with%20Lisa%20Tucker",
+      "track_url": "https://www.last.fm/music/Dionne+Warwick+with+Lisa+Tucker/_/Then+Came+You",
+      "graduated": false
+    },
+    "willie nelson, waylon jennings, kris kristofferson & johnny cash": {
+      "artist": "Willie Nelson, Waylon Jennings, Kris Kristofferson & Johnny Cash",
+      "first_discovered": "16 Nov 2026, 05:17",
+      "last_listened": "16 Nov 2026, 05:17",
+      "track": "Highwayman",
+      "album": "Nashville Rebel",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Willie%20Nelson%2C%20Waylon%20Jennings%2C%20Kris%20Kristofferson%20%26%20Johnny%20Cash",
+      "track_url": "https://www.last.fm/music/Willie+Nelson%2C+Waylon+Jennings%2C+Kris+Kristofferson+%26+Johnny+Cash/_/Highwayman",
+      "graduated": false
+    },
+    "bob's burgers, john roberts & h. jon benjamin": {
+      "artist": "Bob's Burgers, John Roberts & H. Jon Benjamin",
+      "first_discovered": "16 Nov 2026, 05:16",
+      "last_listened": "16 Nov 2026, 05:16",
+      "track": "Lifting Up the Skirt of the Night",
+      "album": "The Bob's Burgers Music Album",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Bob%27s%20Burgers%2C%20John%20Roberts%20%26%20H.%20Jon%20Benjamin",
+      "track_url": "https://www.last.fm/music/Bob's+Burgers%2C+John+Roberts+%26+H.+Jon+Benjamin/_/Lifting+Up+the+Skirt+of+the+Night",
+      "graduated": false
+    },
+    "dean martin/paul weston": {
+      "artist": "Dean Martin/Paul Weston",
+      "first_discovered": "16 Nov 2026, 05:09",
+      "last_listened": "16 Nov 2026, 05:09",
+      "track": "I'm Gonna Paper All My Walls With Your Love Letters (Remastered)",
+      "album": "The Capitol Years",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Dean%20Martin%2FPaul%20Weston",
+      "track_url": "https://www.last.fm/music/Dean+Martin%2FPaul+Weston/_/I'm+Gonna+Paper+All+My+Walls+With+Your+Love+Letters+%28Remastered%29",
+      "graduated": false
+    },
+    "far corporation": {
+      "artist": "Far Corporation",
+      "first_discovered": "16 Nov 2026, 05:05",
+      "last_listened": "16 Nov 2026, 05:05",
+      "track": "Stairway to Heaven",
+      "album": "80s 100 Hits",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Far%20Corporation",
+      "track_url": "https://www.last.fm/music/Far+Corporation/_/Stairway+to+Heaven",
+      "graduated": false
+    },
+    "arnold katz": {
+      "artist": "Arnold Katz",
+      "first_discovered": "16 Nov 2026, 04:57",
+      "last_listened": "16 Nov 2026, 04:57",
+      "track": "A Midsummer Night's Dream, op. 61: III. Wedding March",
+      "album": "The 100 Most Essential Pieces of Classical Music",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Arnold%20Katz",
+      "track_url": "https://www.last.fm/music/Arnold+Katz/_/A+Midsummer+Night's+Dream%2C+op.+61:+III.+Wedding+March",
+      "graduated": false
+    },
+    "dieter thomas kuhn": {
+      "artist": "Dieter Thomas Kuhn",
+      "first_discovered": "16 Nov 2026, 04:54",
+      "last_listened": "16 Nov 2026, 04:54",
+      "track": "Feliz Navidad",
+      "album": "Christmas Chart Hits - Top 100 - Greatest Hits",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Dieter%20Thomas%20Kuhn",
+      "track_url": "https://www.last.fm/music/Dieter+Thomas+Kuhn/_/Feliz+Navidad",
+      "graduated": false
+    },
+    "dead or alive": {
+      "artist": "Dead or Alive",
+      "first_discovered": "16 Nov 2026, 04:45",
+      "last_listened": "16 Nov 2026, 04:45",
+      "track": "Brand New Lover (The Dust Monkey's Love Bubble Mix)",
+      "album": "Club Epic: A Collection of Classic Dance Mixes, Volume 5",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Dead%20or%20Alive",
+      "track_url": "https://www.last.fm/music/Dead+or+Alive/_/Brand+New+Lover+%28The+Dust+Monkey's+Love+Bubble+Mix%29",
+      "graduated": false
+    },
+    "gossip": {
+      "artist": "Gossip",
+      "first_discovered": "16 Nov 2026, 04:38",
+      "last_listened": "16 Nov 2026, 04:38",
+      "track": "(take back) the revolution",
+      "album": "True Colors",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Gossip",
+      "track_url": "https://www.last.fm/music/Gossip/_/%28take+back%29+the+revolution",
+      "graduated": false
+    },
+    "daniel powter": {
+      "artist": "Daniel Powter",
+      "first_discovered": "16 Nov 2026, 04:33",
+      "last_listened": "16 Nov 2026, 04:33",
+      "track": "Happy Xmas (War Is Over)",
+      "album": "Weihnachtsmusik: 111 Weihnachtslieder",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Daniel%20Powter",
+      "track_url": "https://www.last.fm/music/Daniel+Powter/_/Happy+Xmas+%28War+Is+Over%29",
+      "graduated": false
+    },
+    "elvis presley/carl perkins/jerry lee lewis/johnny cash": {
+      "artist": "Elvis Presley/Carl Perkins/Jerry Lee Lewis/Johnny Cash",
+      "first_discovered": "16 Nov 2026, 04:27",
+      "last_listened": "16 Nov 2026, 04:27",
+      "track": "Instrumental (Unknown)",
+      "album": "The Complete Million Dollar Quartet",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Elvis%20Presley%2FCarl%20Perkins%2FJerry%20Lee%20Lewis%2FJohnny%20Cash",
+      "track_url": "https://www.last.fm/music/Elvis+Presley%2FCarl+Perkins%2FJerry+Lee+Lewis%2FJohnny+Cash/_/Instrumental+%28Unknown%29",
+      "graduated": false
+    },
+    "the emotions": {
+      "artist": "The Emotions",
+      "first_discovered": "16 Nov 2026, 04:20",
+      "last_listened": "16 Nov 2026, 04:20",
+      "track": "So I Can Love You (Live)",
+      "album": "Voces De Divas",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/The%20Emotions",
+      "track_url": "https://www.last.fm/music/The+Emotions/_/So+I+Can+Love+You+%28Live%29",
+      "graduated": false
+    },
+    "rare earth": {
+      "artist": "Rare Earth",
+      "first_discovered": "16 Nov 2026, 04:17",
+      "last_listened": "16 Nov 2026, 04:17",
+      "track": "I Just Want To Celebrate",
+      "album": "Riding In Cars With Boys",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Rare%20Earth",
+      "track_url": "https://www.last.fm/music/Rare+Earth/_/I+Just+Want+To+Celebrate",
+      "graduated": false
+    },
+    "aerosmith/zakk cervini/julian gargiulo": {
+      "artist": "Aerosmith/Zakk Cervini/Julian Gargiulo",
+      "first_discovered": "16 Nov 2026, 04:13",
+      "last_listened": "16 Nov 2026, 04:13",
+      "track": "Make It (2024 Mix)",
+      "album": "Aerosmith (Legendary Expanded Edition)",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Aerosmith%2FZakk%20Cervini%2FJulian%20Gargiulo",
+      "track_url": "https://www.last.fm/music/Aerosmith%2FZakk+Cervini%2FJulian+Gargiulo/_/Make+It+%282024+Mix%29",
+      "graduated": false
+    },
+    "monifah": {
+      "artist": "Monifah",
+      "first_discovered": "16 Nov 2026, 04:08",
+      "last_listened": "16 Nov 2026, 04:08",
+      "track": "Nobody's Body",
+      "album": "To Wong Foo, Thanks For Everything! Julie Newmar",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Monifah",
+      "track_url": "https://www.last.fm/music/Monifah/_/Nobody's+Body",
+      "graduated": false
+    },
+    "the cure/ex-easter island head": {
+      "artist": "The Cure/Ex-Easter Island Head",
+      "first_discovered": "16 Nov 2026, 04:03",
+      "last_listened": "16 Nov 2026, 04:03",
+      "track": "Alone (Ex-Easter Island Head Remix)",
+      "album": "Mixes Of A Lost World",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/The%20Cure%2FEx-Easter%20Island%20Head",
+      "track_url": "https://www.last.fm/music/The+Cure%2FEx-Easter+Island+Head/_/Alone+%28Ex-Easter+Island+Head+Remix%29",
+      "graduated": false
+    },
+    "r.e.m. feat. q-tip": {
+      "artist": "R.E.M. Feat. Q-Tip",
+      "first_discovered": "16 Nov 2026, 03:55",
+      "last_listened": "16 Nov 2026, 03:55",
+      "track": "The Outsiders",
+      "album": "Around the Sun",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/R.E.M.%20Feat.%20Q-Tip",
+      "track_url": "https://www.last.fm/music/R.E.M.+Feat.+Q-Tip/_/The+Outsiders",
+      "graduated": false
+    },
+    "natalie": {
+      "artist": "Natalie",
+      "first_discovered": "16 Nov 2026, 03:50",
+      "last_listened": "16 Nov 2026, 03:50",
+      "track": "Call Me Up",
+      "album": "Voces De Divas",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Natalie",
+      "track_url": "https://www.last.fm/music/Natalie/_/Call+Me+Up",
+      "graduated": false
+    },
+    "johnny cash/june carter cash": {
+      "artist": "Johnny Cash/June Carter Cash",
+      "first_discovered": "16 Nov 2026, 03:48",
+      "last_listened": "16 Nov 2026, 03:48",
+      "track": "Help Me Make It Through the Night (Live at Channel DR-TV, Copenhagen, Denmark - September 1971)",
+      "album": "Man In Black: Live In Denmark 1971",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Johnny%20Cash%2FJune%20Carter%20Cash",
+      "track_url": "https://www.last.fm/music/Johnny+Cash%2FJune+Carter+Cash/_/Help+Me+Make+It+Through+the+Night+%28Live+at+Channel+DR-TV%2C+Copenhagen%2C+Denmark+-+September+1971%29",
+      "graduated": false
+    },
+    "cassie": {
+      "artist": "Cassie",
+      "first_discovered": "16 Nov 2026, 03:45",
+      "last_listened": "16 Nov 2026, 03:45",
+      "track": "Me & U (2016 Remaster)",
+      "album": "100 Greatest R&B Throwbacks",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Cassie",
+      "track_url": "https://www.last.fm/music/Cassie/_/Me+%26+U+%282016+Remaster%29",
+      "graduated": false
+    },
+    "ol' dirty bastard": {
+      "artist": "Ol' Dirty Bastard",
+      "first_discovered": "16 Nov 2026, 03:42",
+      "last_listened": "16 Nov 2026, 03:42",
+      "track": "Shimmy Shimmy Ya",
+      "album": "100 Greatest R&B Throwbacks",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Ol%27%20Dirty%20Bastard",
+      "track_url": "https://www.last.fm/music/Ol'+Dirty+Bastard/_/Shimmy+Shimmy+Ya",
+      "graduated": false
+    },
+    "the cure/65daysofstatic": {
+      "artist": "The Cure/65daysofstatic",
+      "first_discovered": "16 Nov 2026, 03:37",
+      "last_listened": "16 Nov 2026, 03:37",
+      "track": "All I Ever Am (65daysofstatic Remix)",
+      "album": "Mixes Of A Lost World",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/The%20Cure%2F65daysofstatic",
+      "track_url": "https://www.last.fm/music/The+Cure%2F65daysofstatic/_/All+I+Ever+Am+%2865daysofstatic+Remix%29",
+      "graduated": false
+    },
+    "viviane batidão": {
+      "artist": "VIVIANE BATIDÃO",
+      "first_discovered": "16 Nov 2026, 03:33",
+      "last_listened": "16 Nov 2026, 03:33",
+      "track": "LONGE DE MIM",
+      "album": "Sucessos",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/VIVIANE%20BATID%C3%83O",
+      "track_url": "https://www.last.fm/music/VIVIANE+BATID%C3%83O/_/LONGE+DE+MIM",
+      "graduated": false
+    },
+    "charles kelley/maren morris": {
+      "artist": "Charles Kelley/Maren Morris",
+      "first_discovered": "16 Nov 2026, 03:12",
+      "last_listened": "16 Nov 2026, 03:12",
+      "track": "Can't Be Alone Tonight",
+      "album": "Can't Be Alone Tonight",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Charles%20Kelley%2FMaren%20Morris",
+      "track_url": "https://www.last.fm/music/Charles+Kelley%2FMaren+Morris/_/Can't+Be+Alone+Tonight",
+      "graduated": false
+    },
+    "waylon jennings and the waymore blues band": {
+      "artist": "Waylon Jennings And The Waymore Blues Band",
+      "first_discovered": "16 Nov 2026, 03:04",
+      "last_listened": "16 Nov 2026, 03:04",
+      "track": "Never Say Die",
+      "album": "Never Say Die - The Complete Final Concert",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Waylon%20Jennings%20And%20The%20Waymore%20Blues%20Band",
+      "track_url": "https://www.last.fm/music/Waylon+Jennings+And+The+Waymore+Blues+Band/_/Never+Say+Die",
       "graduated": false
     }
   }
