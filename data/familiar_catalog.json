@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-17T02:27:53.978269-08:00",
+    "last_updated": "2026-11-18T01:57:26.388528-08:00",
     "username": "bonelifer",
-    "total_artists": 1373
+    "total_artists": 1377
   },
   "artists": {
     "rjd2, supastition": {
@@ -7348,10 +7348,10 @@
     "tiffany": {
       "artist": "Tiffany",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Tiffany",
-      "recent_track": "Starting Over (Unplugged)",
-      "recent_track_url": "https://www.last.fm/music/Tiffany/_/Starting+Over+%28Unplugged%29",
+      "recent_track": "Could've Been",
+      "recent_track_url": "https://www.last.fm/music/Tiffany/_/Could've+Been",
       "first_discovered": "29 Oct 2026, 02:48",
-      "last_seen": "29 Oct 2026, 02:48",
+      "last_seen": "18 Nov 2026, 01:45",
       "top_tracks": []
     },
     "lyfe jennings": {
@@ -11604,7 +11604,7 @@
       "recent_track": "Like a Soldier",
       "recent_track_url": "https://www.last.fm/music/Johnny+Cash%2FWillie+Nelson/_/Like+a+Soldier",
       "first_discovered": "15 Nov 2026, 17:53",
-      "last_seen": "15 Nov 2026, 17:53",
+      "last_seen": "18 Nov 2026, 01:33",
       "top_tracks": []
     },
     "jean-michel jarre": {
@@ -12366,10 +12366,46 @@
     "waylon jennings and the waymore blues band": {
       "artist": "Waylon Jennings And The Waymore Blues Band",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Waylon%20Jennings%20And%20The%20Waymore%20Blues%20Band",
-      "recent_track": "Never Say Die",
-      "recent_track_url": "https://www.last.fm/music/Waylon+Jennings+And+The+Waymore+Blues+Band/_/Never+Say+Die",
+      "recent_track": "Trouble Man",
+      "recent_track_url": "https://www.last.fm/music/Waylon+Jennings+And+The+Waymore+Blues+Band/_/Trouble+Man",
       "first_discovered": "16 Nov 2026, 03:04",
-      "last_seen": "16 Nov 2026, 03:04",
+      "last_seen": "18 Nov 2026, 01:38",
+      "top_tracks": []
+    },
+    "monica": {
+      "artist": "Monica",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Monica",
+      "recent_track": "Before You Walk Out Of My Life",
+      "recent_track_url": "https://www.last.fm/music/Monica/_/Before+You+Walk+Out+Of+My+Life",
+      "first_discovered": "18 Nov 2026, 01:53",
+      "last_seen": "18 Nov 2026, 01:53",
+      "top_tracks": []
+    },
+    "thalia": {
+      "artist": "Thalia",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Thalia",
+      "recent_track": "Tu Y Yo",
+      "recent_track_url": "https://www.last.fm/music/Thalia/_/Tu+Y+Yo",
+      "first_discovered": "18 Nov 2026, 01:28",
+      "last_seen": "18 Nov 2026, 01:28",
+      "top_tracks": []
+    },
+    "kris kristofferson & emmylou harris": {
+      "artist": "Kris Kristofferson & Emmylou Harris",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Kris%20Kristofferson%20%26%20Emmylou%20Harris",
+      "recent_track": "The Pilgrim: Chapter 33 (Live)",
+      "recent_track_url": "https://www.last.fm/music/Kris+Kristofferson+%26+Emmylou+Harris/_/The+Pilgrim:+Chapter+33+%28Live%29",
+      "first_discovered": "18 Nov 2026, 01:25",
+      "last_seen": "18 Nov 2026, 01:25",
+      "top_tracks": []
+    },
+    "locksmith": {
+      "artist": "Locksmith",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Locksmith",
+      "recent_track": "Far Beyond",
+      "recent_track_url": "https://www.last.fm/music/Locksmith/_/Far+Beyond",
+      "first_discovered": "17 Nov 2026, 20:56",
+      "last_seen": "17 Nov 2026, 20:56",
       "top_tracks": []
     }
   }

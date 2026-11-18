@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-17T02:27:51.696404-08:00",
+    "last_updated": "2026-11-18T01:57:23.458307-08:00",
     "username": "bonelifer",
-    "total_discoveries": 1443,
+    "total_discoveries": 1447,
     "total_graduated": 70
   },
   "catalog": {
@@ -8784,11 +8784,11 @@
     "tiffany": {
       "artist": "Tiffany",
       "first_discovered": "29 Oct 2026, 02:48",
-      "last_listened": "29 Oct 2026, 02:48",
-      "track": "Starting Over (Unplugged)",
-      "album": "Pieces of Me",
+      "last_listened": "18 Nov 2026, 01:45",
+      "track": "Could've Been",
+      "album": "Pure 80's Love: The #1 Hits",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Tiffany",
-      "track_url": "https://www.last.fm/music/Tiffany/_/Starting+Over+%28Unplugged%29",
+      "track_url": "https://www.last.fm/music/Tiffany/_/Could've+Been",
       "graduated": false
     },
     "lyfe jennings": {
@@ -13504,7 +13504,7 @@
     "johnny cash/willie nelson": {
       "artist": "Johnny Cash/Willie Nelson",
       "first_discovered": "15 Nov 2026, 17:53",
-      "last_listened": "15 Nov 2026, 17:53",
+      "last_listened": "18 Nov 2026, 01:33",
       "track": "Like a Soldier",
       "album": "Unearthed",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Johnny%20Cash%2FWillie%20Nelson",
@@ -14354,11 +14354,51 @@
     "waylon jennings and the waymore blues band": {
       "artist": "Waylon Jennings And The Waymore Blues Band",
       "first_discovered": "16 Nov 2026, 03:04",
-      "last_listened": "16 Nov 2026, 03:04",
-      "track": "Never Say Die",
+      "last_listened": "18 Nov 2026, 01:38",
+      "track": "Trouble Man",
       "album": "Never Say Die - The Complete Final Concert",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Waylon%20Jennings%20And%20The%20Waymore%20Blues%20Band",
-      "track_url": "https://www.last.fm/music/Waylon+Jennings+And+The+Waymore+Blues+Band/_/Never+Say+Die",
+      "track_url": "https://www.last.fm/music/Waylon+Jennings+And+The+Waymore+Blues+Band/_/Trouble+Man",
+      "graduated": false
+    },
+    "monica": {
+      "artist": "Monica",
+      "first_discovered": "18 Nov 2026, 01:53",
+      "last_listened": "18 Nov 2026, 01:53",
+      "track": "Before You Walk Out Of My Life",
+      "album": "R&B Love Songs",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Monica",
+      "track_url": "https://www.last.fm/music/Monica/_/Before+You+Walk+Out+Of+My+Life",
+      "graduated": false
+    },
+    "thalia": {
+      "artist": "Thalia",
+      "first_discovered": "18 Nov 2026, 01:28",
+      "last_listened": "18 Nov 2026, 01:28",
+      "track": "Tu Y Yo",
+      "album": "Voces De Divas",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Thalia",
+      "track_url": "https://www.last.fm/music/Thalia/_/Tu+Y+Yo",
+      "graduated": false
+    },
+    "kris kristofferson & emmylou harris": {
+      "artist": "Kris Kristofferson & Emmylou Harris",
+      "first_discovered": "18 Nov 2026, 01:25",
+      "last_listened": "18 Nov 2026, 01:25",
+      "track": "The Pilgrim: Chapter 33 (Live)",
+      "album": "The Pilgrim: Chapter 33 (Live)",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Kris%20Kristofferson%20%26%20Emmylou%20Harris",
+      "track_url": "https://www.last.fm/music/Kris+Kristofferson+%26+Emmylou+Harris/_/The+Pilgrim:+Chapter+33+%28Live%29",
+      "graduated": false
+    },
+    "locksmith": {
+      "artist": "Locksmith",
+      "first_discovered": "17 Nov 2026, 20:56",
+      "last_listened": "17 Nov 2026, 20:56",
+      "track": "Far Beyond",
+      "album": "Happy Days Vol 3",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Locksmith",
+      "track_url": "https://www.last.fm/music/Locksmith/_/Far+Beyond",
       "graduated": false
     }
   }
