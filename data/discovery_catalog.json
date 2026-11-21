@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-20T01:53:17.222953-08:00",
+    "last_updated": "2026-11-21T01:29:06.165346-08:00",
     "username": "bonelifer",
-    "total_discoveries": 1502,
+    "total_discoveries": 1518,
     "total_graduated": 70
   },
   "catalog": {
@@ -480,13 +480,13 @@
     "pet shop boys": {
       "artist": "Pet Shop Boys",
       "first_discovered": "21 Feb 2026, 18:20",
-      "last_listened": "23 Oct 2026, 19:47",
-      "track": "The schlager hit parade",
+      "last_listened": "20 Nov 2026, 12:04",
+      "track": "Only the dark",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Pet%20Shop%20Boys",
-      "track_url": "https://www.last.fm/music/Pet+Shop+Boys/_/The+schlager+hit+parade",
+      "track_url": "https://www.last.fm/music/Pet+Shop+Boys/_/Only+the+dark",
       "graduated": true,
       "graduated_date": "2026-02-26T20:03:59.474048-08:00",
-      "album": "Nonetheless"
+      "album": "Hotspot"
     },
     "duran duran": {
       "artist": "Duran Duran",
@@ -2194,9 +2194,9 @@
     "don mclean": {
       "artist": "Don McLean",
       "first_discovered": "29 Apr 2026, 14:44",
-      "last_listened": "09 Nov 2026, 21:08",
+      "last_listened": "20 Nov 2026, 15:40",
       "track": "Vincent",
-      "album": "AM Gold: The Early ’70s",
+      "album": "American Pie",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/Don%20McLean",
       "track_url": "https://www.last.fm/music/Don+McLean/_/Vincent",
       "graduated": false
@@ -6212,11 +6212,11 @@
     "richard marx": {
       "artist": "Richard Marx",
       "first_discovered": "27 Oct 2026, 16:48",
-      "last_listened": "15 Nov 2026, 00:11",
-      "track": "Only A Memory",
+      "last_listened": "20 Nov 2026, 14:50",
+      "track": "Believe In Me",
       "album": "Songwriter",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Richard%20Marx",
-      "track_url": "https://www.last.fm/music/Richard+Marx/_/Only+A+Memory",
+      "track_url": "https://www.last.fm/music/Richard+Marx/_/Believe+In+Me",
       "graduated": false
     },
     "bette midler": {
@@ -6512,11 +6512,11 @@
     "audra mae": {
       "artist": "Audra Mae",
       "first_discovered": "25 Oct 2026, 13:33",
-      "last_listened": "28 Oct 2026, 16:29",
-      "track": "Forever Young (From \"Sons of Anarchy\"/A Cappella)",
-      "album": "Forever Young (From \"Sons of Anarchy\")",
+      "last_listened": "20 Nov 2026, 14:53",
+      "track": "Nowadays",
+      "album": "Nowadays",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Audra%20Mae",
-      "track_url": "https://www.last.fm/music/Audra+Mae/_/Forever+Young+%28From+%22Sons+of+Anarchy%22%2FA+Cappella%29",
+      "track_url": "https://www.last.fm/music/Audra+Mae/_/Nowadays",
       "graduated": false
     },
     "p!nk": {
@@ -6562,11 +6562,11 @@
     "nonpoint": {
       "artist": "Nonpoint",
       "first_discovered": "25 Oct 2026, 08:59",
-      "last_listened": "18 Nov 2026, 16:22",
-      "track": "pARALYZEd",
+      "last_listened": "20 Nov 2026, 17:32",
+      "track": "Position One",
       "album": "X (Deluxe Edition)",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Nonpoint",
-      "track_url": "https://www.last.fm/music/Nonpoint/_/pARALYZEd",
+      "track_url": "https://www.last.fm/music/Nonpoint/_/Position+One",
       "graduated": false
     },
     "todd rundgren/utopia": {
@@ -6612,11 +6612,11 @@
     "primus": {
       "artist": "Primus",
       "first_discovered": "25 Oct 2026, 07:27",
-      "last_listened": "25 Oct 2026, 07:27",
-      "track": "The Valley",
+      "last_listened": "20 Nov 2026, 11:11",
+      "track": "The Ends?",
       "album": "The Desaturating Seven",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Primus",
-      "track_url": "https://www.last.fm/music/Primus/_/The+Valley",
+      "track_url": "https://www.last.fm/music/Primus/_/The+Ends%3F",
       "graduated": false
     },
     "the lumineers": {
@@ -6662,11 +6662,11 @@
     "merle haggard and willie nelson": {
       "artist": "Merle Haggard And Willie Nelson",
       "first_discovered": "25 Oct 2026, 05:30",
-      "last_listened": "05 Nov 2026, 00:28",
-      "track": "Pancho & Lefty",
-      "album": "[standalone recordings]",
+      "last_listened": "20 Nov 2026, 15:30",
+      "track": "Half a Man",
+      "album": "Pancho & Lefty",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Merle%20Haggard%20And%20Willie%20Nelson",
-      "track_url": "https://www.last.fm/music/Merle+Haggard+And+Willie+Nelson/_/Pancho+%26+Lefty",
+      "track_url": "https://www.last.fm/music/Merle+Haggard+And+Willie+Nelson/_/Half+a+Man",
       "graduated": false
     },
     "sex pistols": {
@@ -6682,11 +6682,11 @@
     "first to eleven": {
       "artist": "First to Eleven",
       "first_discovered": "25 Oct 2026, 04:44",
-      "last_listened": "18 Nov 2026, 14:47",
-      "track": "Baba O'Riley",
-      "album": "Covers, Vol. 18",
+      "last_listened": "20 Nov 2026, 16:06",
+      "track": "Song 2",
+      "album": "Covers, Vol. 11",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/First%20to%20Eleven",
-      "track_url": "https://www.last.fm/music/First+to+Eleven/_/Baba+O'Riley",
+      "track_url": "https://www.last.fm/music/First+to+Eleven/_/Song+2",
       "graduated": false
     },
     "the head and the heart": {
@@ -7263,11 +7263,11 @@
     "the goo goo dolls": {
       "artist": "The Goo Goo Dolls",
       "first_discovered": "23 Oct 2026, 20:22",
-      "last_listened": "13 Nov 2026, 12:05",
-      "track": "Hark! the Herald Angels Sing",
-      "album": "It’s Christmas All Over (Again)",
+      "last_listened": "20 Nov 2026, 13:48",
+      "track": "Rough Boys",
+      "album": "Something for the Rest of Us (Deluxe Version)",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/The%20Goo%20Goo%20Dolls",
-      "track_url": "https://www.last.fm/music/The+Goo+Goo+Dolls/_/Hark%21+the+Herald+Angels+Sing",
+      "track_url": "https://www.last.fm/music/The+Goo+Goo+Dolls/_/Rough+Boys",
       "graduated": false
     },
     "todd snider": {
@@ -7533,11 +7533,11 @@
     "the b‐52s": {
       "artist": "The B‐52s",
       "first_discovered": "23 Oct 2026, 03:45",
-      "last_listened": "10 Nov 2026, 03:08",
-      "track": "Junebug",
+      "last_listened": "20 Nov 2026, 15:26",
+      "track": "Deadbeat Club",
       "album": "Cosmic Thing",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/The%20B%E2%80%9052s",
-      "track_url": "https://www.last.fm/music/The+B%E2%80%9052s/_/Junebug",
+      "track_url": "https://www.last.fm/music/The+B%E2%80%9052s/_/Deadbeat+Club",
       "graduated": false
     },
     "urge overkill": {
@@ -8084,11 +8084,11 @@
     "the vapors": {
       "artist": "The Vapors",
       "first_discovered": "21 Oct 2026, 21:37",
-      "last_listened": "21 Oct 2026, 21:37",
-      "track": "Those Tears",
+      "last_listened": "20 Nov 2026, 14:46",
+      "track": "Nuclear Nights",
       "album": "Together",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/The%20Vapors",
-      "track_url": "https://www.last.fm/music/The+Vapors/_/Those+Tears",
+      "track_url": "https://www.last.fm/music/The+Vapors/_/Nuclear+Nights",
       "graduated": false
     },
     "autograf feat. lils": {
@@ -8384,11 +8384,11 @@
     "josh groban": {
       "artist": "Josh Groban",
       "first_discovered": "28 Oct 2026, 22:17",
-      "last_listened": "05 Nov 2026, 14:16",
-      "track": "You Raise Me Up",
-      "album": "Closer",
+      "last_listened": "20 Nov 2026, 16:50",
+      "track": "You Are Loved (Don’t Give Up)",
+      "album": "Awake",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Josh%20Groban",
-      "track_url": "https://www.last.fm/music/Josh+Groban/_/You+Raise+Me+Up",
+      "track_url": "https://www.last.fm/music/Josh+Groban/_/You+Are+Loved+%28Don%E2%80%99t+Give+Up%29",
       "graduated": false
     },
     "dolly parton & lorrie morgan": {
@@ -10624,11 +10624,11 @@
     "rubenstein, chicago symphony, moffo, american symphony orchestra": {
       "artist": "Rubenstein, Chicago Symphony, Moffo, American Symphony Orchestra",
       "first_discovered": "03 Nov 2026, 02:51",
-      "last_listened": "10 Nov 2026, 03:50",
-      "track": "Variation VIII: Tempo I",
+      "last_listened": "20 Nov 2026, 13:21",
+      "track": "Adagio sostenuto",
       "album": "Rachmaninoff Piano Concerto No. 2",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Rubenstein%2C%20Chicago%20Symphony%2C%20Moffo%2C%20American%20Symphony%20Orchestra",
-      "track_url": "https://www.last.fm/music/Rubenstein%2C+Chicago+Symphony%2C+Moffo%2C+American+Symphony+Orchestra/_/Variation+VIII:+Tempo+I",
+      "track_url": "https://www.last.fm/music/Rubenstein%2C+Chicago+Symphony%2C+Moffo%2C+American+Symphony+Orchestra/_/Adagio+sostenuto",
       "graduated": false
     },
     "frankie carle & his orchestra, vocal by marjorie hughes": {
@@ -10734,11 +10734,11 @@
     "satin jackets": {
       "artist": "Satin Jackets",
       "first_discovered": "04 Nov 2026, 20:18",
-      "last_listened": "04 Nov 2026, 20:18",
-      "track": "Mirage",
-      "album": "Solar nights",
+      "last_listened": "20 Nov 2026, 18:00",
+      "track": "Somewhere In Paradise",
+      "album": "Somewhere In Paradise",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Satin%20Jackets",
-      "track_url": "https://www.last.fm/music/Satin+Jackets/_/Mirage",
+      "track_url": "https://www.last.fm/music/Satin+Jackets/_/Somewhere+In+Paradise",
       "graduated": false
     },
     "télépopmusik": {
@@ -10914,11 +10914,11 @@
     "take-off on rat pack": {
       "artist": "Take-off on Rat Pack",
       "first_discovered": "04 Nov 2026, 03:59",
-      "last_listened": "07 Nov 2026, 17:31",
-      "track": "It's Beginning To Look A Lot Like Christmas",
+      "last_listened": "20 Nov 2026, 17:39",
+      "track": "White Christmas",
       "album": "A Christmas In Vegas",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Take-off%20on%20Rat%20Pack",
-      "track_url": "https://www.last.fm/music/Take-off+on+Rat+Pack/_/It's+Beginning+To+Look+A+Lot+Like+Christmas",
+      "track_url": "https://www.last.fm/music/Take-off+on+Rat+Pack/_/White+Christmas",
       "graduated": false
     },
     "waylon jennings, willie nelson, johnny cash & kris kristofferson": {
@@ -11444,11 +11444,11 @@
     "sarah jarosz": {
       "artist": "Sarah Jarosz",
       "first_discovered": "07 Nov 2026, 22:22",
-      "last_listened": "08 Nov 2026, 21:08",
-      "track": "Mezcal And Lime",
-      "album": "Polaroid Lovers",
+      "last_listened": "20 Nov 2026, 18:44",
+      "track": "Mama (Reprise)",
+      "album": "Blue Heron Suite",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Sarah%20Jarosz",
-      "track_url": "https://www.last.fm/music/Sarah+Jarosz/_/Mezcal+And+Lime",
+      "track_url": "https://www.last.fm/music/Sarah+Jarosz/_/Mama+%28Reprise%29",
       "graduated": false
     },
     "jelly roll & struggle jennings": {
@@ -11594,11 +11594,11 @@
     "the waitresses": {
       "artist": "The Waitresses",
       "first_discovered": "08 Nov 2026, 23:55",
-      "last_listened": "08 Nov 2026, 23:55",
-      "track": "Redland",
-      "album": "Wasn’t Tomorrow Wonderful?",
+      "last_listened": "20 Nov 2026, 17:01",
+      "track": "Quit",
+      "album": "Just Desserts: The Complete Waitresses",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/The%20Waitresses",
-      "track_url": "https://www.last.fm/music/The+Waitresses/_/Redland",
+      "track_url": "https://www.last.fm/music/The+Waitresses/_/Quit",
       "graduated": false
     },
     "the phil collins big band": {
@@ -12754,11 +12754,11 @@
     "the supremes & four tops": {
       "artist": "The Supremes & Four Tops",
       "first_discovered": "12 Nov 2026, 02:36",
-      "last_listened": "12 Nov 2026, 02:36",
-      "track": "Poinciana",
+      "last_listened": "20 Nov 2026, 18:06",
+      "track": "Bring Back Your Love",
       "album": "Magnificent: The Complete Studio Duets",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/The%20Supremes%20%26%20Four%20Tops",
-      "track_url": "https://www.last.fm/music/The+Supremes+%26+Four+Tops/_/Poinciana",
+      "track_url": "https://www.last.fm/music/The+Supremes+%26+Four+Tops/_/Bring+Back+Your+Love",
       "graduated": false
     },
     "the yardbirds": {
@@ -12864,11 +12864,11 @@
     "alison krauss": {
       "artist": "Alison Krauss",
       "first_discovered": "13 Nov 2026, 20:52",
-      "last_listened": "13 Nov 2026, 20:52",
-      "track": "My Poor Old Heart",
-      "album": "Lonely Runs Both Ways",
+      "last_listened": "20 Nov 2026, 12:38",
+      "track": "Down to the River to Pray",
+      "album": "O Brother, Where Art Thou? Music From the Motion Picture",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Alison%20Krauss",
-      "track_url": "https://www.last.fm/music/Alison+Krauss/_/My+Poor+Old+Heart",
+      "track_url": "https://www.last.fm/music/Alison+Krauss/_/Down+to+the+River+to+Pray",
       "graduated": false
     },
     "brad paisley feat. president volodymyr zelenskyy": {
@@ -14949,6 +14949,166 @@
       "album": "The Bob's Burgers Music Album",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Bob%27s%20Burgers%20%26%20The%20National",
       "track_url": "https://www.last.fm/music/Bob's+Burgers+%26+The+National/_/Sailors+in+Your+Mouth+%28Bob's+Buskers%29",
+      "graduated": false
+    },
+    "midnight oil": {
+      "artist": "Midnight Oil",
+      "first_discovered": "20 Nov 2026, 17:51",
+      "last_listened": "20 Nov 2026, 17:51",
+      "track": "No Time For Games",
+      "album": "Armistice Day: Live At the Domain, Sydney",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Midnight%20Oil",
+      "track_url": "https://www.last.fm/music/Midnight+Oil/_/No+Time+For+Games",
+      "graduated": false
+    },
+    "musical youth": {
+      "artist": "Musical Youth",
+      "first_discovered": "20 Nov 2026, 16:46",
+      "last_listened": "20 Nov 2026, 16:46",
+      "track": "Pass the Dutchie",
+      "album": "The Youth of Today",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Musical%20Youth",
+      "track_url": "https://www.last.fm/music/Musical+Youth/_/Pass+the+Dutchie",
+      "graduated": false
+    },
+    "игорь фёдорович стравинский": {
+      "artist": "Игорь Фёдорович Стравинский",
+      "first_discovered": "20 Nov 2026, 16:33",
+      "last_listened": "20 Nov 2026, 16:33",
+      "track": "Ebony Concerto: III. Moderato - Con moto",
+      "album": "Stravinsky Conducts Stravinsky",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/%D0%98%D0%B3%D0%BE%D1%80%D1%8C%20%D0%A4%D1%91%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87%20%D0%A1%D1%82%D1%80%D0%B0%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9",
+      "track_url": "https://www.last.fm/music/%D0%98%D0%B3%D0%BE%D1%80%D1%8C+%D0%A4%D1%91%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87+%D0%A1%D1%82%D1%80%D0%B0%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9/_/Ebony+Concerto:+III.+Moderato+-+Con+moto",
+      "graduated": false
+    },
+    "joe williams": {
+      "artist": "Joe Williams",
+      "first_discovered": "20 Nov 2026, 16:10",
+      "last_listened": "20 Nov 2026, 16:10",
+      "track": "There's a Small Hotel",
+      "album": "American Songbook Series: Richard Rodgers & Lorenz Hart",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Joe%20Williams",
+      "track_url": "https://www.last.fm/music/Joe+Williams/_/There's+a+Small+Hotel",
+      "graduated": false
+    },
+    "kathy mattea": {
+      "artist": "Kathy Mattea",
+      "first_discovered": "20 Nov 2026, 15:54",
+      "last_listened": "20 Nov 2026, 15:54",
+      "track": "Eighteen Wheels and a Dozen Roses",
+      "album": "Untasted Honey",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Kathy%20Mattea",
+      "track_url": "https://www.last.fm/music/Kathy+Mattea/_/Eighteen+Wheels+and+a+Dozen+Roses",
+      "graduated": false
+    },
+    "peter tosh": {
+      "artist": "Peter Tosh",
+      "first_discovered": "20 Nov 2026, 15:50",
+      "last_listened": "20 Nov 2026, 15:50",
+      "track": "Crystal Ball",
+      "album": "The Best of Peter Tosh",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Peter%20Tosh",
+      "track_url": "https://www.last.fm/music/Peter+Tosh/_/Crystal+Ball",
+      "graduated": false
+    },
+    "adam calhoun & struggle jennings": {
+      "artist": "Adam Calhoun & Struggle Jennings",
+      "first_discovered": "20 Nov 2026, 15:43",
+      "last_listened": "20 Nov 2026, 15:43",
+      "track": "Audie Murphy",
+      "album": "Legend",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Adam%20Calhoun%20%26%20Struggle%20Jennings",
+      "track_url": "https://www.last.fm/music/Adam+Calhoun+%26+Struggle+Jennings/_/Audie+Murphy",
+      "graduated": false
+    },
+    "the supremes & diana ross": {
+      "artist": "The Supremes & Diana Ross",
+      "first_discovered": "20 Nov 2026, 15:03",
+      "last_listened": "20 Nov 2026, 15:03",
+      "track": "Love Hangover",
+      "album": "No.1 Diana Ross & THE Supremes",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/The%20Supremes%20%26%20Diana%20Ross",
+      "track_url": "https://www.last.fm/music/The+Supremes+%26+Diana+Ross/_/Love+Hangover",
+      "graduated": false
+    },
+    "kacey musgraves feat. zooey deschanel": {
+      "artist": "Kacey Musgraves feat. Zooey Deschanel",
+      "first_discovered": "20 Nov 2026, 14:22",
+      "last_listened": "20 Nov 2026, 14:22",
+      "track": "Mele Kalikimaka",
+      "album": "The Kacey Musgraves Christmas Show",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Kacey%20Musgraves%20feat.%20Zooey%20Deschanel",
+      "track_url": "https://www.last.fm/music/Kacey+Musgraves+feat.+Zooey+Deschanel/_/Mele+Kalikimaka",
+      "graduated": false
+    },
+    "claude king": {
+      "artist": "Claude King",
+      "first_discovered": "20 Nov 2026, 14:15",
+      "last_listened": "20 Nov 2026, 14:15",
+      "track": "Wolverton Mountain",
+      "album": "Leaving On A Jet Plane (Disc 3)",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Claude%20King",
+      "track_url": "https://www.last.fm/music/Claude+King/_/Wolverton+Mountain",
+      "graduated": false
+    },
+    "chris malinchak": {
+      "artist": "Chris Malinchak",
+      "first_discovered": "20 Nov 2026, 12:41",
+      "last_listened": "20 Nov 2026, 12:41",
+      "track": "So Good to Me (Radio Edit)",
+      "album": "So good to me (radio edit)",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Chris%20Malinchak",
+      "track_url": "https://www.last.fm/music/Chris+Malinchak/_/So+Good+to+Me+%28Radio+Edit%29",
+      "graduated": false
+    },
+    "jon pardi & midland": {
+      "artist": "Jon Pardi & Midland",
+      "first_discovered": "20 Nov 2026, 12:25",
+      "last_listened": "20 Nov 2026, 12:25",
+      "track": "Longneck Way To Go",
+      "album": "Mr. Saturday Night",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Jon%20Pardi%20%26%20Midland",
+      "track_url": "https://www.last.fm/music/Jon+Pardi+%26+Midland/_/Longneck+Way+To+Go",
+      "graduated": false
+    },
+    "frankie lymon & the teenagers": {
+      "artist": "Frankie Lymon & The Teenagers",
+      "first_discovered": "20 Nov 2026, 12:15",
+      "last_listened": "20 Nov 2026, 12:15",
+      "track": "Why Do Fools Fall in Love",
+      "album": "Let’s Have a Party",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Frankie%20Lymon%20%26%20The%20Teenagers",
+      "track_url": "https://www.last.fm/music/Frankie+Lymon+%26+The+Teenagers/_/Why+Do+Fools+Fall+in+Love",
+      "graduated": false
+    },
+    "janis joplin/jorma kaukonen": {
+      "artist": "Janis Joplin/Jorma Kaukonen",
+      "first_discovered": "20 Nov 2026, 11:34",
+      "last_listened": "20 Nov 2026, 11:34",
+      "track": "\"How 'Bout This?\"",
+      "album": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Janis%20Joplin%2FJorma%20Kaukonen",
+      "track_url": "https://www.last.fm/music/Janis+Joplin%2FJorma+Kaukonen/_/%22How+'Bout+This%3F%22",
+      "graduated": false
+    },
+    "magnolia park": {
+      "artist": "Magnolia Park",
+      "first_discovered": "20 Nov 2026, 11:34",
+      "last_listened": "20 Nov 2026, 11:34",
+      "track": "Halloween Tip 2",
+      "album": "Halloween Mixtape II",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Magnolia%20Park",
+      "track_url": "https://www.last.fm/music/Magnolia+Park/_/Halloween+Tip+2",
+      "graduated": false
+    },
+    "george birge": {
+      "artist": "George Birge",
+      "first_discovered": "20 Nov 2026, 03:47",
+      "last_listened": "20 Nov 2026, 03:47",
+      "track": "Mind on You",
+      "album": "",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/George%20Birge",
+      "track_url": "https://www.last.fm/music/George+Birge/_/Mind+on+You",
       "graduated": false
     }
   }
