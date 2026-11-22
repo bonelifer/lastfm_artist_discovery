@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-21T01:29:08.236188-08:00",
+    "last_updated": "2026-11-22T01:35:03.071954-08:00",
     "username": "bonelifer",
-    "total_artists": 1448
+    "total_artists": 1449
   },
   "artists": {
     "rjd2, supastition": {
@@ -13045,6 +13045,15 @@
       "recent_track_url": "https://www.last.fm/music/George+Birge/_/Mind+on+You",
       "first_discovered": "20 Nov 2026, 03:47",
       "last_seen": "20 Nov 2026, 03:47",
+      "top_tracks": []
+    },
+    "maynard ferguson": {
+      "artist": "Maynard Ferguson",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Maynard%20Ferguson",
+      "recent_track": "Give It One",
+      "recent_track_url": "https://www.last.fm/music/Maynard+Ferguson/_/Give+It+One",
+      "first_discovered": "21 Nov 2026, 07:26",
+      "last_seen": "21 Nov 2026, 07:26",
       "top_tracks": []
     }
   }
