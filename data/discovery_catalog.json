@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-21T01:29:06.165346-08:00",
+    "last_updated": "2026-11-22T01:34:59.355563-08:00",
     "username": "bonelifer",
-    "total_discoveries": 1518,
+    "total_discoveries": 1519,
     "total_graduated": 70
   },
   "catalog": {
@@ -15109,6 +15109,16 @@
       "album": "",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/George%20Birge",
       "track_url": "https://www.last.fm/music/George+Birge/_/Mind+on+You",
+      "graduated": false
+    },
+    "maynard ferguson": {
+      "artist": "Maynard Ferguson",
+      "first_discovered": "21 Nov 2026, 07:26",
+      "last_listened": "21 Nov 2026, 07:26",
+      "track": "Give It One",
+      "album": "M.F. Horn Two",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Maynard%20Ferguson",
+      "track_url": "https://www.last.fm/music/Maynard+Ferguson/_/Give+It+One",
       "graduated": false
     }
   }
