@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-22T01:34:59.355563-08:00",
+    "last_updated": "2026-11-23T02:33:13.545048-08:00",
     "username": "bonelifer",
-    "total_discoveries": 1519,
+    "total_discoveries": 1534,
     "total_graduated": 70
   },
   "catalog": {
@@ -502,13 +502,13 @@
     "the smiths": {
       "artist": "The Smiths",
       "first_discovered": "21 Feb 2026, 18:05",
-      "last_listened": "16 Nov 2026, 08:15",
-      "track": "Some Girls Are Bigger Than Others",
+      "last_listened": "22 Nov 2026, 12:18",
+      "track": "Stop Me If You Think You've Heard This One Before",
       "artist_url": "https://www.last.fm/user/sugarsmax/library/music/The%20Smiths",
-      "track_url": "https://www.last.fm/music/The+Smiths/_/Some+Girls+Are+Bigger+Than+Others",
+      "track_url": "https://www.last.fm/music/The+Smiths/_/Stop+Me+If+You+Think+You've+Heard+This+One+Before",
       "graduated": true,
       "graduated_date": "2026-02-26T20:03:59.474052-08:00",
-      "album": "Complete"
+      "album": "Strangeways, Here We Come"
     },
     "kajagoogoo": {
       "artist": "Kajagoogoo",
@@ -6632,11 +6632,11 @@
     "janet": {
       "artist": "Janet",
       "first_discovered": "25 Oct 2026, 06:59",
-      "last_listened": "04 Nov 2026, 19:46",
-      "track": "What’ll I Do",
-      "album": "Janet. (Deluxe)",
+      "last_listened": "22 Nov 2026, 22:23",
+      "track": "Get It Out Me",
+      "album": "20 Y.O.",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Janet",
-      "track_url": "https://www.last.fm/music/Janet/_/What%E2%80%99ll+I+Do",
+      "track_url": "https://www.last.fm/music/Janet/_/Get+It+Out+Me",
       "graduated": false
     },
     "prince and the revolution": {
@@ -6672,11 +6672,11 @@
     "sex pistols": {
       "artist": "Sex Pistols",
       "first_discovered": "25 Oct 2026, 05:26",
-      "last_listened": "14 Nov 2026, 23:32",
-      "track": "New York (Feat. Anarchy Interview)",
-      "album": "Music From: D.O.A",
+      "last_listened": "22 Nov 2026, 20:22",
+      "track": "Submission",
+      "album": "Spunk",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Sex%20Pistols",
-      "track_url": "https://www.last.fm/music/Sex+Pistols/_/New+York+%28Feat.+Anarchy+Interview%29",
+      "track_url": "https://www.last.fm/music/Sex+Pistols/_/Submission",
       "graduated": false
     },
     "first to eleven": {
@@ -7513,11 +7513,11 @@
     "neil young + lukas nelson & promise of the real": {
       "artist": "Neil Young + Lukas Nelson & Promise of the Real",
       "first_discovered": "23 Oct 2026, 04:36",
-      "last_listened": "23 Oct 2026, 04:36",
-      "track": "Wolf Moon",
+      "last_listened": "22 Nov 2026, 21:21",
+      "track": "Monsanto Years",
       "album": "The Monsanto Years",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Neil%20Young%20%2B%20Lukas%20Nelson%20%26%20Promise%20of%20the%20Real",
-      "track_url": "https://www.last.fm/music/Neil+Young+%2B+Lukas+Nelson+%26+Promise+of+the+Real/_/Wolf+Moon",
+      "track_url": "https://www.last.fm/music/Neil+Young+%2B+Lukas+Nelson+%26+Promise+of+the+Real/_/Monsanto+Years",
       "graduated": false
     },
     "matthew wilder": {
@@ -9094,11 +9094,11 @@
     "treaty oak revival": {
       "artist": "Treaty Oak Revival",
       "first_discovered": "31 Oct 2026, 20:43",
-      "last_listened": "16 Nov 2026, 06:10",
-      "track": "Fishnets (Talco Tapes Version)",
-      "album": "The Talco Tapes",
+      "last_listened": "22 Nov 2026, 11:45",
+      "track": "Bad State of Mind",
+      "album": "West Texas Degenerate",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Treaty%20Oak%20Revival",
-      "track_url": "https://www.last.fm/music/Treaty+Oak+Revival/_/Fishnets+%28Talco+Tapes+Version%29",
+      "track_url": "https://www.last.fm/music/Treaty+Oak+Revival/_/Bad+State+of+Mind",
       "graduated": false
     },
     "sublime": {
@@ -9114,11 +9114,11 @@
     "johnny cash/the tennessee two": {
       "artist": "Johnny Cash/The Tennessee Two",
       "first_discovered": "31 Oct 2026, 09:13",
-      "last_listened": "31 Oct 2026, 09:13",
-      "track": "My Treasure",
-      "album": "The Man, The World, His Music",
+      "last_listened": "22 Nov 2026, 13:00",
+      "track": "I Heard That Lonesome Whistle",
+      "album": "With His Hot and Blue Guitar",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Johnny%20Cash%2FThe%20Tennessee%20Two",
-      "track_url": "https://www.last.fm/music/Johnny+Cash%2FThe+Tennessee+Two/_/My+Treasure",
+      "track_url": "https://www.last.fm/music/Johnny+Cash%2FThe+Tennessee+Two/_/I+Heard+That+Lonesome+Whistle",
       "graduated": false
     },
     "shel silverstein": {
@@ -9494,11 +9494,11 @@
     "bonnie tyler": {
       "artist": "Bonnie Tyler",
       "first_discovered": "01 Nov 2026, 08:23",
-      "last_listened": "15 Nov 2026, 19:17",
-      "track": "Total Eclipse of the Heart",
-      "album": "80s 100 Hits",
+      "last_listened": "22 Nov 2026, 20:52",
+      "track": "Total Eclipse of the Heart (single version)",
+      "album": "The Very Best of Bonnie Tyler",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Bonnie%20Tyler",
-      "track_url": "https://www.last.fm/music/Bonnie+Tyler/_/Total+Eclipse+of+the+Heart",
+      "track_url": "https://www.last.fm/music/Bonnie+Tyler/_/Total+Eclipse+of+the+Heart+%28single+version%29",
       "graduated": false
     },
     "cock robin": {
@@ -10374,11 +10374,11 @@
     "the replacements": {
       "artist": "The Replacements",
       "first_discovered": "03 Nov 2026, 17:54",
-      "last_listened": "19 Nov 2026, 05:12",
-      "track": "We Know The Night",
-      "album": "All for Nothing/Nothing for All",
+      "last_listened": "22 Nov 2026, 13:24",
+      "track": "Lost Highway",
+      "album": "Songs For Slim",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/The%20Replacements",
-      "track_url": "https://www.last.fm/music/The+Replacements/_/We+Know+The+Night",
+      "track_url": "https://www.last.fm/music/The+Replacements/_/Lost+Highway",
       "graduated": false
     },
     "the stranglers": {
@@ -10394,11 +10394,11 @@
     "hüsker dü": {
       "artist": "Hüsker Dü",
       "first_discovered": "03 Nov 2026, 17:37",
-      "last_listened": "03 Nov 2026, 17:37",
-      "track": "Eight Miles High",
-      "album": "1985: The Miracle Year",
+      "last_listened": "22 Nov 2026, 13:51",
+      "track": "Hare Krsna",
+      "album": "Zen Arcade",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/H%C3%BCsker%20D%C3%BC",
-      "track_url": "https://www.last.fm/music/H%C3%BCsker+D%C3%BC/_/Eight+Miles+High",
+      "track_url": "https://www.last.fm/music/H%C3%BCsker+D%C3%BC/_/Hare+Krsna",
       "graduated": false
     },
     "adam and the ants": {
@@ -14594,11 +14594,11 @@
     "johnny cash/waylon jennings": {
       "artist": "Johnny Cash/Waylon Jennings",
       "first_discovered": "18 Nov 2026, 03:39",
-      "last_listened": "18 Nov 2026, 03:39",
-      "track": "Folks Out on the Road",
-      "album": "Heroes",
+      "last_listened": "22 Nov 2026, 12:56",
+      "track": "There Ain't No Good Chain Gang (with Waylon Jennings)",
+      "album": "American Remains: The Best of Johnny Cash",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Johnny%20Cash%2FWaylon%20Jennings",
-      "track_url": "https://www.last.fm/music/Johnny+Cash%2FWaylon+Jennings/_/Folks+Out+on+the+Road",
+      "track_url": "https://www.last.fm/music/Johnny+Cash%2FWaylon+Jennings/_/There+Ain't+No+Good+Chain+Gang+%28with+Waylon+Jennings%29",
       "graduated": false
     },
     "the carter family": {
@@ -15119,6 +15119,156 @@
       "album": "M.F. Horn Two",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Maynard%20Ferguson",
       "track_url": "https://www.last.fm/music/Maynard+Ferguson/_/Give+It+One",
+      "graduated": false
+    },
+    "swv": {
+      "artist": "SWV",
+      "first_discovered": "23 Nov 2026, 01:22",
+      "last_listened": "23 Nov 2026, 01:22",
+      "track": "Right Here",
+      "album": "Pure Dance ’94",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/SWV",
+      "track_url": "https://www.last.fm/music/SWV/_/Right+Here",
+      "graduated": false
+    },
+    "fortunes": {
+      "artist": "Fortunes",
+      "first_discovered": "23 Nov 2026, 00:55",
+      "last_listened": "23 Nov 2026, 00:55",
+      "track": "You've Got Your Troubles",
+      "album": "Time-Life - AM Gold - 1965",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Fortunes",
+      "track_url": "https://www.last.fm/music/Fortunes/_/You've+Got+Your+Troubles",
+      "graduated": false
+    },
+    "doug hammer": {
+      "artist": "Doug Hammer",
+      "first_discovered": "22 Nov 2026, 22:08",
+      "last_listened": "22 Nov 2026, 22:08",
+      "track": "When Christmas Comes to Town",
+      "album": "Noel",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Doug%20Hammer",
+      "track_url": "https://www.last.fm/music/Doug+Hammer/_/When+Christmas+Comes+to+Town",
+      "graduated": false
+    },
+    "lee peters & john lennon": {
+      "artist": "Lee Peters & John Lennon",
+      "first_discovered": "22 Nov 2026, 21:55",
+      "last_listened": "22 Nov 2026, 21:55",
+      "track": "Hello!",
+      "album": "On Air – Live at the BBC, Volume 2",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Lee%20Peters%20%26%20John%20Lennon",
+      "track_url": "https://www.last.fm/music/Lee+Peters+%26+John+Lennon/_/Hello%21",
+      "graduated": false
+    },
+    "jane’s addiction": {
+      "artist": "Jane’s Addiction",
+      "first_discovered": "22 Nov 2026, 21:40",
+      "last_listened": "22 Nov 2026, 21:40",
+      "track": "Just Because",
+      "album": "Strays",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Jane%E2%80%99s%20Addiction",
+      "track_url": "https://www.last.fm/music/Jane%E2%80%99s+Addiction/_/Just+Because",
+      "graduated": false
+    },
+    "janet jackson/miguel campbell": {
+      "artist": "Janet Jackson/Miguel Campbell",
+      "first_discovered": "22 Nov 2026, 21:30",
+      "last_listened": "22 Nov 2026, 21:30",
+      "track": "Dammn Baby (Miguel Campbell Club Remix)",
+      "album": "Dammn Baby (Miguel Campbell Remixes)",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Janet%20Jackson%2FMiguel%20Campbell",
+      "track_url": "https://www.last.fm/music/Janet+Jackson%2FMiguel+Campbell/_/Dammn+Baby+%28Miguel+Campbell+Club+Remix%29",
+      "graduated": false
+    },
+    "faodail": {
+      "artist": "Faodail",
+      "first_discovered": "22 Nov 2026, 21:05",
+      "last_listened": "22 Nov 2026, 21:05",
+      "track": "Bloom",
+      "album": "15 Years Of Enhanced Music, Mixed by Tritonal",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Faodail",
+      "track_url": "https://www.last.fm/music/Faodail/_/Bloom",
+      "graduated": false
+    },
+    "dee snider with jesse blaze snider": {
+      "artist": "Dee Snider with Jesse Blaze Snider",
+      "first_discovered": "22 Nov 2026, 14:15",
+      "last_listened": "22 Nov 2026, 14:15",
+      "track": "The Joint Is Jumpin'",
+      "album": "Dee Does Broadway",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Dee%20Snider%20with%20Jesse%20Blaze%20Snider",
+      "track_url": "https://www.last.fm/music/Dee+Snider+with+Jesse+Blaze+Snider/_/The+Joint+Is+Jumpin'",
+      "graduated": false
+    },
+    "backstreet boys": {
+      "artist": "Backstreet Boys",
+      "first_discovered": "22 Nov 2026, 14:12",
+      "last_listened": "22 Nov 2026, 14:12",
+      "track": "As Long as You Love Me",
+      "album": "21 Love Songs",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Backstreet%20Boys",
+      "track_url": "https://www.last.fm/music/Backstreet+Boys/_/As+Long+as+You+Love+Me",
+      "graduated": false
+    },
+    "thelonious monk/john coltrane": {
+      "artist": "Thelonious Monk/John Coltrane",
+      "first_discovered": "22 Nov 2026, 13:59",
+      "last_listened": "22 Nov 2026, 13:59",
+      "track": "Nutty",
+      "album": "Thelonious Monk with John Coltrane (OJC Remaster)",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Thelonious%20Monk%2FJohn%20Coltrane",
+      "track_url": "https://www.last.fm/music/Thelonious+Monk%2FJohn+Coltrane/_/Nutty",
+      "graduated": false
+    },
+    "roy drusky": {
+      "artist": "Roy Drusky",
+      "first_discovered": "22 Nov 2026, 12:53",
+      "last_listened": "22 Nov 2026, 12:53",
+      "track": "Jody And The Kid",
+      "album": "Singer / Songwriter",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Roy%20Drusky",
+      "track_url": "https://www.last.fm/music/Roy+Drusky/_/Jody+And+The+Kid",
+      "graduated": false
+    },
+    "pink sweat$": {
+      "artist": "Pink Sweat$",
+      "first_discovered": "22 Nov 2026, 12:37",
+      "last_listened": "22 Nov 2026, 12:37",
+      "track": "At My Worst",
+      "album": "100 Greatest R&B Throwbacks",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Pink%20Sweat%24",
+      "track_url": "https://www.last.fm/music/Pink+Sweat%24/_/At+My+Worst",
+      "graduated": false
+    },
+    "charley crockett": {
+      "artist": "Charley Crockett",
+      "first_discovered": "22 Nov 2026, 12:00",
+      "last_listened": "22 Nov 2026, 12:00",
+      "track": "The Hallelujah Trail",
+      "album": "",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Charley%20Crockett",
+      "track_url": "https://www.last.fm/music/Charley+Crockett/_/The+Hallelujah+Trail",
+      "graduated": false
+    },
+    "jean-michel jarre & christophe": {
+      "artist": "Jean-Michel Jarre & Christophe",
+      "first_discovered": "22 Nov 2026, 11:40",
+      "last_listened": "22 Nov 2026, 11:40",
+      "track": "Walking The Mile",
+      "album": "Electronica 2: The Heart of Noise",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Jean-Michel%20Jarre%20%26%20Christophe",
+      "track_url": "https://www.last.fm/music/Jean-Michel+Jarre+%26+Christophe/_/Walking+The+Mile",
+      "graduated": false
+    },
+    "canadian broadcasting corporation": {
+      "artist": "Canadian Broadcasting Corporation",
+      "first_discovered": "22 Nov 2026, 11:06",
+      "last_listened": "22 Nov 2026, 11:06",
+      "track": "Sean Cullen & Kari Johnson: Business ideas we hope never see the light of day!",
+      "album": "Laugh Out Loud",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Canadian%20Broadcasting%20Corporation",
+      "track_url": "https://www.last.fm/music/Canadian+Broadcasting+Corporation/_/Sean+Cullen+%26+Kari+Johnson:+Business+ideas+we+hope+never+see+the+light+of+day%21",
       "graduated": false
     }
   }
