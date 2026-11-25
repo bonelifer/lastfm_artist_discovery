@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-24T04:15:21.647617-08:00",
+    "last_updated": "2026-11-25T03:02:29.797582-08:00",
     "username": "bonelifer",
-    "total_discoveries": 1581,
+    "total_discoveries": 1586,
     "total_graduated": 71
   },
   "catalog": {
@@ -6623,11 +6623,11 @@
     "the lumineers": {
       "artist": "The Lumineers",
       "first_discovered": "25 Oct 2026, 07:08",
-      "last_listened": "05 Nov 2026, 19:24",
-      "track": "Long Way from Home",
+      "last_listened": "25 Nov 2026, 01:31",
+      "track": "Ophelia",
       "album": "Cleopatra",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/The%20Lumineers",
-      "track_url": "https://www.last.fm/music/The+Lumineers/_/Long+Way+from+Home",
+      "track_url": "https://www.last.fm/music/The+Lumineers/_/Ophelia",
       "graduated": false
     },
     "janet": {
@@ -6894,11 +6894,11 @@
     "mary j. blige": {
       "artist": "Mary J. Blige",
       "first_discovered": "24 Oct 2026, 07:35",
-      "last_listened": "05 Nov 2026, 00:13",
-      "track": "The Living Proof",
-      "album": "My Life II...The Journey Continues (Act 1)",
+      "last_listened": "25 Nov 2026, 02:33",
+      "track": "GMG Interlude",
+      "album": "Good Morning Gorgeous",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Mary%20J.%20Blige",
-      "track_url": "https://www.last.fm/music/Mary+J.+Blige/_/The+Living+Proof",
+      "track_url": "https://www.last.fm/music/Mary+J.+Blige/_/GMG+Interlude",
       "graduated": false
     },
     "lane 8": {
@@ -8125,11 +8125,11 @@
     "moby/the void pacific choir": {
       "artist": "Moby/The Void Pacific Choir",
       "first_discovered": "21 Oct 2026, 21:01",
-      "last_listened": "21 Oct 2026, 21:01",
-      "track": "A Simple Love",
+      "last_listened": "25 Nov 2026, 01:38",
+      "track": "And It Hurts",
       "album": "These Systems Are Failing",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Moby%2FThe%20Void%20Pacific%20Choir",
-      "track_url": "https://www.last.fm/music/Moby%2FThe+Void+Pacific+Choir/_/A+Simple+Love",
+      "track_url": "https://www.last.fm/music/Moby%2FThe+Void+Pacific+Choir/_/And+It+Hurts",
       "graduated": false
     },
     "benjamin orr": {
@@ -11916,11 +11916,11 @@
     "mannheim steamroller": {
       "artist": "Mannheim Steamroller",
       "first_discovered": "08 Nov 2026, 13:20",
-      "last_listened": "08 Nov 2026, 13:20",
-      "track": "Carol Of The Birds",
+      "last_listened": "25 Nov 2026, 01:12",
+      "track": "We Three Kings",
       "album": "Christmas",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Mannheim%20Steamroller",
-      "track_url": "https://www.last.fm/music/Mannheim+Steamroller/_/Carol+Of+The+Birds",
+      "track_url": "https://www.last.fm/music/Mannheim+Steamroller/_/We+Three+Kings",
       "graduated": false
     },
     "dj cummerbund": {
@@ -11936,11 +11936,11 @@
     "neil young with crazy horse": {
       "artist": "Neil Young with Crazy Horse",
       "first_discovered": "08 Nov 2026, 05:53",
-      "last_listened": "09 Nov 2026, 23:10",
-      "track": "How Ya Doin’?",
-      "album": "TOAST",
+      "last_listened": "25 Nov 2026, 02:01",
+      "track": "Bite The Bullet",
+      "album": "Way Down in the Rust Bucket",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Neil%20Young%20with%20Crazy%20Horse",
-      "track_url": "https://www.last.fm/music/Neil+Young+with+Crazy+Horse/_/How+Ya+Doin%E2%80%99%3F",
+      "track_url": "https://www.last.fm/music/Neil+Young+with+Crazy+Horse/_/Bite+The+Bullet",
       "graduated": false
     },
     "brantley gilbert, jamey johnson & alison krauss": {
@@ -12856,11 +12856,11 @@
     "john kay & steppenwolf": {
       "artist": "John Kay & Steppenwolf",
       "first_discovered": "13 Nov 2026, 21:04",
-      "last_listened": "14 Nov 2026, 21:52",
-      "track": "The Pusher",
-      "album": "Live In Louisville",
+      "last_listened": "25 Nov 2026, 02:10",
+      "track": "Rock 'n Roll War",
+      "album": "LIVE!",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/John%20Kay%20%26%20Steppenwolf",
-      "track_url": "https://www.last.fm/music/John+Kay+%26+Steppenwolf/_/The+Pusher",
+      "track_url": "https://www.last.fm/music/John+Kay+%26+Steppenwolf/_/Rock+'n+Roll+War",
       "graduated": false
     },
     "alison krauss": {
@@ -15741,6 +15741,56 @@
       "album": "Buddy Knox & Jimmy Bowen",
       "artist_url": "https://www.last.fm/user/bonelifer/library/music/Buddy%20Knox%20%26%20Jimmy%20Bowen",
       "track_url": "https://www.last.fm/music/Buddy+Knox+%26+Jimmy+Bowen/_/Stick+With+Me",
+      "graduated": false
+    },
+    "meat loaf feat. patti russo": {
+      "artist": "Meat Loaf feat. Patti Russo",
+      "first_discovered": "25 Nov 2026, 02:58",
+      "last_listened": "25 Nov 2026, 02:58",
+      "track": "California Dreamin’",
+      "album": "Hell in a Handbasket",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Meat%20Loaf%20feat.%20Patti%20Russo",
+      "track_url": "https://www.last.fm/music/Meat+Loaf+feat.+Patti+Russo/_/California+Dreamin%E2%80%99",
+      "graduated": false
+    },
+    "five satins": {
+      "artist": "Five Satins",
+      "first_discovered": "25 Nov 2026, 02:35",
+      "last_listened": "25 Nov 2026, 02:35",
+      "track": "In the Still of the Night",
+      "album": "Slow Dancing (disc 1)",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Five%20Satins",
+      "track_url": "https://www.last.fm/music/Five+Satins/_/In+the+Still+of+the+Night",
+      "graduated": false
+    },
+    "house of pain": {
+      "artist": "House of Pain",
+      "first_discovered": "25 Nov 2026, 00:42",
+      "last_listened": "25 Nov 2026, 00:42",
+      "track": "Jump Around",
+      "album": "House of Pain",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/House%20of%20Pain",
+      "track_url": "https://www.last.fm/music/House+of+Pain/_/Jump+Around",
+      "graduated": false
+    },
+    "brooklyn bounce": {
+      "artist": "Brooklyn Bounce",
+      "first_discovered": "25 Nov 2026, 00:39",
+      "last_listened": "25 Nov 2026, 00:39",
+      "track": "Get Ready to Bounce",
+      "album": "ESPN Jock Jams Vol.4",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Brooklyn%20Bounce",
+      "track_url": "https://www.last.fm/music/Brooklyn+Bounce/_/Get+Ready+to+Bounce",
+      "graduated": false
+    },
+    "vangelis": {
+      "artist": "Vangelis",
+      "first_discovered": "25 Nov 2026, 00:35",
+      "last_listened": "25 Nov 2026, 00:35",
+      "track": "Alpha",
+      "album": "Odyssey: The Definitive Collection",
+      "artist_url": "https://www.last.fm/user/bonelifer/library/music/Vangelis",
+      "track_url": "https://www.last.fm/music/Vangelis/_/Alpha",
       "graduated": false
     }
   }
